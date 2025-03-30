@@ -1,4 +1,3 @@
-// services/FileService.ts
 import fs from 'fs';
 import path from 'path';
 import * as parser from '@node-steam/vdf';
