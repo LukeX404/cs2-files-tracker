@@ -5,33 +5,33 @@ on:
     - cron: "0 7,21 * * *"
   workflow_dispatch:
 
-jobs: 
+jobs:
   download:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
-    
+
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Setup Node.js environment
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
-      
+          node-version: "18"
+
       - name: Install Dependencies
         run: npm install
 
       - name: Download new game files
         run: npm run dev '${{ secrets.USERNAME }}' '${{ secrets.PASSWORD }}'
-      
+
       - name: Read manifestId.txt
         id: manifestId
         uses: juliangruber/read-file-action@v1
         with:
           path: ./public/static/manifestId.txt
-      
+
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
