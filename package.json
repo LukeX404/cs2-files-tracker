@@ -1,6 +1,6 @@
 {
   "name": "cs2-files-tracker",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Counter Strike Files Tracker",
   "main": "dist/index.js",
   "keywords": [
