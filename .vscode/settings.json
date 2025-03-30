@@ -1,8 +1,8 @@
 {
-    "explorer.fileNesting.enabled": true,
-    "explorer.fileNesting.patterns": {
-      ".env": ".env.development, .env.production, .env.test, .env.example, .env.dev",
-      "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, tsconfig.json, .eslintrc.json, .gitignore, LICENSE",
-    },
-    "files.autoSave": "afterDelay",
-  }
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    ".env": ".env.development, .env.production, .env.test, .env.example, .env.dev",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, tsconfig.json, .eslintrc.json, .gitignore, LICENSE"
+  },
+  "files.autoSave": "afterDelay"
+}

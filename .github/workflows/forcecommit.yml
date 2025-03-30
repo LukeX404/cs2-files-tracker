@@ -1,7 +1,7 @@
 name: Configurar Git User
 
 on:
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   setup-git:
