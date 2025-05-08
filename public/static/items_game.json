@@ -29169,6 +29169,61 @@
                 },
                 "stickers": "agent"
             },
+            "5135": {
+                "name": "Map Token AgencyCS2",
+                "prefab": "map_token",
+                "item_name": "#CSGO_Collectible_MapTokenAgencyCS2",
+                "item_description": "#CSGO_Collectible_MapTokenAgencyCS2_Desc",
+                "image_inventory": "econ/status_icons/maptoken_agencycs2",
+                "map_name": "#SFUI_Map_cs_agency",
+                "attributes": {
+                    "pedestal display model": "models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+                }
+            },
+            "5136": {
+                "name": "Map Token Jura",
+                "prefab": "map_token",
+                "item_name": "#CSGO_Collectible_MapTokenJura",
+                "item_description": "#CSGO_Collectible_MapTokenJura_Desc",
+                "image_inventory": "econ/status_icons/maptoken_jura",
+                "map_name": "#SFUI_Map_de_jura",
+                "attributes": {
+                    "pedestal display model": "models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+                }
+            },
+            "5137": {
+                "name": "Map Token Grail",
+                "prefab": "map_token",
+                "item_name": "#CSGO_Collectible_MapTokenGrail",
+                "item_description": "#CSGO_Collectible_MapTokenGrail_Desc",
+                "image_inventory": "econ/status_icons/maptoken_grail",
+                "map_name": "#SFUI_Map_de_grail",
+                "attributes": {
+                    "pedestal display model": "models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+                }
+            },
+            "5138": {
+                "name": "Map Token Dogtown",
+                "prefab": "map_token",
+                "item_name": "#CSGO_Collectible_MapTokenDogtown",
+                "item_description": "#CSGO_Collectible_MapTokenDogtown_Desc",
+                "image_inventory": "econ/status_icons/maptoken_dogtown",
+                "map_name": "#SFUI_Map_de_dogtown",
+                "attributes": {
+                    "pedestal display model": "models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+                }
+            },
+            "5139": {
+                "name": "Map Token Brewery",
+                "prefab": "map_token",
+                "item_name": "#CSGO_Collectible_MapTokenBrewery",
+                "item_description": "#CSGO_Collectible_MapTokenBrewery_Desc",
+                "image_inventory": "econ/status_icons/maptoken_brewery",
+                "map_name": "#SFUI_Map_de_brewery",
+                "attributes": {
+                    "pedestal display model": "models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+                }
+            },
             "5200": {
                 "name": "customplayer_tm_phoenix",
                 "prefab": "customplayer",
@@ -153839,7 +153894,7 @@
             "931": {
                 "name": "placeholder_931",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 10,
                 "quest_icon": "awp",
                 "operational_points": 1,
@@ -154184,7 +154239,7 @@
             "949": {
                 "name": "placeholder_949",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 10,
                 "quest_icon": "nova",
                 "operational_points": 1,
@@ -154280,7 +154335,7 @@
             "954": {
                 "name": "placeholder_954",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 25,
                 "quest_icon": "nova",
                 "operational_points": 3,
@@ -154334,7 +154389,7 @@
             "957": {
                 "name": "placeholder_957",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 25,
                 "quest_icon": "negev",
                 "operational_points": 2,
@@ -154370,7 +154425,7 @@
             "959": {
                 "name": "placeholder_959",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 50,
                 "quest_icon": "test",
                 "operational_points": 3,
@@ -154413,7 +154468,7 @@
             "961": {
                 "name": "placeholder_961",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 20,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -154635,7 +154690,7 @@
             "972": {
                 "name": "placeholder_972",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 30,
                 "quest_icon": "test",
                 "operational_points": 3,
@@ -154769,7 +154824,7 @@
             "979": {
                 "name": "placeholder_979",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -154829,7 +154884,7 @@
             "982": {
                 "name": "placeholder_982",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 5,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -154925,7 +154980,7 @@
             "987": {
                 "name": "placeholder_987",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 5,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -154995,7 +155050,7 @@
             "991": {
                 "name": "placeholder_991",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 10,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -155109,7 +155164,7 @@
             "997": {
                 "name": "placeholder_997",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 5,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -155224,7 +155279,7 @@
             "1003": {
                 "name": "placeholder_1003",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 5,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -155320,7 +155375,7 @@
             "1008": {
                 "name": "placeholder_1008",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 200,
                 "quest_icon": "test",
                 "operational_points": 3,
@@ -155547,7 +155602,7 @@
             "1020": {
                 "name": "placeholder_1020",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 200,
                 "quest_icon": "test",
                 "operational_points": 3,
@@ -155654,7 +155709,7 @@
             "1027": {
                 "name": "placeholder_1027",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 5,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -156512,7 +156567,7 @@
             "1069": {
                 "name": "placeholder_1069",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": "10,7,3",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -156576,7 +156631,7 @@
             "1072": {
                 "name": "placeholder_1072",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": "40,20,10",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -156742,7 +156797,7 @@
             "1080": {
                 "name": "placeholder_1080",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": "40,20,10",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -156908,7 +156963,7 @@
             "1088": {
                 "name": "placeholder_1088",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": "40,20,15",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -156927,7 +156982,7 @@
             "1089": {
                 "name": "placeholder_1089",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": "15,10,5",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -156991,7 +157046,7 @@
             "1092": {
                 "name": "placeholder_1092",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": "600,300,150",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -157207,7 +157262,7 @@
             "1103": {
                 "name": "placeholder_1103",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": "25,15,7",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -157376,7 +157431,7 @@
             "1112": {
                 "name": "placeholder_1112",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -157465,7 +157520,7 @@
             "1117": {
                 "name": "placeholder_1117",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": "10,7,1",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -157541,7 +157596,7 @@
             "1121": {
                 "name": "placeholder_1121",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -157673,7 +157728,7 @@
             "1128": {
                 "name": "placeholder_1128",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": "3,2,1",
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -158137,7 +158192,7 @@
             "1153": {
                 "name": "placeholder_1153",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -158287,7 +158342,7 @@
             "1161": {
                 "name": "placeholder_1161",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -158418,7 +158473,7 @@
             "1168": {
                 "name": "placeholder_1168",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 2,
@@ -158830,7 +158885,7 @@
             "1223": {
                 "name": "placeholder_1223",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 30,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -158848,7 +158903,7 @@
             "1224": {
                 "name": "placeholder_1224",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 50,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -158965,7 +159020,7 @@
             "1231": {
                 "name": "placeholder_1231",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -158982,7 +159037,7 @@
             "1232": {
                 "name": "placeholder_1232",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -158998,7 +159053,7 @@
             "1233": {
                 "name": "placeholder_1233",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159014,7 +159069,7 @@
             "1234": {
                 "name": "placeholder_1234",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159030,7 +159085,7 @@
             "1235": {
                 "name": "placeholder_1235",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159046,7 +159101,7 @@
             "1236": {
                 "name": "placeholder_1236",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159062,7 +159117,7 @@
             "1237": {
                 "name": "placeholder_1237",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159078,7 +159133,7 @@
             "1238": {
                 "name": "placeholder_1238",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159094,7 +159149,7 @@
             "1239": {
                 "name": "placeholder_1239",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159110,7 +159165,7 @@
             "1240": {
                 "name": "placeholder_1240",
                 "gamemode": "casual",
-                "mapgroup": "mg_dust247",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159322,7 +159377,7 @@
             "1253": {
                 "name": "placeholder_1253",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 5,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159340,7 +159395,7 @@
             "1254": {
                 "name": "placeholder_1254",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 30,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159540,7 +159595,7 @@
             "1266": {
                 "name": "placeholder_1266",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159557,7 +159612,7 @@
             "1267": {
                 "name": "placeholder_1267",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -159573,7 +159628,7 @@
             "1268": {
                 "name": "placeholder_1268",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 1,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -160632,7 +160687,7 @@
             "1332": {
                 "name": "placeholder_1332",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 10,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -160650,7 +160705,7 @@
             "1333": {
                 "name": "placeholder_1333",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 20,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -161076,7 +161131,7 @@
             "1359": {
                 "name": "placeholder_1359",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 5,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -161094,7 +161149,7 @@
             "1360": {
                 "name": "placeholder_1360",
                 "gamemode": "casual",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 25,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -161246,7 +161301,7 @@
             "1369": {
                 "name": "placeholder_1369",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 30,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -161264,7 +161319,7 @@
             "1370": {
                 "name": "placeholder_1370",
                 "gamemode": "deathmatch",
-                "mapgroup": "mg_casualsigma",
+                "mapgroup": "mg_hostage",
                 "points": 100,
                 "quest_icon": "test",
                 "operational_points": 1,
@@ -161617,6 +161672,49 @@
                 "gamemode": "scrimcomp2v2",
                 "mapgroup": "mg_de_cbble,mg_de_stmarc,mg_de_shorttrain"
             }
+        },
+        "recurring_mission_periods": {
+            "mission_periods": {
+                "0": "1741741200,1761699600",
+                "34": "1762308000,1772589600",
+                "52": "1773190800,1793149200",
+                "86": "1793757600,1804644000",
+                "105": "1805245200,1825203600",
+                "139": "1825812000,1836093600",
+                "157": "1836694800,1856653200",
+                "191": "1857261600,1867543200",
+                "209": "1868144400,1888102800",
+                "243": "1888711200,1898992800",
+                "261": "1899594000,1919552400",
+                "295": "1920160800,1930442400",
+                "313": "1931043600,1951002000",
+                "347": "1951610400,1962496800",
+                "366": "1963098000,1983056400",
+                "400": "1983664800,1993946400",
+                "418": "1994547600,2014506000",
+                "452": "2015114400,2025396000",
+                "470": "2025997200,2045955600",
+                "504": "2046564000,2056845600",
+                "522": "2057446800,2077405200",
+                "556": "2078013600,2088295200",
+                "574": "2088896400,2108854800",
+                "608": "2109463200,2119744800",
+                "626": "2120346000,2140304400",
+                "660": "2140912800,2151799200",
+                "679": "2152400400,2172358800",
+                "713": "2172967200,2183248800",
+                "731": "2183850000,2203808400",
+                "765": "2204416800,2214698400",
+                "783": "2215299600,2235258000",
+                "817": "2235866400,2246148000",
+                "835": "2246749200,2266707600",
+                "869": "2267316000,2277597600",
+                "887": "2278198800,2298157200",
+                "921": "2298765600,2309047200",
+                "939": "2309648400,2329606800",
+                "973": "2330215200,2341101600"
+            },
+            "mission_period_length": 604800
         },
         "campaign_definitions": {
             "1": {
