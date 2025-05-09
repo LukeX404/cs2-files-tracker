@@ -1426,6 +1426,7 @@
             "Oven": "Oven",
             "Engine": "Mesin",
             "LongDog": "Longdog",
+            "Church": "Gereja",
             "Gravelpit": "Gravel Pit",
             "Forest": "Hutan",
             "Tents": "Tenda",
@@ -2846,6 +2847,7 @@
             "CSGO_Collectible_MapTokenEdin_Desc": "Memperingati lahirnya Map CS2, \\\"Edin\\\"",
             "CSGO_Collectible_MapTokenBasaltCS2": "Koin Map Basalt",
             "CSGO_Collectible_MapTokenBasaltCS2_Desc": "Memperingati lahirnya Map CS2, \\\"Basalt\\\"",
+            "CSGO_Collectible_MapTokenAgencyCS2": "Koin Map Agency",
             "CSGO_CollectibleCoin_FortiusQuoFidelius": "Lencana Kesetiaan",
             "CSGO_CollectibleCoin_FortiusQuoFidelius_Desc": "Lencana ini memperingati kesetiaan anggota di dalam komunitas Counter-Strike sebelum pembaruan Zona Bahaya.\\n\\n<i>Bersatu kita teguh.</i>",
             "CSGO_CollectibleCoin_FiveYearService": "Koin Veteran 5 Tahun",
@@ -24455,7 +24457,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "Grup map ini menampilkan map kompetisi saat ini.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "Grup map ini menampilkan Dust II.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "Grup map ini menampilkan map yang saat ini tidak ada di kumpulan map kompetisi.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "Grup map ini menampilkan map penjinakan bom paling populer dari kumpulan map kompetisi saat ini, serta map teratas Grup Cadangan.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "Grup map ini menampilkan map Komunitas paling populer, beberapa Map dari kumpulan Map kompetisi saat ini, serta map Grup Cadangan.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Grup map ini berisi semua map untuk mode DeathMatch.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Grup map ini berisi semua map untuk mode Demolition.",
@@ -34408,7 +34409,10 @@
             "SteamVideo_Round_Number_Label": "Ronde %s1",
             "SteamVideo_Start_Of_Round_Title": "Awal ronde %s1",
             "SteamVideo_MatchScore": "Skor",
-            "SteamVideo_KDA": "K/D/A"
+            "SteamVideo_KDA": "K/D/A",
+            "weekly_mission_progress": "<b>{d:mission-progress}</b>/{d:mission-points}",
+            "CS2_Quest_Weapon_Mode": "Profisiensi Peralatan: <b>{s:gamemode}</b>, <b>{s:weapon}</b>",
+            "CS2_Quest_Weapon_Mode_desc": "Dapatkan {s:optional_target}{s:actions} <b>{s:weapon}</b> dalam pertandingan <b>{s:gamemode}</b>."
         }
     }
 }

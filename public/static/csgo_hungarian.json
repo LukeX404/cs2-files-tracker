@@ -25239,7 +25239,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "Ez a pályacsoport jelenlegi versenypályákat tartalmaz.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "Ez a pályacsoport a Dust II-t tartalmazza.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "Ez a pályacsoport olyan pályákat tartalmaz, melyek jelenleg nincsenek benne a verseny-pályagyűjteményben.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "Ez a pályacsoport a jelenlegi verseny-pályagyűjtemény legnépszerűbb bombahatástalanító pályáit, valamint a Tartalék csoport legjátszottabb pályáját tartalmazza.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "Ez a pályacsoport a legnépszerűbb közösségi bombahatástalanító pályákat, a jelenlegi verseny-pályagyűjtemény néhány pályáját, valamint a Tartalék csoport egy pályáját tartalmazza.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Ez a pályacsoport az összes DeathMatch mód pályát tartalmazza.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Ez a pályacsoport az összes Rombolás mód pályát tartalmazza.",

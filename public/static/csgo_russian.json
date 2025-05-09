@@ -2847,6 +2847,7 @@
             "CSGO_Collectible_MapTokenEdin_Desc": "Награда за работу над картой Edin для CS2",
             "CSGO_Collectible_MapTokenBasaltCS2": "Монета карты Basalt",
             "CSGO_Collectible_MapTokenBasaltCS2_Desc": "Награда за работу над картой Basalt для CS2",
+            "CSGO_Collectible_MapTokenAgencyCS2": "Монета карты Agency",
             "CSGO_CollectibleCoin_FortiusQuoFidelius": "Медаль за преданность",
             "CSGO_CollectibleCoin_FortiusQuoFidelius_Desc": "Выдаётся преданным членам сообщества Counter-Strike, вступившим в него до выхода обновления «Запретная зона».\\n\\n<i>Сила в преданности.</i>",
             "CSGO_CollectibleCoin_FiveYearService": "Монета за 5 лет службы",
@@ -25026,7 +25027,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "В эту группу входят используемые на турнирах карты.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "В эту группу входит карта Dust II.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "В эту группу входят не используемые на турнирах карты.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "В эту группу входят самые популярные карты с закладкой бомбы, используемые на турнирах, а также лучшие карты резерва.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "В эту группу входят самые популярные карты с закладкой бомбы от сообщества, одна карта резерва и несколько карт, используемых на турнирах.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Эта группа карт содержит все карты режима «Бой насмерть».",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Эта группа карт содержит все карты режима «Уничтожение объекта».",
@@ -34981,7 +34981,9 @@
             "SteamVideo_Round_Number_Label": "%s1-й раунд",
             "SteamVideo_Start_Of_Round_Title": "Начало %s1-го раунда",
             "SteamVideo_MatchScore": "Счёт",
-            "SteamVideo_KDA": "У/С/П"
+            "SteamVideo_KDA": "У/С/П",
+            "weekly_mission_progress": "<b>{d:mission-progress}</b>/{d:mission-points}",
+            "CS2_Quest_Weapon_Mode": "Освоение оружия: <b>{s:gamemode}</b>, <b>{s:weapon}</b>"
         }
     }
 }

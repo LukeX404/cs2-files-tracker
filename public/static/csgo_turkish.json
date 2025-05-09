@@ -1427,6 +1427,7 @@
             "Oven": "Fırın",
             "Engine": "Kayık",
             "LongDog": "Uzun Köpek",
+            "Church": "Kilise",
             "Gravelpit": "Çakıl Çukuru",
             "Forest": "Orman",
             "Tents": "Çadırlar",
@@ -2847,6 +2848,7 @@
             "CSGO_Collectible_MapTokenEdin_Desc": "CS2 haritası \\\"Edin\\\"i oluşturduğu için verildi.",
             "CSGO_Collectible_MapTokenBasaltCS2": "Basalt Harita Jetonu",
             "CSGO_Collectible_MapTokenBasaltCS2_Desc": "CS2 haritası \\\"Basalt\\\"ı oluşturduğu için verildi.",
+            "CSGO_Collectible_MapTokenAgencyCS2": "Agency Haritası Jetonu",
             "CSGO_CollectibleCoin_FortiusQuoFidelius": "Sadakat Rozeti",
             "CSGO_CollectibleCoin_FortiusQuoFidelius_Desc": "Bu rozet, Tehlikeli Bölge güncellemesinden önce Counter-Strike topluluğuna gösterdiğin sadakatin anısınadır.\\n\\n<i>Kuvvet sadakatten doğar.</i>",
             "CSGO_CollectibleCoin_FiveYearService": "5 Yıllık Tecrübe Jetonu",
@@ -25026,7 +25028,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "Bu harita grubu şu anki rekabetçi haritaları içerir.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "Bu harita grubu Dust II'yi içermektedir.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "Bu harita grubu şu anki rekabetçi harita havuzunda yer almayan haritaları içerir.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "Bu harita grubu Rezerv Grubu'ndan ve mevcut rekabetçi haritalar havuzundan en popüler bomba imha haritalarını içerir.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "Bu harita grubu en popüler Topluluk bomba imha haritalarını, mevcut rekabetçi harita havuzundaki bazı haritaları ve Rezerv Grubu haritalarını içerir.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Bu harita grubu bütün Ölüm Maçı modu haritalarını içerir.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Bu harita grubu bütün Yıkım modu haritalarını içerir.",
@@ -34981,7 +34982,10 @@
             "SteamVideo_Round_Number_Label": "Raunt %s1",
             "SteamVideo_Start_Of_Round_Title": "%s1. raundun başı",
             "SteamVideo_MatchScore": "Skor",
-            "SteamVideo_KDA": "L/Ö/A"
+            "SteamVideo_KDA": "L/Ö/A",
+            "weekly_mission_progress": "<b>{d:mission-progress}</b>/{d:mission-points}",
+            "CS2_Quest_Weapon_Mode": "Ekipman Ustalığı: <b>{s:gamemode}</b>, <b>{s:weapon}</b>",
+            "CS2_Quest_Weapon_Mode_desc": "<b>{s:gamemode}</b> maçlarında <b>{s:weapon}</b> ile {s:optional_target}{s:actions} yap."
         }
     }
 }

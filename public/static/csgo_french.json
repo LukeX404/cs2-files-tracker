@@ -25026,7 +25026,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "Cet ensemble contient les cartes compétitives actuelles.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "Cet ensemble comprend Dust II.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "Cet ensemble comprend des cartes qui ne sont actuellement pas dans le groupe de sélections des cartes compétitives.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "Cet ensemble comprend les cartes de désamorçage du groupe de sélections des cartes compétitives ainsi qu'un groupe de cartes provenant du groupe de réserve.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "Cet ensemble comprend les cartes de désamorçage les plus populaires, quelques cartes du groupe des cartes compétitives actuelles, ainsi qu'une carte du groupe de réserve.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Cet ensemble contient toutes les cartes du mode Match à mort.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Cet ensemble contient toutes les cartes du mode Démolition.",

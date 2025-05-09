@@ -25808,7 +25808,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "Denne banegruppe indeholder nuværende konkurrencebaner.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "Denne banegruppe indeholder Dust II",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "Denne banegruppe indeholder baner, som på nuværende tidspunkt ikke er i konkurrencebanegruppen.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "Denne banegruppe indeholder de mest populære bombedemonteringsbaner fra den nuværende konkurrencebanepulje samt de bedste baner fra Reserves-gruppen.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "Denne banegruppe indeholder fællesskabets mest populære bombedemonteringsbaner, nogle baner fra den nuværende konkurrencebanepulje samt de bedste baner fra Reserves-gruppen.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Denne banegruppe indeholder alle baner for DeathMatch-tilstanden.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Denne banegruppe indeholder alle baner for Demolition-tilstanden.",

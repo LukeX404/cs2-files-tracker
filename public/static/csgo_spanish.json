@@ -25026,7 +25026,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "Este grupo incluye mapas de la competición actual.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "Este grupo incluye Dust II.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "Este grupo incluye mapas que no están en el conjunto de mapas de competición actual.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "Este grupo incluye los mapas de desactivación de bomba más populares del conjunto de mapas de competición actual y el más popular del grupo de reservas.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "Este grupo incluye los mapas de desactivación de bomba más populares de la comunidad, algunos mapas del conjunto de mapas de competición actual y un mapa del grupo de reservas.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Este grupo contiene todos los mapas para el modo Deathmatch.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Este grupo contiene todos los mapas para el modo Demolición.",

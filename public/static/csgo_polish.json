@@ -25026,7 +25026,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "Ta grupa zawiera aktualne mapy turniejowe.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "Ta grupa zawiera mapę Dust II.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "Ta grupa zawiera mapy obecnie niewystępujące w puli map turniejowych.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "Ta grupa zawiera najpopularniejsze mapy obecnie dostępne w trybie Turniejowym oraz najpopularniejszą z grupy rezerw, których celem jest rozbrojenie bomby.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "Ta grupa zawiera najpopularniejsze mapy stworzone przez społeczność, których celem jest rozbrojenie bomby, niektóre mapy obecnie dostępne w trybie Turniejowym oraz mapę z grupy rezerw.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "Ta grupa zawiera wszystkie mapy dla trybu Deathmatch.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "Ta grupa zawiera wszystkie mapy dla trybu Demolki.",

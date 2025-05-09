@@ -25029,7 +25029,6 @@
             "SFUI_MapGroup_Tooltip_Desc_Active": "이 맵 그룹은 현재 진행되는 대회에 사용되는 맵으로 이루어졌습니다.",
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "이 맵 그룹은 더스트 2 맵만 포함합니다.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "이 맵 그룹은 현재 대회에서 사용하지 않는 맵으로 이루어져 있습니다.",
-            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "이 맵 그룹은 대회용 맵 그룹에서 인기 있는 폭탄 해체 맵과 예비역 맵 그룹에서 인기 있는 맵으로 구성되어 있습니다.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "이 맵 그룹은 커뮤니티에서 인기 있는 폭탄 해체 맵과 일부 대회용 및 예비역 그룹의 맵으로 구성되어 있습니다.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "이 맵 모음은 데스매치에 사용되는 맵들로 구성되어 있습니다.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "이 맵 그룹에는 폭파 모드를 플레이할 수 있는 맵이 있습니다.",
