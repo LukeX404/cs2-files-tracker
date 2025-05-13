@@ -1427,6 +1427,7 @@
             "Oven": "เตาอบ",
             "Engine": "เครื่องยนต์",
             "LongDog": "ลองด็อก",
+            "Church": "โบสถ์",
             "Gravelpit": "หลุมกรวด",
             "Forest": "ป่า",
             "Tents": "เต็นท์",
@@ -2881,6 +2882,7 @@
             "CSGO_Collectible_MapTokenEdin_Desc": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Edin ของ CS2",
             "CSGO_Collectible_MapTokenBasaltCS2": "เหรียญแผนที่ Basalt",
             "CSGO_Collectible_MapTokenBasaltCS2_Desc": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Basalt ของ CS2",
+            "CSGO_Collectible_MapTokenAgencyCS2": "เหรียญแผนที่ Agency",
             "CSGO_CollectibleCoin_FortiusQuoFidelius": "เหรียญตราผู้ภักดี",
             "CSGO_CollectibleCoin_FortiusQuoFidelius_Desc": "เหรียญตรานี้เป็นอนุสรณ์สำหรับสมาชิกผู้ภักดีในชุมชน Counter-Strike ก่อนช่วงอัปเดตโหมดโซนอันตราย\\n\\n<i>สร้างความแข็งเเกร่งด้วยความจงรักภักดี</i>",
             "CSGO_CollectibleCoin_FiveYearService": "เหรียญทหารผ่านศึก 5 ปี",
@@ -35642,7 +35644,15 @@
             "SteamVideo_Round_Number_Label": "รอบ %s1",
             "SteamVideo_Start_Of_Round_Title": "เริ่มต้นรอบ %s1",
             "SteamVideo_MatchScore": "คะแนน",
-            "SteamVideo_KDA": "K/D/A"
+            "SteamVideo_KDA": "K/D/A",
+            "weekly_mission_title": "ภารกิจ",
+            "weekly_mission_title_complete": "ภารกิจเสร็จสิ้น",
+            "weekly_mission_expiration": "หมดอายุใน <b>{s:mission-time-remaining}</b>",
+            "weekly_mission_next_mission": "ภารกิจถัดไปจะเริ่มใน <b>{s:mission-time-remaining}</b>",
+            "weekly_mission_progress": "<b>{d:mission-progress}</b>/{d:mission-points}",
+            "CS2_Quest_Weapon_Mode": "ความชำนาญด้านอาวุธ: <b>{s:gamemode}</b>, <b>{s:weapon}</b>",
+            "CS2_Quest_Weapon_Mode_desc": "ใช้ <b>{s:weapon}</b> เก็บคะแนน {s:actions}{s:optional_target} ในแมตช์ <b>{s:gamemode}</b>",
+            "mission_location": "<b>{s:gamemode}</b> ใน <b>{s:location}</b>"
         }
     }
 }

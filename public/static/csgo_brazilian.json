@@ -34423,7 +34423,7 @@
             "playercardstats_ud_value": "{d:playercardstats-ud}",
             "playercardstats_gglevel_title": "Nível",
             "playercardstats_gglevel_value": "{d:playercardstats-gglevel}",
-            "playercardstats_kk_title": "Vítimas com a faca",
+            "playercardstats_kk_title": "Facadas",
             "playercardstats_kk_value": "{d:playercardstats-knifekills}",
             "eom-vote-for-next-map": "Qual deve ser o próximo mapa?",
             "eom-survival-damage-taken": "Dano sofrido",
