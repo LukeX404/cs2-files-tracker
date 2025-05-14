@@ -1427,6 +1427,7 @@
             "Oven": "오븐",
             "Engine": "보트 엔진",
             "LongDog": "롱도그",
+            "Church": "교회",
             "Gravelpit": "자갈돌 구덩이",
             "Forest": "숲",
             "Tents": "천막",
@@ -25039,6 +25040,7 @@
             "SFUI_MapGroup_Tooltip_Desc_Dust247": "이 맵 그룹에는 더스트 2 맵만 포함합니다.",
             "SFUI_MapGroup_Tooltip_Desc_Reserves": "이 맵 그룹에는 현재 대회에서 사용하지 않는 맵이 포함되어 있습니다.",
             "SFUI_MapGroup_Tooltip_Desc_CasualCharlie": "이 맵 그룹에는 커뮤니티에서 제작한 맵이 포함되어 있습니다.",
+            "SFUI_MapGroup_Tooltip_Desc_CasualDelta": "이 맵 그룹에는 대회용 맵 그룹에 포함되어 있는 맵과 예비역 맵 그룹에서 인기 있는 맵이 포함되어 있습니다.",
             "SFUI_MapGroup_Tooltip_Desc_CasualSigma": "이 맵 그룹에는 커뮤니티에서 인기 있는 폭탄 해체 맵과 일부 대회용 및 예비역 그룹의 맵이 포함되어 있습니다.",
             "SFUI_MapGroup_Tooltip_Desc_DeathMatch": "이 맵 그룹에는 데스매치에 사용되는 맵이 포함되어 있습니다.",
             "SFUI_MapGroup_Tooltip_Desc_Demo": "이 맵 그룹에는 폭파 모드를 플레이할 수 있는 맵이 있습니다.",
@@ -35002,6 +35004,8 @@
             "weekly_mission_expiration": "<b>{s:mission-time-remaining}</b> 후 만료",
             "weekly_mission_next_mission": "<b>{s:mission-time-remaining}</b> 후 다음 임무 시작",
             "weekly_mission_progress": "<b>{d:mission-progress}</b>/{d:mission-points}",
+            "CS2_Quest_Weapon_Mode": "장비 훈련: <b>{s:gamemode} 모드</b>, <b>{s:weapon}</b>",
+            "CS2_Quest_Weapon_Mode_desc": "<b>{s:gamemode} 모드</b>매치에서 <b>{s:weapon}</b> 무기로 {s:optional_target} {s:actions}하여 점수를 획득하세요.",
             "mission_location": "<b>{s:location}</b> 맵 <b>{s:gamemode}</b> 모드 매치"
         }
     }
