@@ -28383,6 +28383,8 @@
             "SFUI_SteamToast_Location_BL": "Canto inferior esquerdo",
             "SFUI_SteamToast_Location_BR": "Canto inferior direito",
             "SFUI_SteamToast_Location_TR": "Canto superior direito",
+            "SFUI_HUDWeaponRarityColor": "Fazer arma brilhar segundo a cor da raridade",
+            "SFUI_HUDWeaponRarityColor_desc": "Ativa esta opção para que a cor dos ícones das armas na interface corresponda à raridade.",
             "SFUI_Settings_High_Dynamic_Range": "High Dynamic Range",
             "SFUI_Settings_Very_High": "Muito alto",
             "SFUI_Settings_High": "Alto",
