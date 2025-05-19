@@ -4,6 +4,5 @@ temp
 exceptions.txt
 accounts.*
 .env.*
-
 *.rar
 *.zip
