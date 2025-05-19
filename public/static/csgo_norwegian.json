@@ -29218,6 +29218,7 @@
             "SFUI_Settings_HUD_Color_9": "Grønn",
             "SFUI_Settings_HUD_Color_10": "Turkis",
             "SFUI_Settings_HUD_Color_11": "Rosa",
+            "SFUI_Settings_HUD_Color_12": "Spillerfarge",
             "SFUI_Settings_HUD_BackgroundAlpha": "Grensesnittets bakgrunnsgjennomsiktighet",
             "SFUI_Settings_HUD_BackgroundAlpha_Info": "Justerer gjennomsiktigheten til bakgrunnen av penge-, helse-, steds- og ammunisjonsvisningen.",
             "SFUI_Settings_HUD_Style": "Helse- og ammunisjonsstil",
