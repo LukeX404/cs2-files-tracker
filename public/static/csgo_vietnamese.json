@@ -29737,6 +29737,7 @@
             "SFUI_SteamToast_Location_BR": "Phải dưới cùng",
             "SFUI_SteamToast_Location_TR": "Phải trên cùng",
             "SFUI_HUDWeaponRarityColor": "Phát sáng viền vũ khí theo màu độ hiếm",
+            "SFUI_HUDWeaponRarityColor_desc": "Bật để cho phép biểu tượng vũ khí trong HUD phát sáng với màu viền theo màu của độ hiếm.",
             "SFUI_Settings_High_Dynamic_Range": "High Dynamic Range",
             "SFUI_Settings_Very_High": "Rất cao",
             "SFUI_Settings_High": "Cao",
