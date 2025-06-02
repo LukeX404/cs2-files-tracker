@@ -32,9 +32,6 @@ async function downloadWithRetry(
   }
 }
 
-// ⛔️ REMOVE chamada fora da função, isso causaria erro em runtime
-// await downloadWithRetry(user, appId, depotId, dirFile, `${temp}/pak01_dir.vpk`);
-
 export async function downloadVPKDir(user: CustomSteamUser, manifest: any) {
   const dirFile = manifest.manifest.files.find((file: any) =>
     file.filename.endsWith('csgo\\pak01_dir.vpk')
