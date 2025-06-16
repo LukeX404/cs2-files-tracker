@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.15.27",
-    "@types/steam-user": "^5.0.4",
+    "@types/steam-user": "^5.0.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
