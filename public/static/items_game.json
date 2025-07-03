@@ -29646,8 +29646,7 @@
                 "name": "crate_signature_pack_aus2025_group_champions",
                 "item_description": "#CSGO_crate_signature_pack_aus2025_group_champions_desc",
                 "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_champions",
-                "prefab": "aus2025_signature_capsule_prefab ",
-                "cannot_inspect": 1,
+                "prefab": "aus2025_signature_capsule_prefab aus2025_sellable_item_with_payment_rules",
                 "attributes": {
                     "set supply crate series": {
                         "attribute_class": "supply_crate_series",
@@ -124010,6 +124009,206 @@
                 "description_string": "StickerKit_desc_warhammer_decals_paper_aeldari_2",
                 "sticker_material": "community/warhammer_decals/paper_aeldari_2",
                 "item_rarity": "rare"
+            },
+            "9431": {
+                "name": "aus2025_signature_apex_32",
+                "item_name": "#StickerKit_aus2025_signature_apex_champion",
+                "description_string": "#StickerKit_desc_aus2025_signature_apex_champion",
+                "sticker_material": "aus2025/sig_apex_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "9432": {
+                "name": "aus2025_signature_apex_32_foil",
+                "item_name": "#StickerKit_aus2025_signature_apex_champion_foil",
+                "description_string": "#StickerKit_desc_aus2025_signature_apex_champion_foil",
+                "sticker_material": "aus2025/sig_apex_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "9433": {
+                "name": "aus2025_signature_apex_32_holo",
+                "item_name": "#StickerKit_aus2025_signature_apex_champion_holo",
+                "description_string": "#StickerKit_desc_aus2025_signature_apex_champion_holo",
+                "sticker_material": "aus2025/sig_apex_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "9434": {
+                "name": "aus2025_signature_apex_32_gold",
+                "item_name": "#StickerKit_aus2025_signature_apex_champion_gold",
+                "description_string": "#StickerKit_desc_aus2025_signature_apex_champion_gold",
+                "sticker_material": "aus2025/sig_apex_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "9435": {
+                "name": "aus2025_signature_zywoo_32",
+                "item_name": "#StickerKit_aus2025_signature_zywoo_champion",
+                "description_string": "#StickerKit_desc_aus2025_signature_zywoo_champion",
+                "sticker_material": "aus2025/sig_zywoo_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
+            },
+            "9436": {
+                "name": "aus2025_signature_zywoo_32_foil",
+                "item_name": "#StickerKit_aus2025_signature_zywoo_champion_foil",
+                "description_string": "#StickerKit_desc_aus2025_signature_zywoo_champion_foil",
+                "sticker_material": "aus2025/sig_zywoo_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
+            },
+            "9437": {
+                "name": "aus2025_signature_zywoo_32_holo",
+                "item_name": "#StickerKit_aus2025_signature_zywoo_champion_holo",
+                "description_string": "#StickerKit_desc_aus2025_signature_zywoo_champion_holo",
+                "sticker_material": "aus2025/sig_zywoo_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
+            },
+            "9438": {
+                "name": "aus2025_signature_zywoo_32_gold",
+                "item_name": "#StickerKit_aus2025_signature_zywoo_champion_gold",
+                "description_string": "#StickerKit_desc_aus2025_signature_zywoo_champion_gold",
+                "sticker_material": "aus2025/sig_zywoo_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
+            },
+            "9439": {
+                "name": "aus2025_signature_flamez_32",
+                "item_name": "#StickerKit_aus2025_signature_flamez_champion",
+                "description_string": "#StickerKit_desc_aus2025_signature_flamez_champion",
+                "sticker_material": "aus2025/sig_flamez_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "9440": {
+                "name": "aus2025_signature_flamez_32_foil",
+                "item_name": "#StickerKit_aus2025_signature_flamez_champion_foil",
+                "description_string": "#StickerKit_desc_aus2025_signature_flamez_champion_foil",
+                "sticker_material": "aus2025/sig_flamez_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "9441": {
+                "name": "aus2025_signature_flamez_32_holo",
+                "item_name": "#StickerKit_aus2025_signature_flamez_champion_holo",
+                "description_string": "#StickerKit_desc_aus2025_signature_flamez_champion_holo",
+                "sticker_material": "aus2025/sig_flamez_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "9442": {
+                "name": "aus2025_signature_flamez_32_gold",
+                "item_name": "#StickerKit_aus2025_signature_flamez_champion_gold",
+                "description_string": "#StickerKit_desc_aus2025_signature_flamez_champion_gold",
+                "sticker_material": "aus2025/sig_flamez_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "9443": {
+                "name": "aus2025_signature_mezii_32",
+                "item_name": "#StickerKit_aus2025_signature_mezii_champion",
+                "description_string": "#StickerKit_desc_aus2025_signature_mezii_champion",
+                "sticker_material": "aus2025/sig_mezii_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "9444": {
+                "name": "aus2025_signature_mezii_32_foil",
+                "item_name": "#StickerKit_aus2025_signature_mezii_champion_foil",
+                "description_string": "#StickerKit_desc_aus2025_signature_mezii_champion_foil",
+                "sticker_material": "aus2025/sig_mezii_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "9445": {
+                "name": "aus2025_signature_mezii_32_holo",
+                "item_name": "#StickerKit_aus2025_signature_mezii_champion_holo",
+                "description_string": "#StickerKit_desc_aus2025_signature_mezii_champion_holo",
+                "sticker_material": "aus2025/sig_mezii_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "9446": {
+                "name": "aus2025_signature_mezii_32_gold",
+                "item_name": "#StickerKit_aus2025_signature_mezii_champion_gold",
+                "description_string": "#StickerKit_desc_aus2025_signature_mezii_champion_gold",
+                "sticker_material": "aus2025/sig_mezii_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "9447": {
+                "name": "aus2025_signature_ropz_32",
+                "item_name": "#StickerKit_aus2025_signature_ropz_champion",
+                "description_string": "#StickerKit_desc_aus2025_signature_ropz_champion",
+                "sticker_material": "aus2025/sig_ropz_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
+            },
+            "9448": {
+                "name": "aus2025_signature_ropz_32_foil",
+                "item_name": "#StickerKit_aus2025_signature_ropz_champion_foil",
+                "description_string": "#StickerKit_desc_aus2025_signature_ropz_champion_foil",
+                "sticker_material": "aus2025/sig_ropz_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
+            },
+            "9449": {
+                "name": "aus2025_signature_ropz_32_holo",
+                "item_name": "#StickerKit_aus2025_signature_ropz_champion_holo",
+                "description_string": "#StickerKit_desc_aus2025_signature_ropz_champion_holo",
+                "sticker_material": "aus2025/sig_ropz_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
+            },
+            "9450": {
+                "name": "aus2025_signature_ropz_32_gold",
+                "item_name": "#StickerKit_aus2025_signature_ropz_champion_gold",
+                "description_string": "#StickerKit_desc_aus2025_signature_ropz_champion_gold",
+                "sticker_material": "aus2025/sig_ropz_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 24,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
             }
         },
         "paint_kits": {
@@ -157848,6 +158047,34 @@
                 "[aus2025_signature_dumau_4_gold]sticker": 1,
                 "[aus2025_signature_n1ssim_4_gold]sticker": 1
             },
+            "crate_signature_pack_aus2025_group_champions_rare": {
+                "[aus2025_signature_apex_32]sticker": 1,
+                "[aus2025_signature_zywoo_32]sticker": 1,
+                "[aus2025_signature_flamez_32]sticker": 1,
+                "[aus2025_signature_mezii_32]sticker": 1,
+                "[aus2025_signature_ropz_32]sticker": 1
+            },
+            "crate_signature_pack_aus2025_group_champions_mythical": {
+                "[aus2025_signature_apex_32_foil]sticker": 1,
+                "[aus2025_signature_zywoo_32_foil]sticker": 1,
+                "[aus2025_signature_flamez_32_foil]sticker": 1,
+                "[aus2025_signature_mezii_32_foil]sticker": 1,
+                "[aus2025_signature_ropz_32_foil]sticker": 1
+            },
+            "crate_signature_pack_aus2025_group_champions_legendary": {
+                "[aus2025_signature_apex_32_holo]sticker": 1,
+                "[aus2025_signature_zywoo_32_holo]sticker": 1,
+                "[aus2025_signature_flamez_32_holo]sticker": 1,
+                "[aus2025_signature_mezii_32_holo]sticker": 1,
+                "[aus2025_signature_ropz_32_holo]sticker": 1
+            },
+            "crate_signature_pack_aus2025_group_champions_gold": {
+                "[aus2025_signature_apex_32_gold]sticker": 1,
+                "[aus2025_signature_zywoo_32_gold]sticker": 1,
+                "[aus2025_signature_flamez_32_gold]sticker": 1,
+                "[aus2025_signature_mezii_32_gold]sticker": 1,
+                "[aus2025_signature_ropz_32_gold]sticker": 1
+            },
             "crate_signature_pack_aus2025_group_players_collection_legends": {
                 "contains_stickers_autographed_by_proplayers": 1,
                 "crate_signature_pack_aus2025_group_legends_rare": 1,
@@ -174634,7 +174861,7 @@
                 "quest_mission_card": {
                     "id": 8016,
                     "name": "#UI_Operation09_MissionCard_16",
-                    "quests": "1021-1025,1031",
+                    "quests": "locked",
                     "operational_points": 6
                 },
                 "xp_reward": "lootlist_xpgrant"
@@ -174643,7 +174870,7 @@
                 "quest_mission_card": {
                     "id": 9016,
                     "name": "#UI_Operation10_MissionCard_16",
-                    "quests": "1094-1097,1103",
+                    "quests": "locked",
                     "operational_points": 6
                 },
                 "xp_reward": "lootlist_xpgrant",
@@ -174662,7 +174889,7 @@
                 "quest_mission_card": {
                     "id": 9066,
                     "name": "#UI_Operation11_MissionCard_16",
-                    "quests": "1166-1169",
+                    "quests": "locked",
                     "operational_points": 6
                 },
                 "xp_reward": "lootlist_xpgrant",
@@ -175459,6 +175686,57 @@
                     "131": 18,
                     "132": 13,
                     "133": 14
+                }
+            },
+            "24": {
+                "place_names": {
+                    "1": "#Place_Name_1st",
+                    "2": "#Place_Name_2nd",
+                    "3": "#Place_Name_3rd-4th",
+                    "4": "#Place_Name_5th-8th",
+                    "5": "#Place_Name_9th-11th",
+                    "6": "#Place_Name_12th-14th",
+                    "7": "#Place_Name_15th-16th",
+                    "8": "#Place_Name_17th-19th",
+                    "9": "#Place_Name_20th-22nd",
+                    "10": "#Place_Name_23rd-24th",
+                    "11": "#Place_Name_25th-27th",
+                    "12": "#Place_Name_28th-30th",
+                    "13": "#Place_Name_31st-32nd"
+                },
+                "team_places": {
+                    "12": 4,
+                    "28": 6,
+                    "31": 5,
+                    "48": 7,
+                    "59": 5,
+                    "61": 4,
+                    "74": 9,
+                    "80": 8,
+                    "81": 4,
+                    "85": 4,
+                    "87": 11,
+                    "89": 1,
+                    "95": 8,
+                    "96": 10,
+                    "102": 3,
+                    "106": 3,
+                    "107": 7,
+                    "111": 12,
+                    "113": 12,
+                    "121": 13,
+                    "122": 2,
+                    "126": 5,
+                    "127": 6,
+                    "130": 11,
+                    "132": 11,
+                    "134": 6,
+                    "135": 8,
+                    "137": 10,
+                    "138": 12,
+                    "139": 9,
+                    "140": 9,
+                    "141": 13
                 }
             }
         },
@@ -198414,6 +198692,7 @@
                 "loc_description": "#keychain_kc_aus2025_desc",
                 "item_rarity": "rare",
                 "item_quality": "tournament",
+                "is commodity": 1,
                 "image_inventory": "econ/keychains/aus2025/kc_aus2025",
                 "pedestal_display_model": "weapons/keychains/aus2025/kc_aus2025.vmdl",
                 "tags": {
@@ -198424,6 +198703,3944 @@
                         "tag_group_text": "#SFUI_InvTooltip_KeychainCapsuleTag"
                     }
                 }
+            }
+        },
+        "highlight_reels": {
+            "1": {
+                "id": "aus2025_chopper2kvsmouzonmirage1",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "2": {
+                "id": "aus2025_chopperdiesfrom100byutilityvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "3": {
+                "id": "aus2025_chopperwins1v1vsbrollanonmiragemouz",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "4": {
+                "id": "aus2025_chopper3ktowinmap",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "5": {
+                "id": "aus2025_donk2kvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "6": {
+                "id": "aus2025_donk3kandcheekydefusevsspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "7": {
+                "id": "aus2025_donk2withinsanehsflickvspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "8": {
+                "id": "aus2025_donk3with1v1win",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "9": {
+                "id": "aus2025_jimpphat4kvsspiritonmirage1",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "10": {
+                "id": "aus2025_jimpphatrunninghsvsspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "11": {
+                "id": "aus2025_jimpphat2ktosecureretakevsspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "12": {
+                "id": "aus2025_jimpphatlosesclutchtotimevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "13": {
+                "id": "aus2025_jimpphat2kandwinscluthvsspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "14": {
+                "id": "aus2025_magix1v2tosecureot",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "15": {
+                "id": "aus2025_magix4kand1v3winvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "16": {
+                "id": "aus2025_shirofastawpflickvsmouzonmirage1",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "17": {
+                "id": "aus2025_shirodidntseexertionandlostentryvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "18": {
+                "id": "aus2025_spinxnadedto3hpvsspiritonmirage1",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "19": {
+                "id": "aus2025_spinxclose1v2clutch",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "20": {
+                "id": "aus2025_spinxfast2konbsitetosecureotvsspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "21": {
+                "id": "aus2025_spinxinsane4kclutchvsspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "22": {
+                "id": "aus2025_torszipistol3kvspsiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "23": {
+                "id": "aus2025_torszi3kwithcheekymolokillonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "24": {
+                "id": "aus2025_zontix3kfrompalacevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "25": {
+                "id": "aus2025_zontix3kandwinsclutchvspiritonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "26": {
+                "id": "aus2025_brollan2kvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "27": {
+                "id": "aus2025_brollan3kvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "28": {
+                "id": "aus2025_brollanfast2kinpistolvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "29": {
+                "id": "aus2025_brollandiesfrom100to0fromutilityvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "30": {
+                "id": "aus2025_brollancleanentryvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "31": {
+                "id": "aus2025_chopper3kmp9vsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "32": {
+                "id": "aus2025_donk4kandfailed1v1vsmouzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "33": {
+                "id": "aus2025_donkaceonbvsmouzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "34": {
+                "id": "aus2025_donkfastmp2kvsmouzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "35": {
+                "id": "aus2025_donkdodgeflashandentryvsmouzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "36": {
+                "id": "aus2025_jimpphat4konretakevspsiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "37": {
+                "id": "aus2025_jimpphatswift2kentryonbvsspiritondust",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "38": {
+                "id": "aus2025_jimpphat2kinmiddust2vsspirit",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "39": {
+                "id": "aus2025_jimpphat2kspraydownvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "40": {
+                "id": "aus2025_magixx3konafterplantvsmouzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "41": {
+                "id": "aus2025_magixx2konadefensevsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "42": {
+                "id": "aus2025_shiro3kscoutvsmouzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "43": {
+                "id": "aus2025_shirofailedhetomissfreekillvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "44": {
+                "id": "aus2025_shiroawp2kvsmouzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "45": {
+                "id": "aus2025_shirothrowawayawpin1v2ondust2vsmouz",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "46": {
+                "id": "aus2025_spinx3konsitedust2vsspirit",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "47": {
+                "id": "aus2025_spinxquadkilltowinmapvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "48": {
+                "id": "aus2025_spinxmisplaysroundvsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "49": {
+                "id": "aus2025_spinx2konbdefensevspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "50": {
+                "id": "aus2025_xertion3konbsitedust2vspirit",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "51": {
+                "id": "aus2025_xertionclean3konasitevsspiritondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "52": {
+                "id": "aus2025_chopper2kfromdooronnukevsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "53": {
+                "id": "aus2025_chopperfailstohearthedoordiesinthesidevsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "54": {
+                "id": "aus2025_donk3kpistolvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "55": {
+                "id": "aus2025_donkclean3kvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "56": {
+                "id": "aus2025_donkmissedopportunityvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "57": {
+                "id": "aus2025_jimpphat2kmp9vsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "58": {
+                "id": "aus2025_jimpphat2konnukevsspirit",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "59": {
+                "id": "aus2025_magix2fastkillsonadefensenukevsmouz",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "60": {
+                "id": "aus2025_shiroawp2kvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "61": {
+                "id": "aus2025_shirolose1v2tolosemapvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "62": {
+                "id": "aus2025_spinxfast2kentryvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "63": {
+                "id": "aus2025_spinx3kvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "64": {
+                "id": "aus2025_spinx2kpistolvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "65": {
+                "id": "aus2025_spinxclosedefuse",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "66": {
+                "id": "aus2025_spinx2konbvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "67": {
+                "id": "aus2025_spinx2kvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "68": {
+                "id": "aus2025_spinx2kandwinmapvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "69": {
+                "id": "aus2025_torszi2konafterplantvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "70": {
+                "id": "aus2025_torsziawp2kvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "71": {
+                "id": "aus2025_torszi2awpentryvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "72": {
+                "id": "aus2025_boosttorszitoentryvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "73": {
+                "id": "aus2025_xertionfast3koutsidevsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "74": {
+                "id": "aus2025_xertion3kadefensvsspiritonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "75": {
+                "id": "aus2025_zontix1kandtonofdmgvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "76": {
+                "id": "aus2025_zontix3krampholdvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "77": {
+                "id": "aus2025_zontixmasterclasslurkvsmouzonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 106
+            },
+            "78": {
+                "id": "aus2025_biguzeradiesvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "79": {
+                "id": "aus2025_biguzera3kvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "80": {
+                "id": "aus2025_dgt2kvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "81": {
+                "id": "aus2025_dgtfailed1v3vsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "82": {
+                "id": "aus2025_dgtclutchattemptvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "83": {
+                "id": "aus2025_fallenlowerdefensevspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "84": {
+                "id": "aus2025_fallen2kvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "85": {
+                "id": "aus2025_fallen1kvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "86": {
+                "id": "aus2025_fallentec9mastervspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "87": {
+                "id": "aus2025_fallencloservspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "88": {
+                "id": "aus2025_molodoy1kvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "89": {
+                "id": "aus2025_molodoy3kvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "90": {
+                "id": "aus2025_nqz2kvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "91": {
+                "id": "aus2025_nqzdenyretakevsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "92": {
+                "id": "aus2025_nqz1kvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "93": {
+                "id": "aus2025_nqzjustonevsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "94": {
+                "id": "aus2025_snowclutchvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "95": {
+                "id": "aus2025_snow3kvsfuriaonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "96": {
+                "id": "aus2025_yekindarpistolkillsvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "97": {
+                "id": "aus2025_yekindarecokillsvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "98": {
+                "id": "aus2025_yekindar2kvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "99": {
+                "id": "aus2025_yekindardiestoecovspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "100": {
+                "id": "aus2025_yuurih2kvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "101": {
+                "id": "aus2025_yuurihanchor2kvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "102": {
+                "id": "aus2025_yuurihentriesvspainonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "103": {
+                "id": "aus2025_biguzera2kvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "104": {
+                "id": "aus2025_dav1deus1v2vsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "105": {
+                "id": "aus2025_dav1desecofragsvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "106": {
+                "id": "aus2025_dav1deusclutchvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "107": {
+                "id": "aus2025_dav1deus1v3vsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "108": {
+                "id": "aus2025_dav1deus2kvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "109": {
+                "id": "aus2025_dgtpistolgodvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "110": {
+                "id": "aus2025_dgt3kvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "111": {
+                "id": "aus2025_dgtopportunityvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "112": {
+                "id": "aus2025_fallen2kvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "113": {
+                "id": "aus2025_fallenfinishervspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "114": {
+                "id": "aus2025_fallenpistolkillsvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "115": {
+                "id": "aus2025_ksceratonadekillvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "116": {
+                "id": "aus2025_ksceratonoclutchvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "117": {
+                "id": "aus2025_kscerato2kvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "118": {
+                "id": "aus2025_molodoydoublemissvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "119": {
+                "id": "aus2025_nqzfailedclutchvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "120": {
+                "id": "aus2025_nqz4kvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "121": {
+                "id": "aus2025_nqz2kvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "122": {
+                "id": "aus2025_snow2kvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "123": {
+                "id": "aus2025_snowchaoskillsvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "124": {
+                "id": "aus2025_snow3kvsfuriaonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "125": {
+                "id": "aus2025_yekindar3kvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "126": {
+                "id": "aus2025_yuurihdoubleentryvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "127": {
+                "id": "aus2025_yuurihdoublepistolvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "128": {
+                "id": "aus2025_biguzera2kentryoninfernovsfuria",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "129": {
+                "id": "aus2025_dav1deus2kvsfuriahoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "130": {
+                "id": "aus2025_dav1deus2ktowinseriesvsfuriahoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "131": {
+                "id": "aus2025_fallen2kpistolvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "132": {
+                "id": "aus2025_fallen3konbananavspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "133": {
+                "id": "aus2025_fallen3kafterplantvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "134": {
+                "id": "aus2025_ksceratortriplefrompitvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "135": {
+                "id": "aus2025_kscerato3kfailedclutchvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "136": {
+                "id": "aus2025_molodoy3kfrompitvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "137": {
+                "id": "aus2025_molodoy2kandfailedclutchvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "138": {
+                "id": "aus2025_molodoy3kclutchvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "139": {
+                "id": "aus2025_nqz3koninfernovspain",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "140": {
+                "id": "aus2025_nqz2awpkillsfrompitvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "141": {
+                "id": "aus2025_nqzistooslowforyuurihvsfuriahoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "142": {
+                "id": "aus2025_nqzawp3kvsfuriahoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "143": {
+                "id": "aus2025_snowspraytransferivspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "144": {
+                "id": "aus2025_snowbadjigglevsfuriahoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "145": {
+                "id": "aus2025_yekindar2kpistolvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "146": {
+                "id": "aus2025_yekindar3kecofragsvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "147": {
+                "id": "aus2025_yekindarfastbananatakevspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "148": {
+                "id": "aus2025_yekindarquickdoublevspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "149": {
+                "id": "aus2025_yekindar4kvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "150": {
+                "id": "aus2025_yekindar2kbalconyentryvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "151": {
+                "id": "aus2025_yekindarmissplaywithjumpvspainoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "152": {
+                "id": "aus2025_yuurik2konavspainoninfreno",
+                "tournament event id": 24,
+                "tournament event stage id": 7,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 102
+            },
+            "153": {
+                "id": "aus2025_aleksibtriplefailedclutchvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "154": {
+                "id": "aus2025_aleksib2kbholdvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "155": {
+                "id": "aus2025_b1t2cleanheadshotsvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "156": {
+                "id": "aus2025_b1tdoubleentryvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "157": {
+                "id": "aus2025_b1tdoubledualieentryvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "158": {
+                "id": "aus2025_b1tfast2ecosvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "159": {
+                "id": "aus2025_flamezspraytransfervsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "160": {
+                "id": "aus2025_flamesdoublentryvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "161": {
+                "id": "aus2025_flameztripleentryvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "162": {
+                "id": "aus2025_imquadkillvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "163": {
+                "id": "aus2025_jlentryandhevsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "164": {
+                "id": "aus2025_jltriplehsvsecovsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "165": {
+                "id": "aus2025_mezii2kpistolvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "166": {
+                "id": "aus2025_mezii4kclutchvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "167": {
+                "id": "aus2025_meziiflickvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "168": {
+                "id": "aus2025_ropzbholdvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "169": {
+                "id": "aus2025_ropzdoublesprayvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "170": {
+                "id": "aus2025_wonderful2kdeagvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "171": {
+                "id": "aus2025_wonderfulteamkillvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "172": {
+                "id": "aus2025_wonderful2kandcluchvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "173": {
+                "id": "aus2025_wonderful3kawpvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "174": {
+                "id": "aus2025_wonderfulgamblevsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "175": {
+                "id": "aus2025_zywooraremissesandaflickvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "176": {
+                "id": "aus2025_zywoo2kvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "177": {
+                "id": "aus2025_zywoodeniestheaceclutchvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "178": {
+                "id": "aus2025_zywoo4kakvsnavionmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "179": {
+                "id": "aus2025_apex2kvsnavionvitality",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "180": {
+                "id": "aus2025_apexwhiffvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "181": {
+                "id": "aus2025_apex2kinclutchvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "182": {
+                "id": "aus2025_apexforgotreloadvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "183": {
+                "id": "aus2025_apexblockingsmokesvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "184": {
+                "id": "aus2025_b1t2kpistolvsvitalityonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "185": {
+                "id": "aus2025_flamez2kinnervsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "186": {
+                "id": "aus2025_imsilmtaneousdeathvsvitalityonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "187": {
+                "id": "aus2025_mezii3kpistolvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "188": {
+                "id": "aus2025_mezii3kvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "189": {
+                "id": "aus2025_meziitkvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "190": {
+                "id": "aus2025_meziiladderkillvsnavionuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "191": {
+                "id": "aus2025_mezi2kinnervsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "192": {
+                "id": "aus2025_mezii4kshutdownvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "193": {
+                "id": "aus2025_ropz2kvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "194": {
+                "id": "aus2025_wonderful3kecovsvitalityonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "195": {
+                "id": "aus2025_wonderful2kawpvsvitalityonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "196": {
+                "id": "aus2025_wonderfulfailedclutchvsvitalityonnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "197": {
+                "id": "aus2025_zywoo2kvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "198": {
+                "id": "aus2025_zywoo2kvsecovsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "199": {
+                "id": "aus2025_zywooknifekillvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "200": {
+                "id": "aus2025_zywoo3konsaversvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "201": {
+                "id": "aus2025_zywoofailedclutchvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "202": {
+                "id": "aus2025_zywoo2kentryvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "203": {
+                "id": "aus2025_zywoo2kdualiesvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "204": {
+                "id": "aus2025_zywoo3krampvsnavionnuke",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 89
+            },
+            "205": {
+                "id": "aus2025_910doubledeaglevsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "206": {
+                "id": "aus2025_9102kpistolvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "207": {
+                "id": "aus2025_9103ktowinmapvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "208": {
+                "id": "aus2025_blitzalmostkillsallvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "209": {
+                "id": "aus2025_blitz2kvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "210": {
+                "id": "aus2025_blitzkobeand2kvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "211": {
+                "id": "aus2025_blitzfast2kvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "212": {
+                "id": "aus2025_blitztrytoknifevsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "213": {
+                "id": "aus2025_eligecatchingsmokevsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "214": {
+                "id": "aus2025_frozen2kvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "215": {
+                "id": "aus2025_karrigandefensevsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "216": {
+                "id": "aus2025_karriganoncatwalkvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "217": {
+                "id": "aus2025_karrigan2headshotsvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "218": {
+                "id": "aus2025_karrigan2entrybvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "219": {
+                "id": "aus2025_mzinhodoubleentryvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "220": {
+                "id": "aus2025_mzinho2kadefensevsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "221": {
+                "id": "aus2025_rain2kvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "222": {
+                "id": "aus2025_rain2khsvsthemongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "223": {
+                "id": "aus2025_s1mple2kdualiesvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "224": {
+                "id": "aus2025_s1mpleawarenessvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "225": {
+                "id": "aus2025_s1mple2crucialmissesvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "226": {
+                "id": "aus2025_s1mple3kawpvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "227": {
+                "id": "aus2025_s1mplefunnymomentvsthemongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "228": {
+                "id": "aus2025_s1mplewinsawpduelvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "229": {
+                "id": "aus2025_s1mplefailvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "230": {
+                "id": "aus2025_senzudoubleentryvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "231": {
+                "id": "aus2025_senzu2kdefensevsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "232": {
+                "id": "aus2025_techno4k2konbvsfazeonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "233": {
+                "id": "aus2025_9103kawpvsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "234": {
+                "id": "aus2025_9103kawpwingamevsfazeanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "235": {
+                "id": "aus2025_blitz2khsvsecovsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "236": {
+                "id": "aus2025_elige1v2clutchvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "237": {
+                "id": "aus2025_elige2kdeaglevsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "238": {
+                "id": "aus2025_eligeexposehimselfin1v2vsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "239": {
+                "id": "aus2025_elige3kdancingvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "240": {
+                "id": "aus2025_frozen3kvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "241": {
+                "id": "aus2025_frozen2khsvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "242": {
+                "id": "aus2025_karrigan2kvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "243": {
+                "id": "aus2025_karriganusachantvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "244": {
+                "id": "aus2025_karrigan2kmac10vsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "245": {
+                "id": "aus2025_karrigan2kentryvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "246": {
+                "id": "aus2025_mzinho2kafterplantvsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "247": {
+                "id": "aus2025_mzinho2kvsecovsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "248": {
+                "id": "aus2025_mzinhochaseandisdeniedthe1v2vsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "249": {
+                "id": "aus2025_rainswiftdoublevsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "250": {
+                "id": "aus2025_rain3kvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "251": {
+                "id": "aus2025_mongolzscaredofs1mplevsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "252": {
+                "id": "aus2025_s1mple2kawpvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "253": {
+                "id": "aus2025_s1mpleocmbatawpvsmongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "254": {
+                "id": "aus2025_senzu2kandclutchvsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "255": {
+                "id": "aus2025_senzu3kpistolvsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "256": {
+                "id": "aus2025_senzuswift2kvsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "257": {
+                "id": "aus2025_techno3kvsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "258": {
+                "id": "aus2025_technolosestotimevsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "259": {
+                "id": "aus2025_techno4ktriplevsfazeonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 122
+            },
+            "260": {
+                "id": "aus2025_9102kdeagvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "261": {
+                "id": "aus2025_9101kvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "262": {
+                "id": "aus2025_9102kawpvspainonmiragee",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "263": {
+                "id": "aus2025_blitzswitcheroovspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "264": {
+                "id": "aus2025_blitz3kvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "265": {
+                "id": "aus2025_blitz2khsvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "266": {
+                "id": "aus2025_dav1deus2kecovsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "267": {
+                "id": "aus2025_dav1deusalmostclutchvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "268": {
+                "id": "aus2025_dav1deusmistakevsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "269": {
+                "id": "aus2025_dav1deusclutchdeniedvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "270": {
+                "id": "aus2025_dgt3kvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "271": {
+                "id": "aus2025_dgt1kvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "272": {
+                "id": "aus2025_mzinho2hsvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "273": {
+                "id": "aus2025_mzinho3konavspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "274": {
+                "id": "aus2025_mzinhodobleentryvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "275": {
+                "id": "aus2025_mzinho3kvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "276": {
+                "id": "aus2025_mzinho2kaftertimevspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "277": {
+                "id": "aus2025_mzinho2kintovictoryvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "278": {
+                "id": "aus2025_nqz3kvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "279": {
+                "id": "aus2025_nqzawprampagevsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "280": {
+                "id": "aus2025_senzuremoveawpvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "281": {
+                "id": "aus2025_senznuinstahsvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "282": {
+                "id": "aus2025_senznu2khsvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "283": {
+                "id": "aus2025_snow3kpistolvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "284": {
+                "id": "aus2025_snowhugblitzvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "285": {
+                "id": "aus2025_techno4k2kvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "286": {
+                "id": "aus2025_techno4k2kinbackvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "287": {
+                "id": "aus2025_techno4k2kdualiesvspainonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "288": {
+                "id": "aus2025_apexcleansupvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "289": {
+                "id": "aus2025_apexpistolsneutralizedvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "290": {
+                "id": "aus2025_apexofftargetvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "291": {
+                "id": "aus2025_apexmixedfirevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "292": {
+                "id": "aus2025_brollanroundwinningkillsvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "293": {
+                "id": "aus2025_brollandeaglefuryvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "294": {
+                "id": "aus2025_flamezaceunleashedvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "295": {
+                "id": "aus2025_flamezyoushallnotpassvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "296": {
+                "id": "aus2025_flamezwreckagevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "297": {
+                "id": "aus2025_flamezsmokeambushvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "298": {
+                "id": "aus2025_flamezsmokeshotsvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "299": {
+                "id": "aus2025_jimpphatunseenblastvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "300": {
+                "id": "aus2025_jimpphatcleansweepvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "301": {
+                "id": "aus2025_meziitickettakedownvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "302": {
+                "id": "aus2025_meziibsiteblockedvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "303": {
+                "id": "aus2025_ropzglockcarnagevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "304": {
+                "id": "aus2025_ropzmassacrevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "305": {
+                "id": "aus2025_ropzcoverfirevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "306": {
+                "id": "aus2025_ropzprecisionvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "307": {
+                "id": "aus2025_spinxtwodownonesitevsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "308": {
+                "id": "aus2025_torzsipistolroundherovsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "309": {
+                "id": "aus2025_torzsitunnelvisionvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "310": {
+                "id": "aus2025_xertionglockdoubletroublevsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "311": {
+                "id": "aus2025_xertiondeadlydeaglevsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "312": {
+                "id": "aus2025_xertiongalilpowervsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "313": {
+                "id": "aus2025_xertionlockedoutvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "314": {
+                "id": "aus2025_zywoofocusedbutfallenvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "315": {
+                "id": "aus2025_zywoofastdoublevsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "316": {
+                "id": "aus2025_zywoovitalvsmouzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "317": {
+                "id": "aus2025_apexcheekyboostvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "318": {
+                "id": "aus2025_apexpeekaboovsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "319": {
+                "id": "aus2025_apex2kdefendbvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "320": {
+                "id": "aus2025_apex1v2afterplantvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "321": {
+                "id": "aus2025_brollandestroyedvsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "322": {
+                "id": "aus2025_brollanrunninggalilvsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "323": {
+                "id": "aus2025_flamez2kvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "324": {
+                "id": "aus2025_flamezonetapvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "325": {
+                "id": "aus2025_jimphatlosetotimevsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "326": {
+                "id": "aus2025_jimpphat2kinnervsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "327": {
+                "id": "aus2025_mezitriggerdisciplinenotenoughvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "328": {
+                "id": "aus2025_ropz2kuspvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "329": {
+                "id": "aus2025_ropz2kvsecovsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "330": {
+                "id": "aus2025_ropz2kinnervsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "331": {
+                "id": "aus2025_ropz2krotatevsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "332": {
+                "id": "aus2025_ropz2onetapsvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "333": {
+                "id": "aus2025_ropz2kvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "334": {
+                "id": "aus2025_spinxfailedlurkvsfazeontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "335": {
+                "id": "aus2025_spinx3kvsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "336": {
+                "id": "aus2025_spinxswift2khsvsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "337": {
+                "id": "aus2025_torszifailedclutchvsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "338": {
+                "id": "aus2025_xertioncowboy3kvsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "339": {
+                "id": "aus2025_xertion2kecovsvitalityontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "340": {
+                "id": "aus2025_zywoo2kvsecovsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "341": {
+                "id": "aus2025_zywoo2kawpvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "342": {
+                "id": "aus2025_zywooawprampagevsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "343": {
+                "id": "aus2025_zywoo3kdominatingvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "344": {
+                "id": "aus2025_zywoo2khsvsmouzontrain",
+                "tournament event id": 24,
+                "tournament event stage id": 10,
+                "map": "de_train",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "345": {
+                "id": "aus2025_apexstrikesbackataustincrowd",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "346": {
+                "id": "aus2025_910clutchdeniedvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "347": {
+                "id": "aus2025_910triplekillvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "348": {
+                "id": "aus2025_9102kawpvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "349": {
+                "id": "aus2025_910acevsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "350": {
+                "id": "aus2025_apex3kvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "351": {
+                "id": "aus2025_apex2kvsecovsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "352": {
+                "id": "aus2025_apexflashplayvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "353": {
+                "id": "aus2025_apexjokerasitevsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "354": {
+                "id": "aus2025_blitz3kvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "355": {
+                "id": "aus2025_blitzclutchdeniedvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "356": {
+                "id": "aus2025_blitz2kvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "357": {
+                "id": "aus2025_flamezclutchdeniedvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "358": {
+                "id": "aus2025_flamez3kvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "359": {
+                "id": "aus2025_meziteamflashedvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "360": {
+                "id": "aus2025_meziifailbacktobackclutchvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "361": {
+                "id": "aus2025_meziiclutchdeniedvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "362": {
+                "id": "aus2025_mzinhowallbangvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "363": {
+                "id": "aus2025_ropzcowboyvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "364": {
+                "id": "aus2025_senzu3kecovsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "365": {
+                "id": "aus2025_senzuecofraggervsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "366": {
+                "id": "aus2025_techno4krampageandclutchvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "367": {
+                "id": "aus2025_tehcno4kclutchdemonvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "368": {
+                "id": "aus2025_techno4k2kdualiesvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "369": {
+                "id": "aus2025_techno4k2kwinmapvsvitalityonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "370": {
+                "id": "aus2025_zywoosmokecriminalvsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "371": {
+                "id": "aus2025_zywoosmokespeakervsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "372": {
+                "id": "aus2025_zywoobreaksmokevsmongolzonmirage",
+                "tournament event id": 24,
+                "tournament event stage id": 11,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "373": {
+                "id": "aus2025_apex2kpistolvsmongolzdust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "374": {
+                "id": "aus2025_apexkobevsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "375": {
+                "id": "aus2025_apex2kbvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "376": {
+                "id": "aus2025_apexflyingglockvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "377": {
+                "id": "aus2025_blitz2kvsvitalityondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "378": {
+                "id": "aus2025_flamez2kecovsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "379": {
+                "id": "aus2025_flamez2kvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "380": {
+                "id": "aus2025_flamez2kafterplantvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "381": {
+                "id": "aus2025_flamez2kavsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "382": {
+                "id": "aus2025_flamezlosetotimevsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "383": {
+                "id": "aus2025_mezii2kvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "384": {
+                "id": "aus2025_meziientry2kvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "385": {
+                "id": "aus2025_meziiclutchvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "386": {
+                "id": "aus2025_mezii2kandwinmapvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "387": {
+                "id": "aus2025_mzinhoclose1v3vsvitalityondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "388": {
+                "id": "aus2025_mzinhoonetapvsvitalityondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "389": {
+                "id": "aus2025_ropz2kdualsvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "390": {
+                "id": "aus2025_ropz2kbvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "391": {
+                "id": "aus2025_ropz4kvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "392": {
+                "id": "aus2025_ropzclotchdeniedvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "393": {
+                "id": "aus2025_senzuclutchgodvsvitalityondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "394": {
+                "id": "aus2025_senznuclutchdeniedvsvitalityondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "395": {
+                "id": "aus2025_techno2kandwhiffvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "396": {
+                "id": "aus2025_techno3kandclutchvsvitalityondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "397": {
+                "id": "aus2025_zywoo2kecovsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "398": {
+                "id": "aus2025_zywoo3kvsmongolzondust2",
+                "tournament event id": 24,
+                "tournament event stage id": 12,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "399": {
+                "id": "aus2025_910openandclosevspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "400": {
+                "id": "aus2025_910jumpspotdodgevspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "401": {
+                "id": "aus2025_910killtriodeliveredvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "402": {
+                "id": "aus2025_910triplekillcloservspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "403": {
+                "id": "aus2025_biguzeraibelieveicanflyvsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "404": {
+                "id": "aus2025_blitzecotastesgoodvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "405": {
+                "id": "aus2025_blitzstrugglingagainstglocksvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "406": {
+                "id": "aus2025_dav1deusrightbeindyouvsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "407": {
+                "id": "aus2025_dgt2kvsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "408": {
+                "id": "aus2025_dgt1kvsthemongolzonaubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "409": {
+                "id": "aus2025_mzinho3kvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "410": {
+                "id": "aus2025_mzinhopreaimvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "411": {
+                "id": "aus2025_mzinhoflashingdoesntmattervsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "412": {
+                "id": "aus2025_mzinhodoubleglockdownvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "413": {
+                "id": "aus2025_nqzmissedshotmissedchancevsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "414": {
+                "id": "aus2025_nqzicantseevsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "415": {
+                "id": "aus2025_senzuyoucanthidevspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "416": {
+                "id": "aus2025_senzuclutchornothingvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "417": {
+                "id": "aus2025_senzudeagledoublevspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "418": {
+                "id": "aus2025_senzuclutchanddefusevspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "419": {
+                "id": "aus2025_senzuglockstakendownvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "420": {
+                "id": "aus2025_snow2kvsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "421": {
+                "id": "aus2025_snownicetryvsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "422": {
+                "id": "aus2025_snowglockdoubledownvsthemongolzonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "423": {
+                "id": "aus2025_techno4ktripleterroronanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "424": {
+                "id": "aus2025_techno4kdualsnodamagevspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "425": {
+                "id": "aus2025_techno4kriflepowerplayvspainonanubis",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_anubis",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 122
+            },
+            "426": {
+                "id": "aus2025_apexsneakyslayervsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "427": {
+                "id": "aus2025_apexairbornevsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "428": {
+                "id": "aus2025_brollanexploitvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "429": {
+                "id": "aus2025_brollanriflecontrolvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "430": {
+                "id": "aus2025_brollanblastvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "431": {
+                "id": "aus2025_flamezlasteffortvsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "432": {
+                "id": "aus2025_jimpphatpitholdvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "433": {
+                "id": "aus2025_jimpphatpitpotvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "434": {
+                "id": "aus2025_jimpphatpunisherfrompitvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "435": {
+                "id": "aus2025_jimpphatretakemastervsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "436": {
+                "id": "aus2025_jimpphatjimmyjabsvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "437": {
+                "id": "aus2025_ropzrapidfirevsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "438": {
+                "id": "aus2025_ropzstrongholdvsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "439": {
+                "id": "aus2025_spinxstrikevsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "440": {
+                "id": "aus2025_spinxsiterecoveryvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "441": {
+                "id": "aus2025_spinxsharpshootervsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "442": {
+                "id": "aus2025_spinxhiddenthreatvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "443": {
+                "id": "aus2025_torzsideadlydefensevsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "444": {
+                "id": "aus2025_torzsifamasimpactvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "445": {
+                "id": "aus2025_torzsidualkillvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "446": {
+                "id": "aus2025_torzsiclosecallvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "447": {
+                "id": "aus2025_torzsilethallongvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "448": {
+                "id": "aus2025_torzsihitormissvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "449": {
+                "id": "aus2025_torzsitaggingvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "450": {
+                "id": "aus2025_torzsibombsitebattlevsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "451": {
+                "id": "aus2025_xertionpistolpunishervsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "452": {
+                "id": "aus2025_zywooroundcloservsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "453": {
+                "id": "aus2025_zywooalmosttherevsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "454": {
+                "id": "aus2025_zywoostrikingmp9vsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "455": {
+                "id": "aus2025_zywooriflerampagevsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "456": {
+                "id": "aus2025_zywooonemagvsmouzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 9,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 106
+            },
+            "457": {
+                "id": "aus2025_910misfirevsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "458": {
+                "id": "aus2025_910strikingvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "459": {
+                "id": "aus2025_910strugglevsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "460": {
+                "id": "aus2025_910sprayandprayvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "461": {
+                "id": "aus2025_910killchainvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "462": {
+                "id": "aus2025_910doubledownvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "463": {
+                "id": "aus2025_apexkillstreakvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "464": {
+                "id": "aus2025_apexroundsecorevsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "465": {
+                "id": "aus2025_apexholdlinevsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "466": {
+                "id": "aus2025_apexbombsiteclearedvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "467": {
+                "id": "aus2025_apexownfirevsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "468": {
+                "id": "aus2025_blitzheroiceffortvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "469": {
+                "id": "aus2025_blitzboomvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "470": {
+                "id": "aus2025_blitzbackstabbervsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "471": {
+                "id": "aus2025_flamezretakedeniedvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "472": {
+                "id": "aus2025_flameztesting123vsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "473": {
+                "id": "aus2025_flamezretakekingvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "474": {
+                "id": "aus2025_flamezalmostclutchvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "475": {
+                "id": "aus2025_flamezroundherevsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "476": {
+                "id": "aus2025_meziidominationvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "477": {
+                "id": "aus2025_meziistandingstrongvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "478": {
+                "id": "aus2025_meziiboostkillvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "479": {
+                "id": "aus2025_meziiwarningshotvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "480": {
+                "id": "aus2025_meziicleansweepvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "481": {
+                "id": "aus2025_mzinhogamechangervsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "482": {
+                "id": "aus2025_mzinhomomentumvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "483": {
+                "id": "aus2025_mzinhoquickkillsvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "484": {
+                "id": "aus2025_ropzrampagevsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "485": {
+                "id": "aus2025_ropzfiercefightvsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "486": {
+                "id": "aus2025_ropzfailedrevengevsthemongolzoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "487": {
+                "id": "aus2025_senzuoneshotvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "488": {
+                "id": "aus2025_senzusmokesprayvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "489": {
+                "id": "aus2025_senzustrikingshotsvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "490": {
+                "id": "aus2025_techno4ktechnotriumphvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "491": {
+                "id": "aus2025_techno4ktimedpushvsvitaltyoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "492": {
+                "id": "aus2025_techno4kclutchwinvsvitalityoninferno",
+                "tournament event id": 24,
+                "tournament event stage id": 13,
+                "map": "de_inferno",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
             }
         }
     }
