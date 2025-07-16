@@ -3171,7 +3171,7 @@
                     "magazine model": "weapons/models/mp9/weapon_smg_mp9_mag.vmdl",
                     "primary reserve ammo max": 120,
                     "inaccuracy jump initial": 37.279999,
-                    "inaccuracy jump": 18.43,
+                    "inaccuracy jump": 50,
                     "heat per shot": 0.3,
                     "tracer frequency": 3,
                     "max player speed": 240,
@@ -3199,7 +3199,7 @@
                     "recovery time stand": 0.25789,
                     "recoil angle": 0,
                     "recoil angle variance": 70,
-                    "recoil magnitude": 19,
+                    "recoil magnitude": 21,
                     "recoil magnitude variance": 1,
                     "recoil seed": 50729,
                     "primary clip size": 30,
@@ -3207,7 +3207,7 @@
                     "weapon weight": 25,
                     "inaccuracy crouch alt": 5.5,
                     "inaccuracy fire alt": 3.7,
-                    "inaccuracy jump alt": 18.43,
+                    "inaccuracy jump alt": 50,
                     "inaccuracy ladder alt": 148.912506,
                     "inaccuracy land alt": 0.056,
                     "inaccuracy move alt": 29.040001,
@@ -3215,7 +3215,7 @@
                     "max player speed alt": 240,
                     "recoil angle alt": 0,
                     "recoil angle variance alt": 70,
-                    "recoil magnitude alt": 19,
+                    "recoil magnitude alt": 21,
                     "recoil magnitude variance alt": 1,
                     "recovery time crouch final": 0.184207,
                     "recovery time stand final": 0.25789,
@@ -29707,6 +29707,544 @@
                 "map_name": "#SFUI_Map_de_brewery",
                 "attributes": {
                     "pedestal display model": "models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+                }
+            },
+            "5140": {
+                "name": "premier season coin s=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_eg",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5141": {
+                "name": "premier season coin s=3 c=1 b=1",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_11",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 1,
+                    "premier season bars": 1,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5142": {
+                "name": "premier season coin s=3 c=1 b=2",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_12",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 1,
+                    "premier season bars": 2,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5143": {
+                "name": "premier season coin s=3 c=1 b=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_13",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 1,
+                    "premier season bars": 3,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5144": {
+                "name": "premier season coin s=3 c=1 b=4",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_14",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 1,
+                    "premier season bars": 4,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5145": {
+                "name": "premier season coin s=3 c=1 b=5",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_15",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 1,
+                    "premier season bars": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5146": {
+                "name": "premier season coin s=3 c=2 b=1",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_21",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 2,
+                    "premier season bars": 1,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5147": {
+                "name": "premier season coin s=3 c=2 b=2",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_22",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 2,
+                    "premier season bars": 2,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5148": {
+                "name": "premier season coin s=3 c=2 b=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_23",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 2,
+                    "premier season bars": 3,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5149": {
+                "name": "premier season coin s=3 c=2 b=4",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_24",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 2,
+                    "premier season bars": 4,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5150": {
+                "name": "premier season coin s=3 c=2 b=5",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_25",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 2,
+                    "premier season bars": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5151": {
+                "name": "premier season coin s=3 c=3 b=1",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_31",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 3,
+                    "premier season bars": 1,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5152": {
+                "name": "premier season coin s=3 c=3 b=2",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_32",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 3,
+                    "premier season bars": 2,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5153": {
+                "name": "premier season coin s=3 c=3 b=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_33",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 3,
+                    "premier season bars": 3,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5154": {
+                "name": "premier season coin s=3 c=3 b=4",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_34",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 3,
+                    "premier season bars": 4,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5155": {
+                "name": "premier season coin s=3 c=3 b=5",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_35",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 3,
+                    "premier season bars": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5156": {
+                "name": "premier season coin s=3 c=4 b=1",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_41",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 4,
+                    "premier season bars": 1,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5157": {
+                "name": "premier season coin s=3 c=4 b=2",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_42",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 4,
+                    "premier season bars": 2,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5158": {
+                "name": "premier season coin s=3 c=4 b=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_43",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 4,
+                    "premier season bars": 3,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5159": {
+                "name": "premier season coin s=3 c=4 b=4",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_44",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 4,
+                    "premier season bars": 4,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5160": {
+                "name": "premier season coin s=3 c=4 b=5",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_45",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 4,
+                    "premier season bars": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5161": {
+                "name": "premier season coin s=3 c=5 b=1",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_51",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 5,
+                    "premier season bars": 1,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5162": {
+                "name": "premier season coin s=3 c=5 b=2",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_52",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 5,
+                    "premier season bars": 2,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5163": {
+                "name": "premier season coin s=3 c=5 b=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_53",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 5,
+                    "premier season bars": 3,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5164": {
+                "name": "premier season coin s=3 c=5 b=4",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_54",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 5,
+                    "premier season bars": 4,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5165": {
+                "name": "premier season coin s=3 c=5 b=5",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_55",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 5,
+                    "premier season bars": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5166": {
+                "name": "premier season coin s=3 c=6 b=1",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_61",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 6,
+                    "premier season bars": 1,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5167": {
+                "name": "premier season coin s=3 c=6 b=2",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_62",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 6,
+                    "premier season bars": 2,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5168": {
+                "name": "premier season coin s=3 c=6 b=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_63",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 6,
+                    "premier season bars": 3,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5169": {
+                "name": "premier season coin s=3 c=6 b=4",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_64",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 6,
+                    "premier season bars": 4,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5170": {
+                "name": "premier season coin s=3 c=6 b=5",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_65",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 6,
+                    "premier season bars": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5171": {
+                "name": "premier season coin s=3 c=7 b=1",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_71",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 7,
+                    "premier season bars": 1,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5172": {
+                "name": "premier season coin s=3 c=7 b=2",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_72",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 7,
+                    "premier season bars": 2,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5173": {
+                "name": "premier season coin s=3 c=7 b=3",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_73",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 7,
+                    "premier season bars": 3,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5174": {
+                "name": "premier season coin s=3 c=7 b=4",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_74",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 7,
+                    "premier season bars": 4,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
+                }
+            },
+            "5175": {
+                "name": "premier season coin s=3 c=7 b=5",
+                "prefab": "premier_season_coin",
+                "item_name": "#CSGO_Collectible_PremierSeason3Coin",
+                "item_description": "#CSGO_Collectible_PremierSeason3Coin_Desc",
+                "image_inventory": "econ/premier_seasons/premier_season_3_coin_75",
+                "attributes": {
+                    "premier season": 3,
+                    "premier season clrs max": 7,
+                    "premier season bars max": 5,
+                    "premier season clrs": 7,
+                    "premier season bars": 5,
+                    "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
                 }
             },
             "5200": {
@@ -174914,8 +175452,7 @@
                     "ui_image_thumbnail": "backgrounds/xpshop/stkr_craft_02_thumbnail",
                     "ui_show_new_tag": 1746082800,
                     "flags": 1,
-                    "ui_set_image": "set_stkr_craft_02",
-                    "limited_until": 1752526800
+                    "ui_set_image": "set_stkr_craft_02"
                 }
             }
         },
