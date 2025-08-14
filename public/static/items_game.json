@@ -159,6 +159,11 @@
                 "value": 13,
                 "weight": 50,
                 "hexColor": "#FFD7AA"
+            },
+            "volatile": {
+                "value": 14,
+                "weight": 50,
+                "hexColor": "#B43232"
             }
         },
         "colors": {
@@ -6984,6 +6989,9 @@
             "coupon_masterminds2_capsule_prefab": {
                 "prefab": "coupon_prefab"
             },
+            "coupon_deluge_capsule_prefab": {
+                "prefab": "coupon_prefab"
+            },
             "aus2025_sticker_capsule_prefab": {
                 "first_sale_date": "2025-05-23",
                 "prefab": "weapon_case_base",
@@ -7059,13 +7067,7 @@
                         "value": 0,
                         "force_gc_to_generate": 1
                     }
-                },
-                "tool": {
-                    "type": "spraypaint"
-                },
-                "item_slot2": "spray",
-                "item_sub_position2": "spray0",
-                "inv_graphic_art": "graffiti"
+                }
             }
         },
         "items": {
@@ -32044,6 +32046,49 @@
                 "loot_list_name": "coupon loot list - warhammer_xenos_sticker_capsule",
                 "prefab": "coupon_warhammer_xenos_capsule_prefab"
             },
+            "7019": {
+                "name": "crate_musickit_deluge_capsule",
+                "item_name": "#CSGO_crate_musickit_deluge_capsule",
+                "item_description": "#CSGO_crate_musickit_deluge_capsule_desc",
+                "image_inventory": "econ/weapon_cases/crate_musickit_deluge_capsule",
+                "first_sale_date": "2025-06-27",
+                "prefab": "weapon_case_base",
+                "attributes": {
+                    "set supply crate series": {
+                        "attribute_class": "supply_crate_series",
+                        "value": 450
+                    }
+                }
+            },
+            "7020": {
+                "name": "coupon - deluge_musickit_capsule",
+                "item_name": "#coupon_deluge_musickit_capsule",
+                "item_description": "#coupon_desc",
+                "loot_list_name": "coupon loot list - deluge_musickit_capsule",
+                "prefab": "coupon_deluge_capsule_prefab"
+            },
+            "7021": {
+                "name": "crate_musickit_deluge_stattrak_capsule",
+                "item_name": "#CSGO_crate_musickit_deluge_stattrak_capsule",
+                "item_description": "#CSGO_crate_musickit_deluge_stattrak_capsule_desc",
+                "image_inventory": "econ/weapon_cases/crate_musickit_deluge_stattrak_capsule",
+                "first_sale_date": "2025-06-27",
+                "prefab": "weapon_case_base",
+                "attributes": {
+                    "set supply crate series": {
+                        "attribute_class": "supply_crate_series",
+                        "value": 451
+                    }
+                }
+            },
+            "7022": {
+                "name": "coupon - deluge_stattrak_musickit_capsule",
+                "item_name": "#coupon_deluge_stattrak_musickit_capsule",
+                "item_description": "#coupon_desc",
+                "loot_list_name": "coupon loot list - deluge_stattrak_musickit_capsule",
+                "prefab": "coupon_deluge_capsule_prefab",
+                "will_produce_stattrak": 1
+            },
             "20000": {
                 "name": "coupon - bossyburger",
                 "item_name": "#coupon_bossyburger",
@@ -35816,6 +35861,24 @@
                 "description_string": "#Attrib_HighlightReel",
                 "hidden": 1,
                 "effect_type": "positive",
+                "stored_as_integer": 1
+            },
+            "315": {
+                "name": "volatile container",
+                "attribute_class": "volatile_container",
+                "description_string": "#Attrib_SupplyCrateSeries",
+                "description_format": "value_is_additive",
+                "hidden": 1,
+                "effect_type": "neutral",
+                "stored_as_integer": 1
+            },
+            "316": {
+                "name": "purchase price",
+                "attribute_class": "in_game_price",
+                "description_string": "#Attrib_SupplyCrateSeries",
+                "description_format": "value_is_additive",
+                "hidden": 1,
+                "effect_type": "neutral",
                 "stored_as_integer": 1
             }
         },
@@ -135994,6 +136057,15 @@
                 "wear_remap_max": 0.35,
                 "composite_material_path": "weapons/paints/set_train_2025/train_shapes_01.vcompmat"
             },
+            "1338": {
+                "name": "soch_mountains_m4a1s",
+                "description_string": "#PaintKit_soch_mountains_xm1014",
+                "description_tag": "#PaintKit_soch_mountains_xm1014_Tag",
+                "style": 2,
+                "wear_remap_min": 0,
+                "wear_remap_max": 0.7,
+                "composite_material_path": "weapons/paints/limited_time/soch_mountains_m4a1s.vcompmat"
+            },
             "9001": {
                 "name": "workshop_default",
                 "wear_remap_min": 0,
@@ -137853,7 +137925,8 @@
             "cu_mp9_latte": "legendary",
             "awp_longdog": "legendary",
             "aq_deagle_case_hardened_2": "mythical",
-            "soch_mountains_limited_time": "mythical"
+            "soch_mountains_limited_time": "mythical",
+            "soch_mountains_m4a1s": "mythical"
         },
         "item_sets": {
             "set_community_3": {
@@ -139900,7 +139973,8 @@
                 "is_hidden_set": 1,
                 "items": {
                     "[soch_mountains_limited_time]weapon_xm1014": 1,
-                    "[aq_deagle_case_hardened_2]weapon_deagle": 1
+                    "[aq_deagle_case_hardened_2]weapon_deagle": 1,
+                    "[soch_mountains_m4a1s]weapon_m4a1_silencer": 1
                 }
             }
         },
@@ -157543,6 +157617,12 @@
             "set_xpshop_wpn_02": {
                 "set_xpshop_wpn_02_mythical": 1
             },
+            "set_xpshop_wpn_03_legendary": {
+                "[soch_mountains_m4a1s]weapon_m4a1_silencer": 1
+            },
+            "set_xpshop_wpn_03": {
+                "set_xpshop_wpn_03_legendary": 1
+            },
             "keychain_pack_kc_missinglink_rare": {
                 "[kc_missinglink_ava]keychain": 1,
                 "[kc_missinglink_sam_salty]keychain": 1,
@@ -157704,6 +157784,30 @@
             "coupon loot list - masterminds2_stattrak_musickit_capsule": {
                 "public_list_contents": 1,
                 "crate_musickit_masterminds2_stattrak_capsule": 1
+            },
+            "crate_musickit_deluge_capsule_lootlist": {
+                "[adambeyer_01]musickit": 1,
+                "[ghost_01]musickit": 1,
+                "[health_01]musickit": 1,
+                "[jamesandthecoldgun_01]musickit": 1,
+                "[jonathanyoung_01]musickit": 1,
+                "[juelz_02]musickit": 1,
+                "[killermike_01]musickit": 1,
+                "[pvris_01]musickit": 1,
+                "[selectiveresponse_01]musickit": 1,
+                "[tigercub_01]musickit": 1
+            },
+            "crate_musickit_deluge_stattrak_capsule_lootlist": {
+                "will_produce_stattrak": 1,
+                "crate_musickit_deluge_capsule_lootlist": 1
+            },
+            "coupon loot list - deluge_musickit_capsule": {
+                "public_list_contents": 1,
+                "crate_musickit_deluge_capsule": 1
+            },
+            "coupon loot list - deluge_stattrak_musickit_capsule": {
+                "public_list_contents": 1,
+                "crate_musickit_deluge_stattrak_capsule": 1
             },
             "crate_sticker_pack_aus2025_legends_rare": {
                 "[aus2025_team_vita]sticker": 1,
@@ -159080,7 +159184,9 @@
             "446": "crate_sticker_pack_warhammer_traitor_capsule_lootlist",
             "447": "crate_sticker_pack_warhammer_adeptus_capsule_lootlist",
             "448": "crate_sticker_pack_warhammer_imperium_capsule_lootlist",
-            "449": "crate_sticker_pack_warhammer_xenos_capsule_lootlist"
+            "449": "crate_sticker_pack_warhammer_xenos_capsule_lootlist",
+            "450": "crate_musickit_deluge_capsule_lootlist",
+            "451": "crate_musickit_deluge_stattrak_capsule_lootlist"
         },
         "quest_reward_loot_lists": {
             "1": "set_dust",
@@ -159755,6 +159861,76 @@
                 "loc_description": "#MusicKit_perfectworld_02_desc",
                 "image_inventory": "econ/music_kits/perfectworld_02",
                 "pedestal_display_model": "models/inventory_items/music_kits/music_kit_perfectworld_02.vmdl"
+            },
+            "87": {
+                "name": "adambeyer_01",
+                "loc_name": "#MusicKit_adambeyer_01",
+                "loc_description": "#MusicKit_adambeyer_01_desc",
+                "image_inventory": "econ/music_kits/adambeyer_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_adambeyer_01.vmdl"
+            },
+            "88": {
+                "name": "ghost_01",
+                "loc_name": "#MusicKit_ghost_01",
+                "loc_description": "#MusicKit_ghost_01_desc",
+                "image_inventory": "econ/music_kits/ghost_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_ghost_01.vmdl"
+            },
+            "89": {
+                "name": "health_01",
+                "loc_name": "#MusicKit_health_01",
+                "loc_description": "#MusicKit_health_01_desc",
+                "image_inventory": "econ/music_kits/health_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_health_01.vmdl"
+            },
+            "90": {
+                "name": "jamesandthecoldgun_01",
+                "loc_name": "#MusicKit_jamesandthecoldgun_01",
+                "loc_description": "#MusicKit_jamesandthecoldgun_01_desc",
+                "image_inventory": "econ/music_kits/jamesandthecoldgun_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_jamesandthecoldgun_01.vmdl"
+            },
+            "91": {
+                "name": "jonathanyoung_01",
+                "loc_name": "#MusicKit_jonathanyoung_01",
+                "loc_description": "#MusicKit_jonathanyoung_01_desc",
+                "image_inventory": "econ/music_kits/jonathanyoung_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_jonathanyoung_01.vmdl"
+            },
+            "92": {
+                "name": "juelz_02",
+                "loc_name": "#MusicKit_juelz_02",
+                "loc_description": "#MusicKit_juelz_02_desc",
+                "image_inventory": "econ/music_kits/juelz_02",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_juelz_02.vmdl"
+            },
+            "93": {
+                "name": "killermike_01",
+                "loc_name": "#MusicKit_killermike_01",
+                "loc_description": "#MusicKit_killermike_01_desc",
+                "image_inventory": "econ/music_kits/killermike_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_killermike_01.vmdl"
+            },
+            "94": {
+                "name": "pvris_01",
+                "loc_name": "#MusicKit_pvris_01",
+                "loc_description": "#MusicKit_pvris_01_desc",
+                "image_inventory": "econ/music_kits/pvris_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_pvris_01.vmdl"
+            },
+            "95": {
+                "name": "selectiveresponse_01",
+                "loc_name": "#MusicKit_selectiveresponse_01",
+                "loc_description": "#MusicKit_selectiveresponse_01_desc",
+                "image_inventory": "econ/music_kits/selectiveresponse_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_selectiveresponse_01.vmdl"
+            },
+            "96": {
+                "name": "tigercub_01",
+                "loc_name": "#MusicKit_tigercub_01",
+                "loc_description": "#MusicKit_tigercub_01_desc",
+                "image_inventory": "econ/music_kits/tigercub_01",
+                "pedestal_display_model": "models/inventory_items/music_kits/music_kit_tigercub_01.vmdl"
             }
         },
         "quest_definitions": {
@@ -175416,7 +175592,8 @@
                     "ui_image_thumbnail": "backgrounds/xpshop/stkr_craft_02_thumbnail",
                     "ui_show_new_tag": 1746082800,
                     "flags": 1,
-                    "ui_set_image": "set_stkr_craft_02"
+                    "ui_set_image": "set_stkr_craft_02",
+                    "limited_until": 1762812000
                 }
             }
         },
