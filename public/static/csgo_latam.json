@@ -27734,7 +27734,7 @@
             "SFUI_Map_workshop_preview_ancient": "Vista previa de Ancient",
             "SFUI_Map_workshop_preview_inferno": "Vista previa de Inferno",
             "SFUI_Map_warehouse": "Almacén",
-            "SFUI_Map_mainmenu": "Menú principal (actualmente {s:mainmenu_bkgnd})",
+            "SFUI_Map_mainmenu": "Menú principal - {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "UN JUGADOR",
             "SFUI_VariesByMap": "Varía según el mapa",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Atrás ${confirm} Seleccionar ${dpad} Moverse",

@@ -28230,7 +28230,6 @@
             "SFUI_Map_workshop_preview_ancient": "Ancient 預覽",
             "SFUI_Map_workshop_preview_inferno": "Inferno 預覽",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "主選單（目前：{s:mainmenu_bkgnd}）",
             "SFUI_CreateSinglePlayerTitle": "單人遊戲",
             "SFUI_VariesByMap": "地圖循環",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} 返回 ${confirm} 選擇 ${dpad} 瀏覽",

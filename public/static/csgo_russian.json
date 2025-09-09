@@ -27734,7 +27734,7 @@
             "SFUI_Map_workshop_preview_ancient": "Предпросмотр Ancient",
             "SFUI_Map_workshop_preview_inferno": "Предпросмотр Inferno",
             "SFUI_Map_warehouse": "Склад",
-            "SFUI_Map_mainmenu": "Главное меню (сейчас {s:mainmenu_bkgnd})",
+            "SFUI_Map_mainmenu": "Главное меню — {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "ОДИНОЧНАЯ ИГРА",
             "SFUI_VariesByMap": "Зависит от карты",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Назад ${confirm} Выбрать ${dpad} Перемещение",

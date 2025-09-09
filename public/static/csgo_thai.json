@@ -28369,7 +28369,6 @@
             "SFUI_Map_workshop_preview_ancient": "ตัวอย่าง Ancient",
             "SFUI_Map_workshop_preview_inferno": "ตัวอย่าง Inferno",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "เมนูหลัก (ปัจจุบัน {s:mainmenu_bkgnd})",
             "SFUI_CreateSinglePlayerTitle": "ผู้เล่นคนเดียว",
             "SFUI_VariesByMap": "เปลี่ยนแปลงตามแผนที่",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} กลับ ${confirm} เลือก ${dpad} บังคับทิศทาง",

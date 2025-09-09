@@ -28376,7 +28376,7 @@
             "SFUI_Map_workshop_preview_ancient": "Ancient – forhåndsvisning",
             "SFUI_Map_workshop_preview_inferno": "Inferno – forhåndsvisning",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "Hovedmeny (for øyeblikket {s:mainmenu_bkgnd})",
+            "SFUI_Map_mainmenu": "Hovedmeny – {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "ENKELTSPILLER",
             "SFUI_VariesByMap": "Varierer etter kart",
             "SFUI_SinglePlayer_ModeSelect": "${dpad} Naviger ${cancel} Tilbake ${confirm} Velg",

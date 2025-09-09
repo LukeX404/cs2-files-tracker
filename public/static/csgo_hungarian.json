@@ -27947,7 +27947,7 @@
             "SFUI_Map_workshop_preview_ancient": "Ancient előnézet",
             "SFUI_Map_workshop_preview_inferno": "Inferno előnézet",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "Főmenü (jelenleg {s:mainmenu_bkgnd})",
+            "SFUI_Map_mainmenu": "Főmenü – {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "EGYJÁTÉKOS MÓD",
             "SFUI_VariesByMap": "Pályánként változik",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Vissza ${confirm} Kiválaszt ${dpad} Navigálás",

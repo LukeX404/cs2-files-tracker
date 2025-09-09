@@ -27734,7 +27734,6 @@
             "SFUI_Map_workshop_preview_ancient": "Ancient (aperçu)",
             "SFUI_Map_workshop_preview_inferno": "Inferno (aperçu)",
             "SFUI_Map_warehouse": "Entrepôt",
-            "SFUI_Map_mainmenu": "Menu principal (choix actuel : {s:mainmenu_bkgnd})",
             "SFUI_CreateSinglePlayerTitle": "SOLO",
             "SFUI_VariesByMap": "Varie selon la carte",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Retour     ${confirm} Sélectionner     ${dpad} Naviguer",

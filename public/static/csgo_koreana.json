@@ -27737,7 +27737,6 @@
             "SFUI_Map_workshop_preview_ancient": "고대 미리 보기",
             "SFUI_Map_workshop_preview_inferno": "인페르노 미리 보기",
             "SFUI_Map_warehouse": "창고",
-            "SFUI_Map_mainmenu": "메인 메뉴(현재 {s:mainmenu_bkgnd})",
             "SFUI_CreateSinglePlayerTitle": "싱글 플레이어",
             "SFUI_VariesByMap": "맵에 따라 분류",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} 뒤로 ${confirm} 선택 ${dpad} 탐색",

@@ -27734,7 +27734,7 @@
             "SFUI_Map_workshop_preview_ancient": "Ancient Ön İzlemesi",
             "SFUI_Map_workshop_preview_inferno": "Inferno Ön İzlemesi",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "Ana Menü (şu anda {s:mainmenu_bkgnd})",
+            "SFUI_Map_mainmenu": "Ana Menü - {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "TEK OYUNCULU",
             "SFUI_VariesByMap": "Haritaya göre değişir",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Geri ${confirm} Seç ${dpad} Git",

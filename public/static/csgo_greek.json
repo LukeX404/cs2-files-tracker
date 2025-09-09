@@ -28452,7 +28452,6 @@
             "SFUI_Map_workshop_preview_ancient": "Προεπισκόπηση Ancient",
             "SFUI_Map_workshop_preview_inferno": "Προεπισκόπηση Inferno",
             "SFUI_Map_warehouse": "Αποθήκη",
-            "SFUI_Map_mainmenu": "Κύριο μενού (τώρα {s:mainmenu_bkgnd})",
             "SFUI_CreateSinglePlayerTitle": "Παιχνίδι με bot",
             "SFUI_VariesByMap": "Ποικίλλει ανά χάρτη",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Πίσω ${confirm} Επιλογή ${dpad} Πλοήγηση",

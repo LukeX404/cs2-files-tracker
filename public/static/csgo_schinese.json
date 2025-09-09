@@ -27734,7 +27734,7 @@
             "SFUI_Map_workshop_preview_ancient": "远古遗迹预览",
             "SFUI_Map_workshop_preview_inferno": "炼狱小镇预览",
             "SFUI_Map_warehouse": "仓库",
-            "SFUI_Map_mainmenu": "主菜单（当前{s:mainmenu_bkgnd}）",
+            "SFUI_Map_mainmenu": "主菜单 - {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "单人游戏",
             "SFUI_VariesByMap": "随地图变化",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} 返回 ${confirm} 选择 ${dpad} 导览",

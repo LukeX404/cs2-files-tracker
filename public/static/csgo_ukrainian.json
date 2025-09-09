@@ -28484,7 +28484,6 @@
             "SFUI_Map_workshop_preview_ancient": "Огляд Ancient",
             "SFUI_Map_workshop_preview_inferno": "Огляд Inferno",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "Головне меню (наразі {s:mainmenu_bkgnd})",
             "SFUI_CreateSinglePlayerTitle": "САМІТНА ГРА",
             "SFUI_VariesByMap": "Залежно від мапи",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Назад  ${confirm} Обрати  ${dpad} Змінити вибір",

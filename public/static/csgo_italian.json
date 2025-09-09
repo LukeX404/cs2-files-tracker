@@ -27735,7 +27735,6 @@
             "SFUI_Map_workshop_preview_ancient": "Anteprima di Ancient",
             "SFUI_Map_workshop_preview_inferno": "Anteprima di Inferno",
             "SFUI_Map_warehouse": "Deposito",
-            "SFUI_Map_mainmenu": "Menu principale (attualmente {s:mainmenu_bkgnd})",
             "SFUI_CreateSinglePlayerTitle": "GIOCATORE SINGOLO",
             "SFUI_VariesByMap": "Cambia di mappa in mappa",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Indietro ${confirm} Seleziona ${dpad} Naviga",

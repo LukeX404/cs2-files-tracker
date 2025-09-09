@@ -27734,7 +27734,7 @@
             "SFUI_Map_workshop_preview_ancient": "Vorschau: Ancient",
             "SFUI_Map_workshop_preview_inferno": "Vorschau: Inferno",
             "SFUI_Map_warehouse": "Lagerhaus",
-            "SFUI_Map_mainmenu": "Hauptmenü (aktuell: {s:mainmenu_bkgnd})",
+            "SFUI_Map_mainmenu": "Hauptmenü – {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "EINZELSPIELER",
             "SFUI_VariesByMap": "Variiert je nach Karte",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Zurück ${confirm} Auswählen ${dpad} Navigieren",

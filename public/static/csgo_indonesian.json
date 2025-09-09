@@ -27163,7 +27163,6 @@
             "SFUI_Map_workshop_preview_ancient": "Pratinjau Ancient",
             "SFUI_Map_workshop_preview_inferno": "Pratinjau Inferno",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "Menu Utama ({s:mainmenu_bkgnd})",
             "SFUI_CreateSinglePlayerTitle": "PEMAIN TUNGGAL",
             "SFUI_VariesByMap": "Bervariasi berdasarkan map",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Kembali     ${confirm} Pilih     ${dpad} Navigasi",

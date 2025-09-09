@@ -27806,7 +27806,7 @@
             "SFUI_Map_workshop_preview_ancient": "Ancient (pré-visualização)",
             "SFUI_Map_workshop_preview_inferno": "Inferno (pré-visualização)",
             "SFUI_Map_warehouse": "Warehouse",
-            "SFUI_Map_mainmenu": "Menu principal (atualmente {s:mainmenu_bkgnd})",
+            "SFUI_Map_mainmenu": "Menu principal - {s:mainmenu_bkgnd}",
             "SFUI_CreateSinglePlayerTitle": "UM JOGADOR",
             "SFUI_VariesByMap": "Varia por mapa",
             "SFUI_SinglePlayer_ModeSelect": "${cancel} Voltar ${confirm} Selecionar ${dpad} Navegar",
