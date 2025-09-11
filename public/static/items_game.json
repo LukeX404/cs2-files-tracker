@@ -175591,9 +175591,9 @@
                     "callout": "#CSGO_crate_sticker_pack_stkr_craft_02_short",
                     "ui_image_thumbnail": "backgrounds/xpshop/stkr_craft_02_thumbnail",
                     "ui_show_new_tag": 1746082800,
+                    "limited_until": 1757491200,
                     "flags": 1,
-                    "ui_set_image": "set_stkr_craft_02",
-                    "limited_until": 1762812000
+                    "ui_set_image": "set_stkr_craft_02"
                 }
             }
         },
