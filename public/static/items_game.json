@@ -6992,6 +6992,9 @@
             "coupon_deluge_capsule_prefab": {
                 "prefab": "coupon_prefab"
             },
+            "volatile_pricing": {
+                "prefab": "valve"
+            },
             "aus2025_sticker_capsule_prefab": {
                 "first_sale_date": "2025-05-23",
                 "prefab": "weapon_case_base",
@@ -30185,6 +30188,33 @@
                     "pedestal display model": "models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
                 }
             },
+            "5176": {
+                "item_name": "#CSGO_crate_community_36",
+                "item_description": "#CSGO_crate_community_36_desc",
+                "name": "crate_community_36",
+                "image_inventory": "econ/weapon_cases/crate_community_36_closed",
+                "image_inventory^volatile": "econ/weapon_cases/crate_community_36_open",
+                "model_player": "models/props/ad_laptop/ad_laptop_animated.vmdl",
+                "prefab": "volatile_pricing weapon_case_selfopening_collection",
+                "attributes": {
+                    "set supply crate series": {
+                        "attribute_class": "supply_crate_series",
+                        "value": 273
+                    },
+                    "volatile container": {
+                        "attribute_class": "volatile_container",
+                        "value": 1
+                    }
+                },
+                "tags": {
+                    "ItemSet": {
+                        "tag_value": "set_community_36",
+                        "tag_text": "#CSGO_set_community_36",
+                        "tag_group": "ItemSet",
+                        "tag_group_text": "#SFUI_InvTooltip_SetTag"
+                    }
+                }
+            },
             "5200": {
                 "name": "customplayer_tm_phoenix",
                 "prefab": "customplayer",
@@ -35879,6 +35909,15 @@
                 "description_format": "value_is_additive",
                 "hidden": 1,
                 "effect_type": "neutral",
+                "stored_as_integer": 1
+            },
+            "317": {
+                "name": "purchaser account id",
+                "attribute_class": "purchaser_account_id",
+                "description_string": "#Attrib_PurchaserAccountID",
+                "description_format": "value_is_additive",
+                "hidden": 1,
+                "effect_type": "positive",
                 "stored_as_integer": 1
             }
         },
@@ -136066,6 +136105,159 @@
                 "wear_remap_max": 0.7,
                 "composite_material_path": "weapons/paints/limited_time/soch_mountains_m4a1s.vcompmat"
             },
+            "1339": {
+                "name": "aug_trigger_discipline_velco",
+                "description_string": "#PaintKit_aug_trigger_discipline_velco",
+                "description_tag": "#PaintKit_cu_deag_trigger_discipline_Tag",
+                "style": 7,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/aug_trigger_discipline_velco.vcompmat"
+            },
+            "1340": {
+                "name": "m4a1s_quick_liquidation",
+                "description_string": "#PaintKit_m4a1s_quick_liquidation",
+                "description_tag": "#PaintKit_cu_mp5sd_quick_liquidation_Tag",
+                "style": 7,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/m4a1s_quick_liquidation.vcompmat"
+            },
+            "1341": {
+                "name": "mp9_vinyl",
+                "description_string": "#PaintKit_mp9_vinyl",
+                "description_tag": "#PaintKit_mp9_vinyl_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/mp9_vinyl.vcompmat"
+            },
+            "1342": {
+                "name": "p2000_deep_red",
+                "description_string": "#PaintKit_p2000_deep_red",
+                "description_tag": "#PaintKit_p2000_deep_red_Tag",
+                "style": 7,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/p2000_deep_red.vcompmat"
+            },
+            "1343": {
+                "name": "scar_refraction_v4",
+                "description_string": "#PaintKit_scar_refraction",
+                "description_tag": "#PaintKit_scar_refraction_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/scar_refraction_v4.vcompmat"
+            },
+            "1344": {
+                "name": "mp5sd_chrome",
+                "description_string": "#PaintKit_mp5sd_chrome",
+                "description_tag": "#PaintKit_mp5sd_chrome_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/mp5sd_chrome.vcompmat"
+            },
+            "1345": {
+                "name": "p250_bullfrog",
+                "description_string": "#PaintKit_p250_bullfrog",
+                "description_tag": "#PaintKit_p250_bullfrog_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/p250_bullfrog.vcompmat"
+            },
+            "1346": {
+                "name": "awp_ice_coaled",
+                "description_string": "#PaintKit_cu_ak47_cogthings",
+                "description_tag": "#PaintKit_cu_ak47_cogthings_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/awp_ice_coaled.vcompmat"
+            },
+            "1347": {
+                "name": "dual_elite_biblical_angel",
+                "description_string": "#PaintKit_dual_elite_biblical_angel",
+                "description_tag": "#PaintKit_dual_elite_biblical_angel_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/dual_elite_biblical_angel.vcompmat"
+            },
+            "1348": {
+                "name": "glock_mirror_maze_v2_pearl",
+                "description_string": "#PaintKit_glock_mirror_maze",
+                "description_tag": "#PaintKit_glock_mirror_maze_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/glock_mirror_maze_v2_pearl.vcompmat"
+            },
+            "1349": {
+                "name": "mac10_kamicatze",
+                "description_string": "#PaintKit_mac10_kamicatze",
+                "description_tag": "#PaintKit_mac10_kamicatze_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/mac10_kamicatze.vcompmat"
+            },
+            "1350": {
+                "name": "nova_ocular",
+                "description_string": "#PaintKit_nova_ocular",
+                "description_tag": "#PaintKit_nova_ocular_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/nova_ocular.vcompmat"
+            },
+            "1351": {
+                "name": "ump45_illumina_v2",
+                "description_string": "#PaintKit_ump45_illumina_v2",
+                "description_tag": "#PaintKit_ump45_illumina_v2_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/ump45_illumina_v2.vcompmat"
+            },
+            "1352": {
+                "name": "ak47_puffer_custom",
+                "description_string": "#PaintKit_ak47_puffer_custom",
+                "description_tag": "#PaintKit_ak47_puffer_custom_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/ak47_puffer_custom.vcompmat"
+            },
+            "1353": {
+                "name": "m4a4_skrrrt_green",
+                "description_string": "#PaintKit_m4a4_skrrrt_green",
+                "description_tag": "#PaintKit_m4a4_skrrrt_green_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/m4a4_skrrrt_green.vcompmat"
+            },
+            "1354": {
+                "name": "mp7_smoking_kills_v2",
+                "description_string": "#PaintKit_mp7_smoking_kills_v2",
+                "description_tag": "#PaintKit_mp7_smoking_kills_v2_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/mp7_smoking_kills_v2.vcompmat"
+            },
+            "1355": {
+                "name": "mag7_circle_copper",
+                "description_string": "#PaintKit_mag7_circle_copper",
+                "description_tag": "#PaintKit_mag7_circle_copper_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_36/mag7_circle_copper.vcompmat"
+            },
             "9001": {
                 "name": "workshop_default",
                 "wear_remap_min": 0,
@@ -137776,6 +137968,23 @@
             "ump45_old_cartoon": "legendary",
             "awp_printstream": "legendary",
             "famas_badtrip": "ancient",
+            "p2000_deep_red": "uncommon",
+            "scar_refraction_v4": "rare",
+            "aug_trigger_discipline_velco": "rare",
+            "mp9_vinyl": "rare",
+            "p250_bullfrog": "rare",
+            "mag7_circle_copper": "rare",
+            "m4a1s_quick_liquidation": "rare",
+            "mp5sd_chrome": "rare",
+            "nova_ocular": "mythical",
+            "dual_elite_biblical_angel": "mythical",
+            "mac10_kamicatze": "mythical",
+            "ump45_illumina_v2": "mythical",
+            "awp_ice_coaled": "mythical",
+            "glock_mirror_maze_v2_pearl": "mythical",
+            "mp7_smoking_kills_v2": "legendary",
+            "m4a4_skrrrt_green": "legendary",
+            "ak47_puffer_custom": "legendary",
             "ht_facet_p2000": "common",
             "ht_peaks_rainbow": "uncommon",
             "ht_swirl_ssg08": "uncommon",
@@ -139766,6 +139975,30 @@
                     "[ump45_old_cartoon]weapon_ump45": 1,
                     "[famas_badtrip]weapon_famas": 1,
                     "[awp_printstream]weapon_awp": 1
+                }
+            },
+            "set_community_36": {
+                "name": "#CSGO_set_community_36",
+                "set_description": "#CSGO_set_community_36_desc",
+                "is_collection": 1,
+                "items": {
+                    "[scar_refraction_v4]weapon_scar20": 1,
+                    "[aug_trigger_discipline_velco]weapon_aug": 1,
+                    "[p2000_deep_red]weapon_hkp2000": 1,
+                    "[mp9_vinyl]weapon_mp9": 1,
+                    "[p250_bullfrog]weapon_p250": 1,
+                    "[mag7_circle_copper]weapon_mag7": 1,
+                    "[mp5sd_chrome]weapon_mp5sd": 1,
+                    "[nova_ocular]weapon_nova": 1,
+                    "[m4a1s_quick_liquidation]weapon_m4a1_silencer": 1,
+                    "[dual_elite_biblical_angel]weapon_elite": 1,
+                    "[mac10_kamicatze]weapon_mac10": 1,
+                    "[ump45_illumina_v2]weapon_ump45": 1,
+                    "[awp_ice_coaled]weapon_awp": 1,
+                    "[mp7_smoking_kills_v2]weapon_mp7": 1,
+                    "[glock_mirror_maze_v2_pearl]weapon_glock": 1,
+                    "[m4a4_skrrrt_green]weapon_m4a1": 1,
+                    "[ak47_puffer_custom]weapon_ak47": 1
                 }
             },
             "set_graphic_design": {
@@ -157337,6 +157570,37 @@
                 "crate_community_35_ancient": 1,
                 "set_community_35_unusual": 1
             },
+            "set_community_36_rare": {
+                "[scar_refraction_v4]weapon_scar20": 1,
+                "[aug_trigger_discipline_velco]weapon_aug": 1,
+                "[p2000_deep_red]weapon_hkp2000": 1,
+                "[mp9_vinyl]weapon_mp9": 1,
+                "[p250_bullfrog]weapon_p250": 1,
+                "[mag7_circle_copper]weapon_mag7": 1,
+                "[mp5sd_chrome]weapon_mp5sd": 1
+            },
+            "set_community_36_mythical": {
+                "[nova_ocular]weapon_nova": 1,
+                "[m4a1s_quick_liquidation]weapon_m4a1_silencer": 1,
+                "[dual_elite_biblical_angel]weapon_elite": 1,
+                "[mac10_kamicatze]weapon_mac10": 1,
+                "[ump45_illumina_v2]weapon_ump45": 1
+            },
+            "set_community_36_legendary": {
+                "[awp_ice_coaled]weapon_awp": 1,
+                "[mp7_smoking_kills_v2]weapon_mp7": 1,
+                "[glock_mirror_maze_v2_pearl]weapon_glock": 1
+            },
+            "set_community_36_ancient": {
+                "[m4a4_skrrrt_green]weapon_m4a1": 1,
+                "[ak47_puffer_custom]weapon_ak47": 1
+            },
+            "set_community_36": {
+                "set_community_36_rare": 1,
+                "set_community_36_mythical": 1,
+                "set_community_36_legendary": 1,
+                "set_community_36_ancient": 1
+            },
             "set_graphic_design_uncommon": {
                 "[ht_peaks_rainbow]weapon_m249": 1,
                 "[ht_swirl_ssg08]weapon_ssg08": 1,
@@ -159015,6 +159279,7 @@
             "270": "crate_katowice2019_promo_de_cache",
             "271": "crate_katowice2019_promo_de_train",
             "272": "crate_katowice2019_promo_de_nuke",
+            "273": "set_community_36",
             "274": "crate_community_22",
             "275": "crate_sticker_pack_feral_predators_capsule_lootlist",
             "276": "crate_sticker_pack_chicken_capsule_lootlist",
