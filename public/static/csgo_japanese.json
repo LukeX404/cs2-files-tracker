@@ -2124,7 +2124,7 @@
             "NewItemMethod_CommunityMarketPurchase": "コミュニティマーケットから受け取りました：",
             "ItemHistory_ActionWithTime": "%s1  %s2",
             "ItemHistory_Action_GenericAdd": "追加:",
-            "ItemHistory_Action_GenericRemove": "削除あるいは変更されした",
+            "ItemHistory_Action_GenericRemove": "削除または変更されました",
             "ItemHistory_Action_Traded": "トレード:",
             "ItemHistory_Action_Delete": "削除済み",
             "ItemHistory_Action_Banned": "禁止されています",
