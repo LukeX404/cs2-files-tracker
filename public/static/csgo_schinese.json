@@ -37809,7 +37809,7 @@
             "dealer_offer_attachment_wear": "{s:item-rarity}",
             "dealer_offer_attachment_status-price": "<b><span class=\\\"offer-active\\\">{s:offer-price}</span></b>",
             "dealer_offer_attachment_status-declined-price": "{s:offer-price}",
-            "user_btn_next_3": "通行证",
+            "user_btn_next_3": "下一个",
             "GameUI_Retake_DefendA": "保护 A 点！",
             "GameUI_Retake_DefendB": "保护 B 点！",
             "GameUI_Retake_RetakeA": "回防 A 点！",
