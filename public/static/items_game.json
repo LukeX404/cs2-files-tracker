@@ -33538,7 +33538,7 @@
                 "will_produce_stattrak": 1
             },
             "30050": {
-                "name": "crate_key_community_30 - Item Contest Winner",
+                "name": "crate_key_community_30_contestwinner - Item Contest Winner",
                 "item_name": "#CSGO_crate_key_community_30_contestwinner",
                 "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
                 "image_inventory": "econ/tools/crate_key_community_30",
@@ -33546,7 +33546,7 @@
                 "prefab": "weapon_case_key"
             },
             "30092": {
-                "name": "set_anubis_storepromo_key - Item Contest Winner",
+                "name": "set_anubis_storepromo_key_contestwinner - Item Contest Winner",
                 "item_name": "#CSGO_set_anubis_storepromo_key_contestwinner",
                 "item_description": "#CSGO_set_anubis_storepromo_key_contestwinner_Desc",
                 "image_inventory": "econ/tools/set_anubis_storepromo_key",
@@ -33554,7 +33554,7 @@
                 "prefab": "weapon_case_key"
             },
             "30115": {
-                "name": "set_train_2025_storepromo_key - Item Contest Winner",
+                "name": "set_train_2025_storepromo_key_contestwinner - Item Contest Winner",
                 "item_name": "#CSGO_set_train_2025_storepromo_key_contestwinner",
                 "item_description": "#CSGO_set_train_2025_storepromo_key_contestwinner_Desc",
                 "image_inventory": "econ/tools/set_train_2025_storepromo_key",
