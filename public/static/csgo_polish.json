@@ -28427,7 +28427,7 @@
             "SFUI_ItemInfo_ItemType": "Rodzaj przedmiotu",
             "SFUI_ItemInfo_FinishStyle": "Styl wykończenia",
             "SFUI_ItemInfo_FinishCatalog": "Nr w katalogu wykończenia",
-            "SFUI_ItemInfo_PatternTemplate": "Wzór szablonu",
+            "SFUI_ItemInfo_PatternTemplate": "Szablon wzoru",
             "SFUI_ItemInfo_WearAmount": "Współczynnik zużycia",
             "SFUI_ItemInfo_KeychainDef": "Seria przywieszek",
             "SFUI_ItemInfo_KeychainPattern": "Szablon przywieszki",

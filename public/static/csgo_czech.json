@@ -34,7 +34,7 @@
             "GameUI_CrosshairCode": "Kód zaměřovače:",
             "GameUI_CrosshairLength": "Délka",
             "GameUI_CrosshairDot": "Středová tečka",
-            "GameUI_IronsightColor": "Tečka hledí odpovídající barvou zaměřovači",
+            "GameUI_IronsightColor": "Tečka v hledí odpovídající barvou zaměřovači",
             "GameUI_CrosshairRecoil": "Kopírování zpětného rázu",
             "GameUI_CrosshairRecoil_Desc": "Zajistí, že zaměřovač opustí střed obrazovky, aby kopíroval zpětný ráz zbraně.",
             "GameUI_CrosshairThickness": "Tloušťka",
