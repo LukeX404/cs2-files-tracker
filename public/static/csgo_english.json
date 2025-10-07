@@ -29756,7 +29756,7 @@
             "SFUI_MainMenu_WatchNotice_Title": "Live Pro Matches",
             "SFUI_Store_Market_Link": "View On Market",
             "SFUI_Store_Limit_Offer": "Limited Time Offer",
-            "SFUI_Store_Offer_Days_Remaining:p{daysremaining}": "{d:daysremaining} Day Remaining#|#{d:daysremaining} Days Remaining.",
+            "SFUI_Store_Offer_Days_Remaining:p{daysremaining}": "{d:daysremaining} day Remaining#|#{d:daysremaining} days Remaining",
             "SFUI_Store_Offer_Days_Remaining_claim:p{daysremaining}": "{d:daysremaining} day remaining#|#{d:daysremaining} days remaining",
             "SFUI_Store_Offer_Days_Remaining_bid:p{daysremaining}": "{d:daysremaining} day remaining to bid on this offer#|#{d:daysremaining} days remaining to bid on this offer",
             "SFUI_Store_Offer_Days_Remaining_last_claim": "Last chance to claim this offer",
