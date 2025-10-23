@@ -1774,6 +1774,7 @@
             },
             "melee_unusual": {
                 "prefab": "melee",
+                "craft_class": "unusual",
                 "capabilities": {
                     "paintable": 1
                 },
@@ -5973,6 +5974,7 @@
             },
             "hands_paintable": {
                 "prefab": "hands",
+                "craft_class": "unusual",
                 "capabilities": {
                     "paintable": 1
                 },
@@ -7642,7 +7644,7 @@
                 "prefab": "recipe",
                 "baseitem": 1,
                 "item_name": "#CSGO_Recipe_TradeUp",
-                "item_description": "#CSGO_Recipe_TradeUp_Desc",
+                "item_description": "#CSGO_Recipe_TradeUpX_Desc",
                 "attributes": {
                     "recipe filter": -3
                 }
@@ -138473,6 +138475,10 @@
                     "[cu_kaiman]weapon_usp_silencer": 1,
                     "[cu_ak47_rubber]weapon_ak47": 1,
                     "[cu_titanstorm]weapon_m4a1": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_3_unusual",
+                    "strange": "community_case_3_unusual"
                 }
             },
             "set_weapons_i": {
@@ -138489,6 +138495,10 @@
                     "[aq_oiled]weapon_ak47": 1,
                     "[aa_vertigo]weapon_deagle": 1,
                     "[am_lightning_awp]weapon_awp": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_esports": {
@@ -138505,6 +138515,10 @@
                     "[hy_ak47lam]weapon_ak47": 1,
                     "[hy_blam_simple]weapon_awp": 1,
                     "[cu_catskulls_p90]weapon_p90": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_bravo_i": {
@@ -138527,6 +138541,10 @@
                     "[am_crumple_bravo]weapon_awp": 1,
                     "[cu_fireserpent_ak47_bravo]weapon_ak47": 1,
                     "[am_scales_bravo]weapon_deagle": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_weapons_ii": {
@@ -138546,6 +138564,10 @@
                     "[am_slither_p90]weapon_p90": 1,
                     "[am_electric_red]weapon_usp_silencer": 1,
                     "[cu_shark]weapon_ssg08": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_esports_ii": {
@@ -138565,6 +138587,10 @@
                     "[hy_hive]weapon_awp": 1,
                     "[am_ddpatdense_peacock]weapon_deagle": 1,
                     "[cu_xray_m4]weapon_m4a1": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_community_1": {
@@ -138585,6 +138611,10 @@
                     "[cu_awp_cobra]weapon_awp": 1,
                     "[cu_m4_asimov]weapon_m4a1": 1,
                     "[cu_sawedoff_octopump]weapon_sawedoff": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_weapons_iii": {
@@ -138604,6 +138634,10 @@
                     "[am_fuschia]weapon_cz75a": 1,
                     "[am_p250_beaded_paint]weapon_p250": 1,
                     "[aq_etched_cz75]weapon_cz75a": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_community_2": {
@@ -138624,6 +138658,10 @@
                     "[cu_nova_antique]weapon_nova": 1,
                     "[cu_awp_asimov]weapon_awp": 1,
                     "[cu_aug_chameleonaire]weapon_aug": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_community_4": {
@@ -138645,6 +138683,10 @@
                     "[cu_glock-liquescent]weapon_glock": 1,
                     "[cu_p90-asiimov]weapon_p90": 1,
                     "[cu_m4a1s_cyrex]weapon_m4a1_silencer": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_4_unusual",
+                    "strange": "community_case_4_unusual"
                 }
             },
             "set_esports_iii": {
@@ -138669,6 +138711,10 @@
                     "[cu_favela_p2000]weapon_hkp2000": 1,
                     "[cu_bullet_rain_m4a1]weapon_m4a1": 1,
                     "[cu_panther_ak47]weapon_ak47": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_community_5": {
@@ -138690,6 +138736,10 @@
                     "[cu_xm1014_caritas]weapon_xm1014": 1,
                     "[cu_tribute_ak47]weapon_ak47": 1,
                     "[cu_p2000_fire_elemental]weapon_hkp2000": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_community_6": {
@@ -138711,6 +138761,10 @@
                     "[cu_p250_mandala]weapon_p250": 1,
                     "[am_awp_glory]weapon_awp": 1,
                     "[cu_galil_abrasion]weapon_galilar": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_6_unusual",
+                    "strange": "community_case_6_unusual"
                 }
             },
             "set_community_7": {
@@ -138733,6 +138787,10 @@
                     "[aq_famas_jinn]weapon_famas": 1,
                     "[cu_m4a1_hyper_beast]weapon_m4a1_silencer": 1,
                     "[cu_mac10_neonrider]weapon_mac10": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_6_unusual",
+                    "strange": "community_case_6_unusual"
                 }
             },
             "set_dust": {
@@ -139204,6 +139262,10 @@
                     "[cu_sg553_cyrex]weapon_sg556": 1,
                     "[cu_ak47_courage_alt]weapon_ak47": 1,
                     "[cu_awp_hyper_beast]weapon_awp": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_8_unusual",
+                    "strange": "community_case_8_unusual"
                 }
             },
             "set_community_9": {
@@ -139227,6 +139289,10 @@
                     "[cu_ssg08_technicality]weapon_ssg08": 1,
                     "[gs_m4a1s_snakebite_gold]weapon_m4a1_silencer": 1,
                     "[cu_usp_kill_confirmed]weapon_usp_silencer": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_9_unusual",
+                    "strange": "community_case_9_unusual"
                 }
             },
             "set_community_10": {
@@ -139251,6 +139317,10 @@
                     "[cu_p90_shapewood]weapon_p90": 1,
                     "[gs_m4a4_royal_squire]weapon_m4a1": 1,
                     "[aa_fade_revolver]weapon_revolver": 1
+                },
+                "unusuals": {
+                    "unique": "unusual_revolving_list",
+                    "strange": "unusual_revolving_list"
                 }
             },
             "set_community_11": {
@@ -139274,6 +139344,10 @@
                     "[cu_nova_hyperbeast]weapon_nova": 1,
                     "[gs_ak47_supercharged]weapon_ak47": 1,
                     "[gs_m4a4_pioneer]weapon_m4a1": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_11_unusual",
+                    "strange": "community_case_11_unusual"
                 }
             },
             "set_nuke_2": {
@@ -139356,6 +139430,10 @@
                     "[cu_ump45_primalsaber]weapon_ump45": 1,
                     "[cu_bizon_Curse]weapon_bizon": 1,
                     "[cu_m4a1s_soultaker]weapon_m4a1_silencer": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_6_unusual",
+                    "strange": "community_case_6_unusual"
                 }
             },
             "set_community_13": {
@@ -139380,6 +139458,10 @@
                     "[gs_scar20_bloodsport]weapon_scar20": 1,
                     "[cu_glock_wasteland_rebel]weapon_glock": 1,
                     "[gs_m4a1_mecha_industries]weapon_m4a1_silencer": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_13_unusual",
+                    "strange": "community_case_13_unusual"
                 }
             },
             "set_gamma_2": {
@@ -139404,6 +139486,10 @@
                     "[gs_tec9_supercharged]weapon_tec9": 1,
                     "[cu_ak47_anarchy]weapon_ak47": 1,
                     "[gs_famas_rally]weapon_famas": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_13_unusual",
+                    "strange": "community_case_13_unusual"
                 }
             },
             "set_community_15": {
@@ -139428,6 +139514,9 @@
                     "[cu_wp_sawedoff]weapon_sawedoff": 1,
                     "[cu_ssg08_dragonfire_scope]weapon_ssg08": 1,
                     "[gs_m4a4_sector]weapon_m4a1": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_15_unusual"
                 }
             },
             "set_community_16": {
@@ -139452,6 +139541,10 @@
                     "[gs_m4a1_decimator]weapon_m4a1_silencer": 1,
                     "[gs_ak47_bloodsport]weapon_ak47": 1,
                     "[cu_usps_noir]weapon_usp_silencer": 1
+                },
+                "unusuals": {
+                    "unique": "spectrum_unusual",
+                    "strange": "spectrum_unusual"
                 }
             },
             "set_community_17": {
@@ -139476,6 +139569,9 @@
                     "[cu_m4a4_hellfire]weapon_m4a1": 1,
                     "[cu_fiveseven_hyperbeast]weapon_fiveseven": 1,
                     "[cu_awp_hannya]weapon_awp": 1
+                },
+                "unusuals": {
+                    "unique": "community_case_15_unusual"
                 }
             },
             "set_community_18": {
@@ -139500,6 +139596,10 @@
                     "[gs_r8_llamacannon]weapon_revolver": 1,
                     "[gs_ak47_empress]weapon_ak47": 1,
                     "[cu_p250_cybercroc]weapon_p250": 1
+                },
+                "unusuals": {
+                    "unique": "spectrum_unusual",
+                    "strange": "spectrum_unusual"
                 }
             },
             "set_blacksite": {
@@ -139532,6 +139632,9 @@
                     "[cu_usp_cut]weapon_usp_silencer": 1,
                     "[cu_m4a4_neo_noir]weapon_m4a1": 1,
                     "[gs_mp7_bloodsport]weapon_mp7": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_19_unusual"
                 }
             },
             "set_community_20": {
@@ -139556,6 +139659,10 @@
                     "[cu_famas_owl_orange]weapon_famas": 1,
                     "[cu_ak_neon_rider]weapon_ak47": 1,
                     "[gs_deagle_aggressor]weapon_deagle": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_20_unusual",
+                    "strange": "set_community_20_unusual"
                 }
             },
             "set_stmarc": {
@@ -139739,6 +139846,10 @@
                     "[gs_mp5_festival_drip]weapon_mp5sd": 1,
                     "[cu_ak47_asiimov]weapon_ak47": 1,
                     "[cu_awp_neonoir]weapon_awp": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_20_unusual",
+                    "strange": "set_community_20_unusual"
                 }
             },
             "set_community_22": {
@@ -139763,6 +139874,10 @@
                     "[cu_xm1014_incinerator]weapon_xm1014": 1,
                     "[cu_five_seven_angry]weapon_fiveseven": 1,
                     "[gs_m4a4_emperor]weapon_m4a1": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_22_unusual",
+                    "strange": "set_community_22_unusual"
                 }
             },
             "set_community_23": {
@@ -139787,6 +139902,10 @@
                     "[cu_ssg08_tickler]weapon_ssg08": 1,
                     "[cu_awp_virus]weapon_awp": 1,
                     "[gs_mac10_stalker]weapon_mac10": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_23_unusual",
+                    "strange": "set_community_23_unusual"
                 }
             },
             "set_community_24": {
@@ -139811,6 +139930,10 @@
                     "[am_aug_death_by_doggy]weapon_aug": 1,
                     "[cu_awp_wildfire]weapon_awp": 1,
                     "[gs_famas_legacy_gold]weapon_famas": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_24_unusual",
+                    "strange": "set_community_24_unusual"
                 }
             },
             "set_dust_2_2021": {
@@ -139887,6 +140010,10 @@
                     "[gs_mag7_justice]weapon_mag7": 1,
                     "[cu_m4a1s_csgo2048]weapon_m4a1_silencer": 1,
                     "[cu_glock18_warmaiden]weapon_glock": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_22_unusual",
+                    "strange": "set_community_22_unusual"
                 }
             },
             "set_community_26": {
@@ -139911,6 +140038,10 @@
                     "[cu_xm1014_amulet_blue]weapon_xm1014": 1,
                     "[cu_deag_printstream]weapon_deagle": 1,
                     "[cu_ak47_anubis]weapon_ak47": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_23_unusual",
+                    "strange": "set_community_23_unusual"
                 }
             },
             "set_community_27": {
@@ -139935,6 +140066,9 @@
                     "[cu_usp_krokos]weapon_usp_silencer": 1,
                     "[cu_m4a1s_printstream]weapon_m4a1_silencer": 1,
                     "[cu_glock_noir]weapon_glock": 1
+                },
+                "unusuals": {
+                    "unique": "set_glove_3_unusual"
                 }
             },
             "set_op10_ct": {
@@ -140037,6 +140171,9 @@
                     "[cu_galil_chroma_pink]weapon_galilar": 1,
                     "[gs_usps_hangedman]weapon_usp_silencer": 1,
                     "[cu_m4a4_love]weapon_m4a1": 1
+                },
+                "unusuals": {
+                    "unique": "set_glove_3_unusual"
                 }
             },
             "set_train_2021": {
@@ -140141,6 +140278,10 @@
                     "[cu_ssg_overtake]weapon_ssg08": 1,
                     "[cu_deagle_kitch]weapon_deagle": 1,
                     "[gs_ak47_abstract]weapon_ak47": 1
+                },
+                "unusuals": {
+                    "unique": "gamma2_knives2_unusual",
+                    "strange": "gamma2_knives2_unusual"
                 }
             },
             "set_community_30": {
@@ -140165,6 +140306,10 @@
                     "[cu_mp7_fear]weapon_mp7": 1,
                     "[cu_ak47_nightwish]weapon_ak47": 1,
                     "[gs_mp9_starlight]weapon_mp9": 1
+                },
+                "unusuals": {
+                    "unique": "gamma2_knives2_unusual",
+                    "strange": "gamma2_knives2_unusual"
                 }
             },
             "set_community_31": {
@@ -140189,6 +140334,9 @@
                     "[cu_sawedoff_kisslove]weapon_sawedoff": 1,
                     "[cu_usp_printstream]weapon_usp_silencer": 1,
                     "[cu_awp_chroma_pink]weapon_awp": 1
+                },
+                "unusuals": {
+                    "unique": "set_glove_3_unusual"
                 }
             },
             "set_community_32": {
@@ -140213,6 +140361,9 @@
                     "[gs_awp_limbo_snake]weapon_awp": 1,
                     "[cu_ak_head_shot_holo]weapon_ak47": 1,
                     "[cu_m4a4_temukau]weapon_m4a1": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_19_unusual"
                 }
             },
             "set_community_33": {
@@ -140237,6 +140388,10 @@
                     "[usps_doggy]weapon_usp_silencer": 1,
                     "[awp_tempered]weapon_awp": 1,
                     "[ak_porcelain]weapon_ak47": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_33_unusual",
+                    "strange": "set_community_33_unusual"
                 }
             },
             "set_community_34": {
@@ -140261,6 +140416,10 @@
                     "[ump45_neo_noir]weapon_ump45": 1,
                     "[glock_chomper]weapon_glock": 1,
                     "[m4a1s_vaporwave]weapon_m4a1_silencer": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_33_unusual",
+                    "strange": "set_community_33_unusual"
                 }
             },
             "set_community_35": {
@@ -140285,6 +140444,10 @@
                     "[ump45_old_cartoon]weapon_ump45": 1,
                     "[famas_badtrip]weapon_famas": 1,
                     "[awp_printstream]weapon_awp": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_35_unusual",
+                    "strange": "set_community_35_unusual"
                 }
             },
             "set_community_36": {
@@ -175902,6 +176065,64 @@
                 "category": "crafting",
                 "filter": -3
             },
+            "5": {
+                "name": "#RT_MP_A",
+                "n_A": "#RI_R6p",
+                "desc_inputs": "#RDI_AB",
+                "desc_outputs": "#RDO_AB",
+                "di_A": 5,
+                "di_B": "#RI_R6p",
+                "do_A": 1,
+                "do_B": "#RI_R7",
+                "all_same_class": 0,
+                "always_known": 1,
+                "premium_only": 0,
+                "disabled": 0,
+                "input_items": {
+                    "5": {
+                        "conditions": {
+                            "0": {
+                                "field": "*rarity",
+                                "operator": "string==",
+                                "value": "ancient",
+                                "required": 1
+                            },
+                            "1": {
+                                "field": "*quality",
+                                "operator": "string==",
+                                "value": "unique",
+                                "required": 1
+                            },
+                            "2": {
+                                "field": "craft_class",
+                                "operator": "string==",
+                                "value": "weapon",
+                                "required": 1
+                            }
+                        }
+                    }
+                },
+                "output_items": {
+                    "item1": {
+                        "conditions": {
+                            "0": {
+                                "field": "*match_set_rarity",
+                                "operator": "string==",
+                                "value": "unusual",
+                                "required": 1
+                            },
+                            "1": {
+                                "field": "craft_class",
+                                "operator": "string==",
+                                "value": "unusual",
+                                "required": 1
+                            }
+                        }
+                    }
+                },
+                "category": "crafting",
+                "filter": -3
+            },
             "10": {
                 "name": "#RT_MP_A",
                 "n_A": "#RI_R1p",
@@ -175964,8 +176185,7 @@
                     }
                 },
                 "category": "crafting",
-                "filter": -3,
-                "requires_tool": 0
+                "filter": -3
             },
             "11": {
                 "name": "#RT_MP_A",
@@ -176029,8 +176249,7 @@
                     }
                 },
                 "category": "crafting",
-                "filter": -3,
-                "requires_tool": 0
+                "filter": -3
             },
             "12": {
                 "name": "#RT_MP_A",
@@ -176094,8 +176313,7 @@
                     }
                 },
                 "category": "crafting",
-                "filter": -3,
-                "requires_tool": 0
+                "filter": -3
             },
             "13": {
                 "name": "#RT_MP_A",
@@ -176159,8 +176377,7 @@
                     }
                 },
                 "category": "crafting",
-                "filter": -3,
-                "requires_tool": 0
+                "filter": -3
             },
             "14": {
                 "name": "#RT_MP_A",
@@ -176224,8 +176441,77 @@
                     }
                 },
                 "category": "crafting",
-                "filter": -3,
-                "requires_tool": 0
+                "filter": -3
+            },
+            "15": {
+                "name": "#RT_MP_A",
+                "n_A": "#RI_R6p",
+                "desc_inputs": "#RDI_AB",
+                "desc_outputs": "#RDO_AB",
+                "di_A": 5,
+                "di_B": "#RI_R6p",
+                "do_A": 1,
+                "do_B": "#RI_R7",
+                "all_same_class": 0,
+                "always_known": 1,
+                "premium_only": 0,
+                "disabled": 0,
+                "input_items": {
+                    "5": {
+                        "conditions": {
+                            "0": {
+                                "field": "*rarity",
+                                "operator": "string==",
+                                "value": "ancient",
+                                "required": 1
+                            },
+                            "1": {
+                                "field": "*quality",
+                                "operator": "string==",
+                                "value": "strange",
+                                "required": 1
+                            },
+                            "2": {
+                                "field": "*kill_eater_score_type",
+                                "operator": "string==",
+                                "value": 0,
+                                "required": 1
+                            },
+                            "3": {
+                                "field": "craft_class",
+                                "operator": "string==",
+                                "value": "weapon",
+                                "required": 1
+                            }
+                        }
+                    }
+                },
+                "output_items": {
+                    "item1": {
+                        "conditions": {
+                            "0": {
+                                "field": "*match_set_rarity",
+                                "operator": "string==",
+                                "value": "unusual",
+                                "required": 1
+                            },
+                            "1": {
+                                "field": "*stattrak_recipe",
+                                "operator": "string==",
+                                "value": "yes",
+                                "required": 1
+                            },
+                            "2": {
+                                "field": "craft_class",
+                                "operator": "string==",
+                                "value": "unusual",
+                                "required": 1
+                            }
+                        }
+                    }
+                },
+                "category": "crafting",
+                "filter": -3
             }
         },
         "seasonaloperations": {
