@@ -37411,6 +37411,7 @@
             "inv_empty_lister_general": "Could not find any items for the selected category in your inventory.",
             "inv_empty_loadout_slot": "No item equipped for this slot",
             "inv_header_rarity": "Rarity:",
+            "inv_header_quality": "Quality:",
             "inv_header_grade": "Exterior:",
             "inv_header_team": "Team:",
             "shuffle_toggle_btn": "Shuffle {s:weapon} for {s:team}",
