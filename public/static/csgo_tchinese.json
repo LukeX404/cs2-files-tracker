@@ -36299,6 +36299,7 @@
             "inv_empty_lister_general": "未在您的物品欄中找到任何所選分類的物品。",
             "inv_empty_loadout_slot": "沒有可用於此欄位的物品",
             "inv_header_rarity": "稀有度：",
+            "inv_header_quality": "品質：",
             "inv_header_grade": "外觀：",
             "inv_header_team": "隊伍：",
             "shuffle_toggle_btn": "為 {s:team} 隨機選擇 {s:weapon}",

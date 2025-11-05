@@ -36586,6 +36586,7 @@
             "inv_empty_lister_general": "Kunne ikke finde nogen genstande i den valgte kategori i dit inventar.",
             "inv_empty_loadout_slot": "Ingen genstand udstyret på denne plads",
             "inv_header_rarity": "Sjældenhed:",
+            "inv_header_quality": "Kvalitet:",
             "inv_header_grade": "Overflade:",
             "inv_header_team": "Hold:",
             "shuffle_toggle_btn": "Bland {s:weapon} til {s:team}",

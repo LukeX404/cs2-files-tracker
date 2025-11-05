@@ -35793,6 +35793,7 @@
             "inv_empty_lister_general": "Il tuo inventario non contiene alcun oggetto per la categoria selezionata.",
             "inv_empty_loadout_slot": "Nessun oggetto equipaggiato in questo slot",
             "inv_header_rarity": "Rarità:",
+            "inv_header_quality": "Qualità:",
             "inv_header_grade": "Condizioni:",
             "inv_header_team": "Squadra:",
             "shuffle_toggle_btn": "{s:weapon} casuale per {s:team}",

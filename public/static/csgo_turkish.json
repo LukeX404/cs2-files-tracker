@@ -35792,6 +35792,7 @@
             "inv_empty_lister_general": "Envanterinde seçilen kategoride hiçbir eşya bulunamadı.",
             "inv_empty_loadout_slot": "Bu yuvada kuşanılmış bir eşya yok",
             "inv_header_rarity": "Nadirlik:",
+            "inv_header_quality": "Kalite:",
             "inv_header_grade": "Dış Görünüş:",
             "inv_header_team": "Takım:",
             "shuffle_toggle_btn": "{s:weapon}, {s:team} için karıştıra eklensin",

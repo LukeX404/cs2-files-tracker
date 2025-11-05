@@ -36435,6 +36435,7 @@
             "inv_empty_lister_general": "Varusteluettelostasi ei löydy valitun luokan esineitä.",
             "inv_empty_loadout_slot": "Tälle paikalle ei ole käytössä esineitä",
             "inv_header_rarity": "Harvinaisuus:",
+            "inv_header_quality": "Laatu:",
             "inv_header_grade": "Pinta:",
             "inv_header_team": "Joukkue:",
             "shuffle_toggle_btn": "Sekoitus aseita {s:weapon} joukkueelle {s:team}",

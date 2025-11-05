@@ -35792,6 +35792,7 @@
             "inv_empty_lister_general": "Votre inventaire ne contient aucun item de la catégorie sélectionnée.",
             "inv_empty_loadout_slot": "Aucun item équipé pour cet emplacement",
             "inv_header_rarity": "Rareté :",
+            "inv_header_quality": "Qualité :",
             "inv_header_grade": "Apparence :",
             "inv_header_team": "Équipe :",
             "shuffle_toggle_btn": "Mélanger {s:weapon} pour les {s:team}",

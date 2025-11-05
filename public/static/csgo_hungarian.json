@@ -36011,6 +36011,7 @@
             "inv_empty_lister_general": "Nem található a választott kategóriába tartozó tárgy a raktáradban.",
             "inv_empty_loadout_slot": "Nincs tárgy felszerelve erre a helyre.",
             "inv_header_rarity": "Ritkaság:",
+            "inv_header_quality": "Minőség:",
             "inv_header_grade": "Külső:",
             "inv_header_team": "Csapat:",
             "shuffle_toggle_btn": "{s:weapon} keverése {s:team}-nek",

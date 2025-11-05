@@ -35757,6 +35757,7 @@
             "inv_empty_lister_general": "Föremål med den valda kategorin kunde inte hittas i ditt förråd.",
             "inv_empty_loadout_slot": "Inget föremål är utrustat i denna plats",
             "inv_header_rarity": "Raritet:",
+            "inv_header_quality": "Kvalitet:",
             "inv_header_grade": "Exteriör:",
             "inv_header_team": "Lag:",
             "shuffle_toggle_btn": "Blanda {s:weapon} för {s:team}",

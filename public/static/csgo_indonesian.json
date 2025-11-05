@@ -35219,6 +35219,7 @@
             "inv_empty_lister_general": "Tidak dapat menemukan item untuk kategori yang dipilih di dalam inventarismu.",
             "inv_empty_loadout_slot": "Tidak ada item yang dipasang di slot ini",
             "inv_header_rarity": "Kelangkaan:",
+            "inv_header_quality": "Kualitas:",
             "inv_header_grade": "Eksterior:",
             "inv_header_team": "Tim:",
             "shuffle_toggle_btn": "Acak {s:weapon} untuk {s:team}",

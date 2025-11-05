@@ -35869,6 +35869,7 @@
             "inv_empty_lister_general": "Não foi encontrado nenhum item pertencente à categoria selecionada no teu inventário.",
             "inv_empty_loadout_slot": "Nenhum item equipado neste compartimento",
             "inv_header_rarity": "Raridade:",
+            "inv_header_quality": "Qualidade:",
             "inv_header_grade": "Condição:",
             "inv_header_team": "Equipa:",
             "shuffle_toggle_btn": "Adicionar {s:weapon} ao Aleatório ({s:team})",
