@@ -34928,7 +34928,8 @@
                 "attribute_type": "string",
                 "description_format": "value_is_additive",
                 "hidden": 1,
-                "effect_type": "positive"
+                "effect_type": "positive",
+                "stored_as_integer": "bytestring"
             },
             "112": {
                 "name": "custom desc attr",
