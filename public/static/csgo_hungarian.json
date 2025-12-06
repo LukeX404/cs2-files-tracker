@@ -31787,7 +31787,7 @@
             "xpshop_pass_activate": "Belépő aktiválása",
             "xpshop_pass_activate_open_armory": "Az aktiváláshoz nyisd meg a Fegyvertárat",
             "xpshop_pass_activate_desc": "Fegyvertárkreditek szerzésének megkezdéséhez aktiváld a belépőt.",
-            "xpshop_pass_extra_pass": "Újabb {s:pass} belépő beszerzése",
+            "xpshop_pass_extra_pass": "Újabb {s:pass} beszerzése",
             "xpshop_track_progress": "Belépőhaladás",
             "xpshop_track_mini_stars_counter": "{d:stars-earned}/{d:max-stars}",
             "xpshop_next_credit": "Következő kredit",
