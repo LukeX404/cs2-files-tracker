@@ -39285,7 +39285,7 @@
             "csgo_player_left_game": " \bPemain %s1 keluar dari permainan (%s2)",
             "LoadoutLockedPopupTitle": "Perlengkapan Terkunci",
             "LoadoutLockedPopupText": "Perubahan pada Perlengkapan tidak dapat dilakukan saat matchmaking mode kompetitif sedang berlangsung.",
-            "Workshop_item_title": "Alat Penyerahan Item",
+            "Workshop_item_title": "Alat Pengajuan Item",
             "Workshop_item_error_title": "Masukkan sebuah nama untuk item-mu. Nama item harus mengandung nama pemain atau informasi pengidentifikasi lainnya",
             "Workshop_item_error_image": "Pilih gambar dengan format .jpeg atau .png yang valid dan dengan ukuran kurang dari {s:max_size} dan memiliki lebar/tinggi minimum {d:min_height}",
             "Workshop_item_ready": "Pengajuan siap untuk diunggah",

@@ -33261,7 +33261,6 @@
             "SFUI_BuyMenu_NotAllowedByMode": "In diesem Spielmodus nicht erlaubt.",
             "SFUI_BuyMenu_NotAllowedByTeam": "In Ihrem derzeitigen Team nicht erlaubt.",
             "SFUI_BuyMenu_ReachedWeaponsExpertLimit:p{s1}": "Bereits {s:s1} in diesem Spiel gekauft#|#Bereits {s:s1} in diesem Spiel gekauft",
-            "SFUI_BuyMenu_Cannot_Afford": "Sie brauchen ${s:s1} mehr",
             "SFUI_BuyMenu_OnlyOneArmor": "Sie haben bereits eine Kevlarweste!",
             "SFUI_BuyMenu_NotAllowed_Short": "NICHT ERLAUBT",
             "SFUI_BuyMenu_Owned_Short": "IM BESITZ",
