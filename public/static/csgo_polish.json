@@ -39270,7 +39270,7 @@
             "WatchMenu_ViewerCount": "{s:numberOfViewers} widzów na kanale {s:channel}",
             "Matchlist_Team_Selection": "Wszystkie drużyny",
             "pickem_timer_inactive": "Tego etapu nie można jeszcze typować",
-            "pickem_timer": "Pozostało {s:time}, by zatwierdzić typy",
+            "pickem_timer": "Pozostały czas, by zatwierdzić typy: {s:time}.",
             "pickem_timer_upsell": "Pozostało <b>{s:time}</b>, by zatwierdzić typowania. Zdobądź przepustkę widza, by wziąć udział i otrzymać monety pamiątek.",
             "pickem_timer_locked": "Typy zostały zablokowane",
             "pickem_points_earned": "pkt. łącznie",

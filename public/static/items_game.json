@@ -30892,13 +30892,78 @@
                 "name": "crate_signature_pack_bud2025_group_champions",
                 "item_description": "#CSGO_crate_signature_pack_bud2025_group_champions_desc",
                 "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions",
-                "prefab": "bud2025_signature_capsule_prefab ",
-                "cannot_inspect": 1,
+                "prefab": "bud2025_signature_capsule_prefab bud2025_sellable_item_with_payment_rules",
                 "attributes": {
                     "set supply crate series": {
                         "attribute_class": "supply_crate_series",
                         "value": 467
                     }
+                }
+            },
+            "5270": {
+                "name": "prestige coin 2026",
+                "prefab": "prestige_coin",
+                "item_name": "#CSGO_Collectible_GlobalGeneral2026",
+                "item_description": "#CSGO_Collectible_Desc_GlobalGeneral2026",
+                "image_inventory": "econ/status_icons/service_medal_2026_lvl1",
+                "attributes": {
+                    "prestige year": 2026,
+                    "pedestal display model": "models/inventory_items/service_medal_2026_lvl1.vmdl"
+                }
+            },
+            "5271": {
+                "name": "prestige coin 2026 level 2",
+                "prefab": "prestige_coin",
+                "item_name": "#CSGO_Collectible_GlobalGeneral2026",
+                "item_description": "#CSGO_Collectible_Desc_GlobalGeneral2026",
+                "image_inventory": "econ/status_icons/service_medal_2026_lvl2",
+                "attributes": {
+                    "prestige year": 2026,
+                    "pedestal display model": "models/inventory_items/service_medal_2026_lvl2.vmdl"
+                }
+            },
+            "5272": {
+                "name": "prestige coin 2026 level 3",
+                "prefab": "prestige_coin",
+                "item_name": "#CSGO_Collectible_GlobalGeneral2026",
+                "item_description": "#CSGO_Collectible_Desc_GlobalGeneral2026",
+                "image_inventory": "econ/status_icons/service_medal_2026_lvl3",
+                "attributes": {
+                    "prestige year": 2026,
+                    "pedestal display model": "models/inventory_items/service_medal_2026_lvl3.vmdl"
+                }
+            },
+            "5273": {
+                "name": "prestige coin 2026 level 4",
+                "prefab": "prestige_coin",
+                "item_name": "#CSGO_Collectible_GlobalGeneral2026",
+                "item_description": "#CSGO_Collectible_Desc_GlobalGeneral2026",
+                "image_inventory": "econ/status_icons/service_medal_2026_lvl4",
+                "attributes": {
+                    "prestige year": 2026,
+                    "pedestal display model": "models/inventory_items/service_medal_2026_lvl4.vmdl"
+                }
+            },
+            "5274": {
+                "name": "prestige coin 2026 level 5",
+                "prefab": "prestige_coin",
+                "item_name": "#CSGO_Collectible_GlobalGeneral2026",
+                "item_description": "#CSGO_Collectible_Desc_GlobalGeneral2026",
+                "image_inventory": "econ/status_icons/service_medal_2026_lvl5",
+                "attributes": {
+                    "prestige year": 2026,
+                    "pedestal display model": "models/inventory_items/service_medal_2026_lvl5.vmdl"
+                }
+            },
+            "5275": {
+                "name": "prestige coin 2026 level 6",
+                "prefab": "prestige_coin",
+                "item_name": "#CSGO_Collectible_GlobalGeneral2026",
+                "item_description": "#CSGO_Collectible_Desc_GlobalGeneral2026",
+                "image_inventory": "econ/status_icons/service_medal_2026_lvl6",
+                "attributes": {
+                    "prestige year": 2026,
+                    "pedestal display model": "models/inventory_items/service_medal_2026_lvl6.vmdl"
                 }
             },
             "5300": {
@@ -133520,6 +133585,206 @@
                 "tournament_event_id": 25,
                 "tournament_team_id": 131,
                 "tournament_player_id": 1013261741
+            },
+            "10294": {
+                "name": "bud2025_signature_apex_32",
+                "item_name": "#StickerKit_bud2025_signature_apex_champion",
+                "description_string": "#StickerKit_desc_bud2025_signature_apex_champion",
+                "sticker_material": "bud2025/sig_apex_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "10295": {
+                "name": "bud2025_signature_apex_32_embroidered",
+                "item_name": "#StickerKit_bud2025_signature_apex_champion_embroidered",
+                "description_string": "#StickerKit_desc_bud2025_signature_apex_champion_embroidered",
+                "sticker_material": "bud2025/sig_apex_champion_embroidered",
+                "item_rarity": "mythical",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "10296": {
+                "name": "bud2025_signature_apex_32_holo",
+                "item_name": "#StickerKit_bud2025_signature_apex_champion_holo",
+                "description_string": "#StickerKit_desc_bud2025_signature_apex_champion_holo",
+                "sticker_material": "bud2025/sig_apex_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "10297": {
+                "name": "bud2025_signature_apex_32_gold",
+                "item_name": "#StickerKit_bud2025_signature_apex_champion_gold",
+                "description_string": "#StickerKit_desc_bud2025_signature_apex_champion_gold",
+                "sticker_material": "bud2025/sig_apex_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 29478439
+            },
+            "10298": {
+                "name": "bud2025_signature_flamez_32",
+                "item_name": "#StickerKit_bud2025_signature_flamez_champion",
+                "description_string": "#StickerKit_desc_bud2025_signature_flamez_champion",
+                "sticker_material": "bud2025/sig_flamez_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "10299": {
+                "name": "bud2025_signature_flamez_32_embroidered",
+                "item_name": "#StickerKit_bud2025_signature_flamez_champion_embroidered",
+                "description_string": "#StickerKit_desc_bud2025_signature_flamez_champion_embroidered",
+                "sticker_material": "bud2025/sig_flamez_champion_embroidered",
+                "item_rarity": "mythical",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "10300": {
+                "name": "bud2025_signature_flamez_32_holo",
+                "item_name": "#StickerKit_bud2025_signature_flamez_champion_holo",
+                "description_string": "#StickerKit_desc_bud2025_signature_flamez_champion_holo",
+                "sticker_material": "bud2025/sig_flamez_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "10301": {
+                "name": "bud2025_signature_flamez_32_gold",
+                "item_name": "#StickerKit_bud2025_signature_flamez_champion_gold",
+                "description_string": "#StickerKit_desc_bud2025_signature_flamez_champion_gold",
+                "sticker_material": "bud2025/sig_flamez_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 18569432
+            },
+            "10302": {
+                "name": "bud2025_signature_mezii_32",
+                "item_name": "#StickerKit_bud2025_signature_mezii_champion",
+                "description_string": "#StickerKit_desc_bud2025_signature_mezii_champion",
+                "sticker_material": "bud2025/sig_mezii_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "10303": {
+                "name": "bud2025_signature_mezii_32_embroidered",
+                "item_name": "#StickerKit_bud2025_signature_mezii_champion_embroidered",
+                "description_string": "#StickerKit_desc_bud2025_signature_mezii_champion_embroidered",
+                "sticker_material": "bud2025/sig_mezii_champion_embroidered",
+                "item_rarity": "mythical",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "10304": {
+                "name": "bud2025_signature_mezii_32_holo",
+                "item_name": "#StickerKit_bud2025_signature_mezii_champion_holo",
+                "description_string": "#StickerKit_desc_bud2025_signature_mezii_champion_holo",
+                "sticker_material": "bud2025/sig_mezii_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "10305": {
+                "name": "bud2025_signature_mezii_32_gold",
+                "item_name": "#StickerKit_bud2025_signature_mezii_champion_gold",
+                "description_string": "#StickerKit_desc_bud2025_signature_mezii_champion_gold",
+                "sticker_material": "bud2025/sig_mezii_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 12874964
+            },
+            "10306": {
+                "name": "bud2025_signature_ropz_32",
+                "item_name": "#StickerKit_bud2025_signature_ropz_champion",
+                "description_string": "#StickerKit_desc_bud2025_signature_ropz_champion",
+                "sticker_material": "bud2025/sig_ropz_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
+            },
+            "10307": {
+                "name": "bud2025_signature_ropz_32_embroidered",
+                "item_name": "#StickerKit_bud2025_signature_ropz_champion_embroidered",
+                "description_string": "#StickerKit_desc_bud2025_signature_ropz_champion_embroidered",
+                "sticker_material": "bud2025/sig_ropz_champion_embroidered",
+                "item_rarity": "mythical",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
+            },
+            "10308": {
+                "name": "bud2025_signature_ropz_32_holo",
+                "item_name": "#StickerKit_bud2025_signature_ropz_champion_holo",
+                "description_string": "#StickerKit_desc_bud2025_signature_ropz_champion_holo",
+                "sticker_material": "bud2025/sig_ropz_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
+            },
+            "10309": {
+                "name": "bud2025_signature_ropz_32_gold",
+                "item_name": "#StickerKit_bud2025_signature_ropz_champion_gold",
+                "description_string": "#StickerKit_desc_bud2025_signature_ropz_champion_gold",
+                "sticker_material": "bud2025/sig_ropz_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 31006590
+            },
+            "10310": {
+                "name": "bud2025_signature_zywoo_32",
+                "item_name": "#StickerKit_bud2025_signature_zywoo_champion",
+                "description_string": "#StickerKit_desc_bud2025_signature_zywoo_champion",
+                "sticker_material": "bud2025/sig_zywoo_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
+            },
+            "10311": {
+                "name": "bud2025_signature_zywoo_32_embroidered",
+                "item_name": "#StickerKit_bud2025_signature_zywoo_champion_embroidered",
+                "description_string": "#StickerKit_desc_bud2025_signature_zywoo_champion_embroidered",
+                "sticker_material": "bud2025/sig_zywoo_champion_embroidered",
+                "item_rarity": "mythical",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
+            },
+            "10312": {
+                "name": "bud2025_signature_zywoo_32_holo",
+                "item_name": "#StickerKit_bud2025_signature_zywoo_champion_holo",
+                "description_string": "#StickerKit_desc_bud2025_signature_zywoo_champion_holo",
+                "sticker_material": "bud2025/sig_zywoo_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
+            },
+            "10313": {
+                "name": "bud2025_signature_zywoo_32_gold",
+                "item_name": "#StickerKit_bud2025_signature_zywoo_champion_gold",
+                "description_string": "#StickerKit_desc_bud2025_signature_zywoo_champion_gold",
+                "sticker_material": "bud2025/sig_zywoo_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 25,
+                "tournament_team_id": 89,
+                "tournament_player_id": 153400465
             }
         },
         "paint_kits": {
@@ -168854,6 +169119,34 @@
                 "[bud2025_signature_summer_4_gold]sticker": 1,
                 "[bud2025_signature_tiger_4_gold]sticker": 1
             },
+            "crate_signature_pack_bud2025_group_champions_rare": {
+                "[bud2025_signature_apex_32]sticker": 1,
+                "[bud2025_signature_flamez_32]sticker": 1,
+                "[bud2025_signature_mezii_32]sticker": 1,
+                "[bud2025_signature_ropz_32]sticker": 1,
+                "[bud2025_signature_zywoo_32]sticker": 1
+            },
+            "crate_signature_pack_bud2025_group_champions_mythical": {
+                "[bud2025_signature_apex_32_embroidered]sticker": 1,
+                "[bud2025_signature_flamez_32_embroidered]sticker": 1,
+                "[bud2025_signature_mezii_32_embroidered]sticker": 1,
+                "[bud2025_signature_ropz_32_embroidered]sticker": 1,
+                "[bud2025_signature_zywoo_32_embroidered]sticker": 1
+            },
+            "crate_signature_pack_bud2025_group_champions_legendary": {
+                "[bud2025_signature_apex_32_holo]sticker": 1,
+                "[bud2025_signature_flamez_32_holo]sticker": 1,
+                "[bud2025_signature_mezii_32_holo]sticker": 1,
+                "[bud2025_signature_ropz_32_holo]sticker": 1,
+                "[bud2025_signature_zywoo_32_holo]sticker": 1
+            },
+            "crate_signature_pack_bud2025_group_champions_ancient": {
+                "[bud2025_signature_apex_32_gold]sticker": 1,
+                "[bud2025_signature_flamez_32_gold]sticker": 1,
+                "[bud2025_signature_mezii_32_gold]sticker": 1,
+                "[bud2025_signature_ropz_32_gold]sticker": 1,
+                "[bud2025_signature_zywoo_32_gold]sticker": 1
+            },
             "crate_signature_pack_bud2025_group_players_collection_legends": {
                 "contains_stickers_autographed_by_proplayers": 1,
                 "crate_signature_pack_bud2025_group_legends_rare": 1,
@@ -186834,6 +187127,57 @@
                     "139": 9,
                     "140": 9,
                     "141": 13
+                }
+            },
+            "25": {
+                "place_names": {
+                    "1": "#Place_Name_1st",
+                    "2": "#Place_Name_2nd",
+                    "3": "#Place_Name_3rd-4th",
+                    "4": "#Place_Name_5th-8th",
+                    "5": "#Place_Name_9th-11th",
+                    "6": "#Place_Name_12th-14th",
+                    "7": "#Place_Name_15th-16th",
+                    "8": "#Place_Name_17th-19th",
+                    "9": "#Place_Name_20th-22nd",
+                    "10": "#Place_Name_23rd-24th",
+                    "11": "#Place_Name_25th-27th",
+                    "12": "#Place_Name_28th-30th",
+                    "13": "#Place_Name_31st-32nd"
+                },
+                "team_places": {
+                    "1": 8,
+                    "6": 9,
+                    "12": 3,
+                    "28": 6,
+                    "48": 7,
+                    "59": 5,
+                    "60": 8,
+                    "61": 2,
+                    "74": 9,
+                    "80": 10,
+                    "81": 3,
+                    "85": 4,
+                    "87": 11,
+                    "89": 1,
+                    "102": 6,
+                    "106": 4,
+                    "113": 6,
+                    "115": 12,
+                    "121": 11,
+                    "122": 4,
+                    "126": 11,
+                    "127": 13,
+                    "131": 13,
+                    "132": 10,
+                    "133": 5,
+                    "134": 9,
+                    "135": 5,
+                    "139": 4,
+                    "140": 8,
+                    "142": 7,
+                    "143": 12,
+                    "144": 12
                 }
             }
         },
@@ -210127,6 +210471,72 @@
             },
             "122": {
                 "tag": "MNGZ"
+            },
+            "123": {
+                "tag": "AMKA"
+            },
+            "124": {
+                "tag": "ECST"
+            },
+            "125": {
+                "tag": "KOI"
+            },
+            "126": {
+                "tag": "LGCY"
+            },
+            "127": {
+                "tag": "LYNN"
+            },
+            "128": {
+                "tag": "PAND"
+            },
+            "129": {
+                "tag": "SAW"
+            },
+            "130": {
+                "tag": "WCRD"
+            },
+            "131": {
+                "tag": "RATM"
+            },
+            "132": {
+                "tag": "FQ"
+            },
+            "133": {
+                "tag": "PSNU"
+            },
+            "134": {
+                "tag": "AURA"
+            },
+            "135": {
+                "tag": "B8"
+            },
+            "136": {
+                "tag": "BES"
+            },
+            "137": {
+                "tag": "BB"
+            },
+            "138": {
+                "tag": "CHIN"
+            },
+            "139": {
+                "tag": "FAL"
+            },
+            "140": {
+                "tag": "M80"
+            },
+            "141": {
+                "tag": "METI"
+            },
+            "142": {
+                "tag": "PARI"
+            },
+            "143": {
+                "tag": "HUNS"
+            },
+            "144": {
+                "tag": "REDC"
             }
         },
         "items_game_live": {
@@ -214842,6 +215252,2990 @@
                 "map": "de_inferno",
                 "tournament event team0 id": 89,
                 "tournament event team1 id": 122
+            },
+            "493": {
+                "id": "bud2025_qf-navi-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "494": {
+                "id": "bud2025_qf-furia-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "495": {
+                "id": "bud2025_qf-w0nderful-quadro-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "496": {
+                "id": "bud2025_qf-aleksib-triple-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "497": {
+                "id": "bud2025_qf-b1t-triple-kill-on-mirage-1",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "498": {
+                "id": "bud2025_qf-b1t-triple-kill-on-mirage-2",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "499": {
+                "id": "bud2025_qf-b1t-triple-kill-on-mirage-3",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "500": {
+                "id": "bud2025_qf-im-triple-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "501": {
+                "id": "bud2025_qf-im-quadro-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "502": {
+                "id": "bud2025_qf-im-double-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "503": {
+                "id": "bud2025_qf-makazze-triple-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "504": {
+                "id": "bud2025_qf-yuurih-clutch-1v2-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "505": {
+                "id": "bud2025_qf-w0nderful-vs-furia-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "506": {
+                "id": "bud2025_qf-aleksib-vs-furia-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "507": {
+                "id": "bud2025_qf-b1t-vs-furia-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "508": {
+                "id": "bud2025_qf-im-vs-furia-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "509": {
+                "id": "bud2025_qf-makazze-vs-furia-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "510": {
+                "id": "bud2025_qf-yekindar-vs-navi-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "511": {
+                "id": "bud2025_qf-kscerato-vs-navi-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "512": {
+                "id": "bud2025_qf-fallen-vs-navi-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "513": {
+                "id": "bud2025_qf-molodoy-vs-navi-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "514": {
+                "id": "bud2025_qf-yuurih-vs-navi-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "515": {
+                "id": "bud2025_qf-faze-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "516": {
+                "id": "bud2025_qf-mouz-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "517": {
+                "id": "bud2025_qf-karrigan-triple-kill-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "518": {
+                "id": "bud2025_qf-karrigan-triple-kill-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "519": {
+                "id": "bud2025_qf-twistzz-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "520": {
+                "id": "bud2025_qf-jcobbb-quadro-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "521": {
+                "id": "bud2025_qf-frozen-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "522": {
+                "id": "bud2025_qf-broky-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "523": {
+                "id": "bud2025_qf-spinx-triple-kill-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "524": {
+                "id": "bud2025_qf-spinx-triple-kill-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "525": {
+                "id": "bud2025_qf-torzsi-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "526": {
+                "id": "bud2025_qf-brollan-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "527": {
+                "id": "bud2025_qf-karrigan-vs-mouz-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "528": {
+                "id": "bud2025_qf-broky-vs-mouz-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "529": {
+                "id": "bud2025_qf-twistzz-vs-mouz-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "530": {
+                "id": "bud2025_qf-jcobbb-vs-mouz-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "531": {
+                "id": "bud2025_qf-frozen-vs-mouz-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "532": {
+                "id": "bud2025_qf-jimpphat-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "533": {
+                "id": "bud2025_qf-brollan-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "534": {
+                "id": "bud2025_qf-spinx-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "535": {
+                "id": "bud2025_qf-torzsi-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "536": {
+                "id": "bud2025_qf-xertion-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "537": {
+                "id": "bud2025_qf-spirit-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "538": {
+                "id": "bud2025_qf-falcons-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "539": {
+                "id": "bud2025_qf-chopper-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "540": {
+                "id": "bud2025_qf-m0nesy-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "541": {
+                "id": "bud2025_qf-sh1ro-triple-kill-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "542": {
+                "id": "bud2025_qf-sh1ro-triple-kill-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "543": {
+                "id": "bud2025_qf-zweih-quadro-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "544": {
+                "id": "bud2025_qf-zweih-ace-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "545": {
+                "id": "bud2025_qf-donk-quadro-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "546": {
+                "id": "bud2025_qf-tn1r-triple-kill-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "547": {
+                "id": "bud2025_qf-tn1r-triple-kill-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "548": {
+                "id": "bud2025_qf-kyousuke-triple-kill-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "549": {
+                "id": "bud2025_qf-chopper-vs-falcons-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "550": {
+                "id": "bud2025_qf-donk-vs-falcons-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "551": {
+                "id": "bud2025_qf-zweih-vs-falcons-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "552": {
+                "id": "bud2025_qf-sh1ro-vs-falcons-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "553": {
+                "id": "bud2025_qf-tn1r-vs-falcons-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "554": {
+                "id": "bud2025_qf-niko-vs-spirit-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "555": {
+                "id": "bud2025_qf-kyxsan-vs-spirit-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "556": {
+                "id": "bud2025_qf-m0nesy-vs-spirit-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "557": {
+                "id": "bud2025_qf-teses-vs-spirit-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "558": {
+                "id": "bud2025_qf-kyousuke-vs-spirit-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "559": {
+                "id": "bud2025_qf-vitality-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "560": {
+                "id": "bud2025_qf-the-mongolz-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_nuke",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "561": {
+                "id": "bud2025_qf-mezii-quadro-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "562": {
+                "id": "bud2025_qf-mezii-triple-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "563": {
+                "id": "bud2025_qf-flamez-triple-kill-on-mirage-1",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "564": {
+                "id": "bud2025_qf-flamez-triple-kill-on-mirage-2",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "565": {
+                "id": "bud2025_qf-zywoo-triple-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "566": {
+                "id": "bud2025_qf-zywoo-quadro-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "567": {
+                "id": "bud2025_qf-techno4k-triple-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "568": {
+                "id": "bud2025_qf-910-triple-kill-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "569": {
+                "id": "bud2025_qf-zywoo-vs-the-mongolz-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "570": {
+                "id": "bud2025_qf-apex-vs-the-mongolz-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "571": {
+                "id": "bud2025_qf-mezii-vs-the-mongolz-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "572": {
+                "id": "bud2025_qf-flamez-vs-the-mongolz-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "573": {
+                "id": "bud2025_qf-ropz-vs-the-mongolz-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "574": {
+                "id": "bud2025_qf-blitz-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "575": {
+                "id": "bud2025_qf-techno4k-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "576": {
+                "id": "bud2025_qf-mzinho-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "577": {
+                "id": "bud2025_qf-910-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "578": {
+                "id": "bud2025_qf-controlez-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 5,
+                "map": "de_mirage",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "579": {
+                "id": "bud2025_qf-w0nderful-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "580": {
+                "id": "bud2025_qf-aleksib-double-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "581": {
+                "id": "bud2025_qf-b1t-quadro-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "582": {
+                "id": "bud2025_qf-im-quadro-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "583": {
+                "id": "bud2025_qf-im-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "584": {
+                "id": "bud2025_qf-yekindar-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "585": {
+                "id": "bud2025_qf-kscerato-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "586": {
+                "id": "bud2025_qf-fallen-double-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "587": {
+                "id": "bud2025_qf-fallen-triple-kill-on-inferno-1",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "588": {
+                "id": "bud2025_qf-fallen-triple-kill-on-inferno-2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "589": {
+                "id": "bud2025_qf-molodoy-quadro-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "590": {
+                "id": "bud2025_qf-w0nderful-vs-furia-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "591": {
+                "id": "bud2025_qf-aleksib-vs-furia-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "592": {
+                "id": "bud2025_qf-b1t-vs-furia-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "593": {
+                "id": "bud2025_qf-im-vs-furia-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "594": {
+                "id": "bud2025_qf-makazze-vs-furia-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "595": {
+                "id": "bud2025_qf-yekindar-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "596": {
+                "id": "bud2025_qf-kscerato-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "597": {
+                "id": "bud2025_qf-fallen-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "598": {
+                "id": "bud2025_qf-molodoy-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "599": {
+                "id": "bud2025_qf-yuurih-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "600": {
+                "id": "bud2025_qf-faze-victory",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "601": {
+                "id": "bud2025_qf-broky-triple-kill-on-inferno-1",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "602": {
+                "id": "bud2025_qf-broky-triple-kill-on-inferno-2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "603": {
+                "id": "bud2025_qf-broky-triple-kill-on-inferno-3",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "604": {
+                "id": "bud2025_qf-frozen-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "605": {
+                "id": "bud2025_qf-karrigan-he-damage-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "606": {
+                "id": "bud2025_qf-torzsi-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "607": {
+                "id": "bud2025_qf-twistzz-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "608": {
+                "id": "bud2025_qf-xertion-triple-kill-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "609": {
+                "id": "bud2025_qf-broky-vs-mouz-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "610": {
+                "id": "bud2025_qf-brollan-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "611": {
+                "id": "bud2025_qf-frozen-vs-mouz-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "612": {
+                "id": "bud2025_qf-jcobbb-vs-mouz-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "613": {
+                "id": "bud2025_qf-jimpphat-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "614": {
+                "id": "bud2025_qf-karrigan-vs-mouz-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "615": {
+                "id": "bud2025_qf-spinx-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "616": {
+                "id": "bud2025_qf-torzsi-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "617": {
+                "id": "bud2025_qf-twistzz-vs-mouz-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "618": {
+                "id": "bud2025_qf-xertion-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 106
+            },
+            "619": {
+                "id": "bud2025_qf-spirit-victory",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "620": {
+                "id": "bud2025_qf-chopper-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "621": {
+                "id": "bud2025_qf-donk-quadro-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "622": {
+                "id": "bud2025_qf-kyousuke-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "623": {
+                "id": "bud2025_qf-m0nesy-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "624": {
+                "id": "bud2025_qf-sh1ro-quadro-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "625": {
+                "id": "bud2025_qf-sh1ro-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "626": {
+                "id": "bud2025_qf-teses-quadro-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "627": {
+                "id": "bud2025_qf-tn1r-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "628": {
+                "id": "bud2025_qf-zweih-ace-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "629": {
+                "id": "bud2025_qf-zweih-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "630": {
+                "id": "bud2025_qf-chopper-vs-falcons-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "631": {
+                "id": "bud2025_qf-donk-vs-falcons-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "632": {
+                "id": "bud2025_qf-kyousuke-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "633": {
+                "id": "bud2025_qf-kyxsan-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "634": {
+                "id": "bud2025_qf-m0nesy-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "635": {
+                "id": "bud2025_qf-niko-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "636": {
+                "id": "bud2025_qf-sh1ro-vs-falcons-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "637": {
+                "id": "bud2025_qf-teses-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "638": {
+                "id": "bud2025_qf-tn1r-vs-falcons-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "639": {
+                "id": "bud2025_qf-zweih-vs-falcons-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "640": {
+                "id": "bud2025_qf-vitality-victory",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "641": {
+                "id": "bud2025_qf-910-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "642": {
+                "id": "bud2025_qf-mezii-triple-kill-on-dust2-1",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "643": {
+                "id": "bud2025_qf-mezii-triple-kill-on-dust2-2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "644": {
+                "id": "bud2025_qf-mzinho-quadro-kill-on-dust2-1",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "645": {
+                "id": "bud2025_qf-mzinho-quadro-kill-on-dust2-2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "646": {
+                "id": "bud2025_qf-mzinho-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "647": {
+                "id": "bud2025_qf-ropz-quadro-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "648": {
+                "id": "bud2025_qf-ropz-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "649": {
+                "id": "bud2025_qf-zywoo-triple-kill-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "650": {
+                "id": "bud2025_qf-910-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "651": {
+                "id": "bud2025_qf-apex-vs-the-mongolz-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "652": {
+                "id": "bud2025_qf-blitz-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "653": {
+                "id": "bud2025_qf-controlez-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "654": {
+                "id": "bud2025_qf-flamez-vs-the-mongolz-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "655": {
+                "id": "bud2025_qf-mezii-vs-the-mongolz-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "656": {
+                "id": "bud2025_qf-mzinho-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "657": {
+                "id": "bud2025_qf-ropz-vs-the-mongolz-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "658": {
+                "id": "bud2025_qf-techno4k-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "659": {
+                "id": "bud2025_qf-zywoo-vs-the-mongolz-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 122
+            },
+            "660": {
+                "id": "bud2025_qf-navi-victory",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "661": {
+                "id": "bud2025_qf-w0nderful-quadro-kill-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "662": {
+                "id": "bud2025_qf-aleksib-triple-kill-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "663": {
+                "id": "bud2025_qf-b1t-triple-kill-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "664": {
+                "id": "bud2025_qf-makazze-triple-kill-on-train-1",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "665": {
+                "id": "bud2025_qf-makazze-triple-kill-on-train-2",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "666": {
+                "id": "bud2025_qf-makazze-triple-kill-on-train-3",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "667": {
+                "id": "bud2025_qf-makazze-quadro-kill-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "668": {
+                "id": "bud2025_qf-kscerato-triple-kill-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "669": {
+                "id": "bud2025_qf-fallen-triple-kill-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "670": {
+                "id": "bud2025_qf-w0nderful-vs-furia-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "671": {
+                "id": "bud2025_qf-aleksib-vs-furia-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "672": {
+                "id": "bud2025_qf-b1t-vs-furia-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "673": {
+                "id": "bud2025_qf-im-vs-furia-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "674": {
+                "id": "bud2025_qf-makazze-vs-furia-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "675": {
+                "id": "bud2025_qf-yekindar-vs-navi-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "676": {
+                "id": "bud2025_qf-kscerato-vs-navi-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "677": {
+                "id": "bud2025_qf-fallen-vs-navi-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "678": {
+                "id": "bud2025_qf-molodoy-vs-navi-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "679": {
+                "id": "bud2025_qf-yuurih-vs-navi-on-train",
+                "tournament event id": 25,
+                "tournament event stage id": 7,
+                "map": "de_train",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 85
+            },
+            "680": {
+                "id": "bud2025_sf-navi-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "681": {
+                "id": "bud2025_sf-faze-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "682": {
+                "id": "bud2025_sf-aleksib-double-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "683": {
+                "id": "bud2025_sf-b1t-double-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "684": {
+                "id": "bud2025_sf-im-triple-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "685": {
+                "id": "bud2025_sf-jcobbb-quadro-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "686": {
+                "id": "bud2025_sf-karrigan-double-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "687": {
+                "id": "bud2025_sf-makazze-double-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "688": {
+                "id": "bud2025_sf-makazze-quadro-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "689": {
+                "id": "bud2025_sf-makazze-triple-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "690": {
+                "id": "bud2025_sf-w0nderful-double-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "691": {
+                "id": "bud2025_sf-w0nderful-triple-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "692": {
+                "id": "bud2025_sf-w0nderful-vs-faze-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "693": {
+                "id": "bud2025_sf-aleksib-vs-faze-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "694": {
+                "id": "bud2025_sf-b1t-vs-faze-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "695": {
+                "id": "bud2025_sf-im-vs-faze-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "696": {
+                "id": "bud2025_sf-makazze-vs-faze-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "697": {
+                "id": "bud2025_sf-karrigan-vs-navi-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "698": {
+                "id": "bud2025_sf-broky-vs-navi-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "699": {
+                "id": "bud2025_sf-twistzz-vs-navi-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "700": {
+                "id": "bud2025_sf-jcobbb-vs-navi-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "701": {
+                "id": "bud2025_sf-frozen-vs-navi-on-ancient",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_ancient",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "702": {
+                "id": "bud2025_sf-spirit-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "703": {
+                "id": "bud2025_sf-vitality-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "704": {
+                "id": "bud2025_sf-apex-double-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "705": {
+                "id": "bud2025_sf-chopper-triple-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "706": {
+                "id": "bud2025_sf-donk-triple-on-mirage-1",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "707": {
+                "id": "bud2025_sf-donk-triple-on-mirage-2",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "708": {
+                "id": "bud2025_sf-mezii-triple-on-mirage-1",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "709": {
+                "id": "bud2025_sf-mezii-triple-on-mirage-2",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "710": {
+                "id": "bud2025_sf-ropz-triple-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "711": {
+                "id": "bud2025_sf-tn1r-triple-on-mirage-1",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "712": {
+                "id": "bud2025_sf-tn1r-triple-on-mirage-2",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "713": {
+                "id": "bud2025_sf-zywoo-quadro-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "714": {
+                "id": "bud2025_sf-apex-vs-spirit-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "715": {
+                "id": "bud2025_sf-chopper-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "716": {
+                "id": "bud2025_sf-donk-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "717": {
+                "id": "bud2025_sf-flamez-vs-spirit-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "718": {
+                "id": "bud2025_sf-mezii-vs-spirit-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "719": {
+                "id": "bud2025_sf-ropz-vs-spirit-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "720": {
+                "id": "bud2025_sf-sh1ro-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "721": {
+                "id": "bud2025_sf-tn1r-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "722": {
+                "id": "bud2025_sf-zweih-vs-vitality-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "723": {
+                "id": "bud2025_sf-zywoo-vs-spirit-on-mirage",
+                "tournament event id": 25,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "724": {
+                "id": "bud2025_sf-w0nderful-triple-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "725": {
+                "id": "bud2025_sf-b1t-triple-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "726": {
+                "id": "bud2025_sf-im-quadro-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "727": {
+                "id": "bud2025_sf-im-quadro-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "728": {
+                "id": "bud2025_sf-karrigan-triple-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "729": {
+                "id": "bud2025_sf-broky-triple-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "730": {
+                "id": "bud2025_sf-twistzz-quadro-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "731": {
+                "id": "bud2025_sf-frozen-triple-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "732": {
+                "id": "bud2025_sf-frozen-triple-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "733": {
+                "id": "bud2025_sf-w0nderful-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "734": {
+                "id": "bud2025_sf-aleksib-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "735": {
+                "id": "bud2025_sf-b1t-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "736": {
+                "id": "bud2025_sf-im-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "737": {
+                "id": "bud2025_sf-makazze-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "738": {
+                "id": "bud2025_sf-karrigan-vs-navi-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "739": {
+                "id": "bud2025_sf-broky-vs-navi-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "740": {
+                "id": "bud2025_sf-twistzz-vs-navi-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "741": {
+                "id": "bud2025_sf-jcobbb-vs-navi-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "742": {
+                "id": "bud2025_sf-frozen-vs-navi-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_nuke",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "743": {
+                "id": "bud2025_sf-vitality-victory",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "744": {
+                "id": "bud2025_sf-donk-quadro-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "745": {
+                "id": "bud2025_sf-zweih-triple-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "746": {
+                "id": "bud2025_sf-tn1r-double-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "747": {
+                "id": "bud2025_sf-zywoo-triple-on-dust2-1",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "748": {
+                "id": "bud2025_sf-zywoo-triple-on-dust2-2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "749": {
+                "id": "bud2025_sf-apex-double-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "750": {
+                "id": "bud2025_sf-apex-triple-on-dust2-1",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "751": {
+                "id": "bud2025_sf-apex-triple-on-dust2-2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "752": {
+                "id": "bud2025_sf-flamez-double-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "753": {
+                "id": "bud2025_sf-ropz-triple-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "754": {
+                "id": "bud2025_sf-chopper-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "755": {
+                "id": "bud2025_sf-donk-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "756": {
+                "id": "bud2025_sf-zweih-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "757": {
+                "id": "bud2025_sf-sh1ro-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "758": {
+                "id": "bud2025_sf-tn1r-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "759": {
+                "id": "bud2025_sf-zywoo-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "760": {
+                "id": "bud2025_sf-apex-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "761": {
+                "id": "bud2025_sf-mezii-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "762": {
+                "id": "bud2025_sf-flamez-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "763": {
+                "id": "bud2025_sf-ropz-vs-spirit-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 9,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 89
+            },
+            "764": {
+                "id": "bud2025_sf-faze-win",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "765": {
+                "id": "bud2025_sf-w0nderful-triple-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "766": {
+                "id": "bud2025_sf-aleksib-double-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "767": {
+                "id": "bud2025_sf-b1t-quadro-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "768": {
+                "id": "bud2025_sf-b1t-defuse-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "769": {
+                "id": "bud2025_sf-karrigan-double-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "770": {
+                "id": "bud2025_sf-broky-double-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "771": {
+                "id": "bud2025_sf-twistzz-double-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "772": {
+                "id": "bud2025_sf-twistzz-quadro-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "773": {
+                "id": "bud2025_sf-jcobbb-triple-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "774": {
+                "id": "bud2025_sf-frozen-triple-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "775": {
+                "id": "bud2025_sf-w0nderful-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "776": {
+                "id": "bud2025_sf-aleksib-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "777": {
+                "id": "bud2025_sf-b1t-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "778": {
+                "id": "bud2025_sf-im-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "779": {
+                "id": "bud2025_sf-makazze-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "780": {
+                "id": "bud2025_sf-karrigan-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "781": {
+                "id": "bud2025_sf-broky-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "782": {
+                "id": "bud2025_sf-twistzz-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "783": {
+                "id": "bud2025_sf-jcobbb-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "784": {
+                "id": "bud2025_sf-frozen-vs-navi-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 10,
+                "map": "de_inferno",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 61
+            },
+            "785": {
+                "id": "bud2025_gf-vitality-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "786": {
+                "id": "bud2025_gf-faze-entrance",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "787": {
+                "id": "bud2025_gf-apex-double-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "788": {
+                "id": "bud2025_gf-flamez-triple-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "789": {
+                "id": "bud2025_gf-jcobbb-triple-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "790": {
+                "id": "bud2025_gf-karrigan-triple-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "791": {
+                "id": "bud2025_gf-karrigan-triple-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "792": {
+                "id": "bud2025_gf-mezii-clutch-1v3-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "793": {
+                "id": "bud2025_gf-ropz-double-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "794": {
+                "id": "bud2025_gf-twistzz-quadro-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "795": {
+                "id": "bud2025_gf-twistzz-triple-on-nuke-1",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "796": {
+                "id": "bud2025_gf-twistzz-triple-on-nuke-2",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "797": {
+                "id": "bud2025_gf-apex-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "798": {
+                "id": "bud2025_gf-broky-vs-vitality-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "799": {
+                "id": "bud2025_gf-flamez-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "800": {
+                "id": "bud2025_gf-frozen-vs-vitality-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "801": {
+                "id": "bud2025_gf-jcobbb-vs-vitality-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "802": {
+                "id": "bud2025_gf-karrigan-vs-vitality-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "803": {
+                "id": "bud2025_gf-mezii-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "804": {
+                "id": "bud2025_gf-ropz-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "805": {
+                "id": "bud2025_gf-twistzz-vs-vitality-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "806": {
+                "id": "bud2025_gf-zywoo-vs-faze-on-nuke",
+                "tournament event id": 25,
+                "tournament event stage id": 97,
+                "map": "de_nuke",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "807": {
+                "id": "bud2025_gf-zywoo-quadro-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "808": {
+                "id": "bud2025_gf-mezii-clutch-1v2-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "809": {
+                "id": "bud2025_gf-flamez-quadro-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "810": {
+                "id": "bud2025_gf-ropz-double-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "811": {
+                "id": "bud2025_gf-broky-triple-on-dust2-1",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "812": {
+                "id": "bud2025_gf-broky-double-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "813": {
+                "id": "bud2025_gf-broky-triple-on-dust2-2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "814": {
+                "id": "bud2025_gf-twistzz-double-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "815": {
+                "id": "bud2025_gf-frozen-triple-on-dust2-1",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "816": {
+                "id": "bud2025_gf-frozen-triple-on-dust2-2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "817": {
+                "id": "bud2025_gf-zywoo-vs-faze-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "818": {
+                "id": "bud2025_gf-apex-vs-faze-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "819": {
+                "id": "bud2025_gf-mezii-vs-faze-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "820": {
+                "id": "bud2025_gf-flamez-vs-faze-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "821": {
+                "id": "bud2025_gf-ropz-vs-faze-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "822": {
+                "id": "bud2025_gf-karrigan-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "823": {
+                "id": "bud2025_gf-broky-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "824": {
+                "id": "bud2025_gf-twistzz-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "825": {
+                "id": "bud2025_gf-jcobbb-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "826": {
+                "id": "bud2025_gf-frozen-vs-vitality-on-dust2",
+                "tournament event id": 25,
+                "tournament event stage id": 98,
+                "map": "de_dust2",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "827": {
+                "id": "bud2025_gf-zywoo-triple-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "828": {
+                "id": "bud2025_gf-mezii-triple-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "829": {
+                "id": "bud2025_gf-ropz-triple-on-inferno-1",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "830": {
+                "id": "bud2025_gf-ropz-triple-on-inferno-2",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "831": {
+                "id": "bud2025_gf-broky-quadro-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "832": {
+                "id": "bud2025_gf-broky-triple-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "833": {
+                "id": "bud2025_gf-frozen-triple-on-inferno-1",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "834": {
+                "id": "bud2025_gf-frozen-triple-on-inferno-2",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "835": {
+                "id": "bud2025_gf-zywoo-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "836": {
+                "id": "bud2025_gf-apex-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "837": {
+                "id": "bud2025_gf-mezii-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "838": {
+                "id": "bud2025_gf-flamez-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "839": {
+                "id": "bud2025_gf-ropz-vs-faze-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "840": {
+                "id": "bud2025_gf-karrigan-vs-vitality-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "841": {
+                "id": "bud2025_gf-broky-vs-vitality-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "842": {
+                "id": "bud2025_gf-twistzz-vs-vitality-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "843": {
+                "id": "bud2025_gf-jcobbb-vs-vitality-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "844": {
+                "id": "bud2025_gf-frozen-vs-vitality-on-inferno",
+                "tournament event id": 25,
+                "tournament event stage id": 99,
+                "map": "de_inferno",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "845": {
+                "id": "bud2025_gf-vitality-win",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "846": {
+                "id": "bud2025_gf-zywoo-triple-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "847": {
+                "id": "bud2025_gf-zywoo-double-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "848": {
+                "id": "bud2025_gf-mezii-triple-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "849": {
+                "id": "bud2025_gf-flamez-triple-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "850": {
+                "id": "bud2025_gf-ropz-quadro-on-overpass-1",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "851": {
+                "id": "bud2025_gf-ropz-quadro-on-overpass-2",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "852": {
+                "id": "bud2025_gf-ropz-triple-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "853": {
+                "id": "bud2025_gf-apex-triple-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "854": {
+                "id": "bud2025_gf-frozen-triple-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "855": {
+                "id": "bud2025_gf-zywoo-vs-faze-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "856": {
+                "id": "bud2025_gf-apex-vs-faze-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "857": {
+                "id": "bud2025_gf-mezii-vs-faze-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "858": {
+                "id": "bud2025_gf-flamez-vs-faze-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "859": {
+                "id": "bud2025_gf-ropz-vs-faze-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "860": {
+                "id": "bud2025_gf-karrigan-vs-vitality-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "861": {
+                "id": "bud2025_gf-broky-vs-vitality-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "862": {
+                "id": "bud2025_gf-twistzz-vs-vitality-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "863": {
+                "id": "bud2025_gf-jcobbb-vs-vitality-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "864": {
+                "id": "bud2025_gf-frozen-vs-vitality-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
+            },
+            "865": {
+                "id": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
+                "tournament event id": 25,
+                "tournament event stage id": 100,
+                "map": "de_overpass",
+                "tournament event team0 id": 61,
+                "tournament event team1 id": 89
             }
         }
     }
