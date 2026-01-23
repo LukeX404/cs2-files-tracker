@@ -33143,7 +33143,6 @@
             "xpshop_new_items": "Nye genstande!",
             "xpshop_lootlist_info": "<span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> indeholder en af følgende",
             "xpshop_limited_item_variations": "Forskellige lakeringer",
-            "xpshop_limited_item_variations_tooltip": "Eksempler på mulige variationer, som du kan få, når du indløser denne genstand i begrænset oplag.",
             "xpshop_pass_activate": "Aktiver pas",
             "xpshop_pass_activate_open_armory": "Åbn våbenlageret for at aktivere",
             "xpshop_pass_activate_desc": "Aktiver pas for at begynde at optjene våbenlagerpoint",

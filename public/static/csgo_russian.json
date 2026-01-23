@@ -32356,7 +32356,6 @@
             "xpshop_new_items": "Новые предметы!",
             "xpshop_lootlist_info": "<span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> содержит один из следующих предметов",
             "xpshop_limited_item_variations": "Варианты раскраски",
-            "xpshop_limited_item_variations_tooltip": "Это примеры раскраски, которая может быть у полученного вами лимитированного предмета.",
             "xpshop_pass_activate": "Активировать пропуск",
             "xpshop_pass_activate_open_armory": "Откройте арсенал, чтобы активировать",
             "xpshop_pass_activate_desc": "Активируйте пропуск, чтобы начать зарабатывать арсенальные кредиты",

@@ -32357,7 +32357,6 @@
             "xpshop_new_items": "Nouveautés !",
             "xpshop_lootlist_info": "La <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> contient l'un des items suivants",
             "xpshop_limited_item_variations": "Variantes de finition",
-            "xpshop_limited_item_variations_tooltip": "Exemples de variantes possibles que vous pourriez obtenir avec cet item en édition limitée.",
             "xpshop_pass_activate": "Activer un passe",
             "xpshop_pass_activate_open_armory": "Ouvrez l'arsenal pour l'activer",
             "xpshop_pass_activate_desc": "Activez un passe pour commencer à gagner des crédits de l'arsenal.",

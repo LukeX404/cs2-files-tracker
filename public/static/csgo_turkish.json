@@ -32379,7 +32379,6 @@
             "xpshop_new_items": "Yeni Eşyalar!",
             "xpshop_lootlist_info": "<span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> şunlardan birini içerir:",
             "xpshop_limited_item_variations": "Farklı Kaplamalar",
-            "xpshop_limited_item_variations_tooltip": "Bu sınırlı sürüm eşyasını aldığınızda elde edebileceğiniz olası varyasyonların örnekleri.",
             "xpshop_pass_activate": "Bileti Etkinleştir",
             "xpshop_pass_activate_open_armory": "Etkinleştirmek için Cephaneliği Aç",
             "xpshop_pass_activate_desc": "Cephanelik kredisi kazanmak için bileti etkinleştir.",

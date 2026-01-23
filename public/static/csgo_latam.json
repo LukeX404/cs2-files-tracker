@@ -32357,7 +32357,6 @@
             "xpshop_new_items": "¡Objetos nuevos!",
             "xpshop_lootlist_info": "La <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> contiene uno de los siguientes:",
             "xpshop_limited_item_variations": "Variaciones de acabado",
-            "xpshop_limited_item_variations_tooltip": "Ejemplos de posibles variaciones que puedes obtener al canjear este objeto de edición limitada.",
             "xpshop_pass_activate": "Activar pase",
             "xpshop_pass_activate_open_armory": "Abrir Armería para activar",
             "xpshop_pass_activate_desc": "Activa el pase para empezar a ganar créditos de Armería",

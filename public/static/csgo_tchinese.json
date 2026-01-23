@@ -32856,7 +32856,6 @@
             "xpshop_new_items": "新物品！",
             "xpshop_lootlist_info": "<span class=\\\"text-color-white\\\"><b>{s:casename}</b></span>包含下列物品之一：",
             "xpshop_limited_item_variations": "外觀變化",
-            "xpshop_limited_item_variations_tooltip": "兌換此限量版物品時可能獲得的變化範例。",
             "xpshop_pass_activate": "啟用通行證",
             "xpshop_pass_activate_open_armory": "開啟武裝庫以啟用",
             "xpshop_pass_activate_desc": "啟用通行證，開始賺取武裝庫點數",

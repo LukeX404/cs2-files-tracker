@@ -32999,7 +32999,6 @@
             "xpshop_new_items": "Uusia esineitä!",
             "xpshop_lootlist_info": "<span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> sisältää jonkin seuraavista esineistä",
             "xpshop_limited_item_variations": "Maalausmuunnelmat",
-            "xpshop_limited_item_variations_tooltip": "Esimerkkejä eri vaihtoehdoista, joita voit saada lunastaessasi tämän harvinaisen esineen.",
             "xpshop_pass_activate": "Aktivoi passi",
             "xpshop_pass_activate_open_armory": "Aktivoi asevarasto avaamalla",
             "xpshop_pass_activate_desc": "Aktivoi passi ja ansaitse asevarastokrediittejä",

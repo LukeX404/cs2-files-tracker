@@ -32320,7 +32320,6 @@
             "xpshop_new_items": "Neue Gegenstände!",
             "xpshop_lootlist_info": "Die <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> enthält einen der folgenden Gegenstände:",
             "xpshop_limited_item_variations": "Variationen der Waffenlackierung",
-            "xpshop_limited_item_variations_tooltip": "Beispiele möglicher Varianten, die beim Einlösen dieses Gegenstands in limitierter Edition erhalten werden können.",
             "xpshop_pass_activate": "Pass aktivieren",
             "xpshop_pass_activate_open_armory": "Zur Aktivierung Arsenal öffnen",
             "xpshop_pass_activate_desc": "Aktivieren Sie den Pass, um Arsenalpunkte verdienen zu können.",

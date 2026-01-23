@@ -32350,7 +32350,6 @@
             "xpshop_new_items": "Nya föremål!",
             "xpshop_lootlist_info": "<span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> innehåller ett av följande föremål:",
             "xpshop_limited_item_variations": "Lackeringsvariationer",
-            "xpshop_limited_item_variations_tooltip": "Exempel på möjliga variationer som du kan få när du löser in detta Limited Edition-föremål.",
             "xpshop_pass_activate": "Aktivera pass",
             "xpshop_pass_activate_open_armory": "Öppna vapenförrådet för att aktivera",
             "xpshop_pass_activate_desc": "Aktivera pass för att börja tjäna vapenförrådspoäng",
