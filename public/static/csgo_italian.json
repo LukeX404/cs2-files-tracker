@@ -32459,7 +32459,7 @@
             "xpshop_upsell_mainmenu_2_v2": "Accedi alla nuova collezione di Train, alla cassa Fever, a nuovi ciondoli e ad altro ancora.",
             "xpshop_upsell_btn": "Acquista un pass",
             "xpshop_upsell_tooltip": "Ulteriori informazioni sul {s:pass}",
-            "xpshop_new_items": "Nuovi oggetti!",
+            "xpshop_new_items:p{new-count}": "Nuovo oggetto!#|#Nuovi oggetti!",
             "xpshop_lootlist_info": "La <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> contiene uno dei seguenti oggetti",
             "xpshop_limited_item_variations": "Varianti delle rifiniture",
             "xpshop_limited_item_variations_tooltip": "Esempi di possibili varianti nel modello e nell'usura che potresti ottenere riscattando questo oggetto in edizione limitata.",

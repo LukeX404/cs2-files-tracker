@@ -32672,7 +32672,7 @@
             "xpshop_upsell_mainmenu_2_v2": "Szerezz hozzáférést az új Train Gyűjteményhez, a Láz Ládához, talizmánokhoz és egyebekhez.",
             "xpshop_upsell_btn": "Belépő beszerzése",
             "xpshop_upsell_tooltip": "További információ a(z) {s:pass} belépőről",
-            "xpshop_new_items": "Új tárgyak!",
+            "xpshop_new_items:p{new-count}": "Új tárgy!#|#Új tárgyak!",
             "xpshop_lootlist_info": "A(z) <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> az alábbiak egyikét tartalmazza:",
             "xpshop_limited_item_variations": "Festésváltozatok",
             "xpshop_limited_item_variations_tooltip": "Példák azokra a lehetséges minta- és kopottságváltozatokra, amelyeket e korlátozott kiadású tárgy beváltásakor kaphatsz.",

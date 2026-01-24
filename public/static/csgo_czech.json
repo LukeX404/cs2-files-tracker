@@ -32896,7 +32896,7 @@
             "xpshop_upsell_mainmenu_2_v2": "Získej přístup ke kolekci Train 2025, bedně Fever Case a dalšímu obsahu.",
             "xpshop_upsell_btn": "Zakoupit permanentku",
             "xpshop_upsell_tooltip": "Více informací o permanentce",
-            "xpshop_new_items": "Nové předměty!",
+            "xpshop_new_items:p{new-count}": "Nový předmět!#|#Nové předměty!#|#Nové předměty!#|#Nové předměty!",
             "xpshop_lootlist_info": "Bedna <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> obsahuje jeden z následujících předmětů:",
             "xpshop_limited_item_variations": "Varianty vzhledu",
             "xpshop_limited_item_variations_tooltip": "Ukázky možných variant šablon vzoru a opotřebení, které lze získat při směnění kreditů za tento limitovaný předmět.",

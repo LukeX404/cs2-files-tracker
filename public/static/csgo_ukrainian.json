@@ -33954,7 +33954,6 @@
             "xpshop_upsell_mainmenu_3": "",
             "xpshop_upsell_btn": "Придбати перепустку",
             "xpshop_upsell_tooltip": "Докладніше про «{s:pass}»",
-            "xpshop_new_items": "Нові предмети!",
             "xpshop_lootlist_info": "<span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> містить один із таких предметів:",
             "xpshop_limited_item_variations": "Варіанти оздоблення",
             "xpshop_pass_activate": "Активувати перепустку",

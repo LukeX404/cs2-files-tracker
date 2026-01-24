@@ -32458,7 +32458,7 @@
             "xpshop_upsell_mainmenu_2_v2": "Obtenha acesso à nova Coleção Train, a Caixa Febril, chaveiros e mais.",
             "xpshop_upsell_btn": "Obtenha um passe",
             "xpshop_upsell_tooltip": "Saiba mais sobre o {s:pass}",
-            "xpshop_new_items": "Novos itens!",
+            "xpshop_new_items:p{new-count}": "Novo item!#|#Novos itens!",
             "xpshop_lootlist_info": "A <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> contém um dos seguintes itens",
             "xpshop_limited_item_variations": "Variações de revestimento",
             "xpshop_limited_item_variations_tooltip": "Exemplos de possíveis variações no estilo do padrão e desgaste que podem ser obtidas ao resgatar este item de edição limitada.",
