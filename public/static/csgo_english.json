@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "Import from CS:GO",
             "tooltip_copycrosshair": "Copy Crosshair",
             "GameUI_Xhair_Copy_Code_Confirm": "Replace current crosshair?",
+            "GameUI_Confirm_Write_Setting_Title": "Settings Change Request",
+            "GameUI_Confirm_Write_Setting_Text": "This workshop map '{s:mapname}' would like to change your settings. This may include changes to crosshair, radar, sound and others. Do you want to allow these changes?",
             "settings_damage_prediction": "Damage Prediction",
             "settings_damage_prediction_info": "Immediately play the audio/visual effects of inflicting damage without waiting for confirmation from the server. Damage prediction can make shooting feel significantly more responsive, but comes with the risk of occasionally being wrong (e.g. due to aim punch, tagging, or a death that your client isn't yet aware of). Damage prediction is not active when you have high ping.",
             "GameUI_PredictBodyShotEffects": "Predict Body Shot Effects",
