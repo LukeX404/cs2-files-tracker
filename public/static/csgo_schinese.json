@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "从 CS: GO 导入",
             "tooltip_copycrosshair": "复制准星",
             "GameUI_Xhair_Copy_Code_Confirm": "是否替换当前准星？",
+            "GameUI_Confirm_Write_Setting_Title": "设置更改申请",
+            "GameUI_Confirm_Write_Setting_Text": "这张创意工坊地图'{s:mapname}'请求修改您的设置，修改内容可能包括准星、雷达、音效及其他相关项，是否允许此次修改？",
             "settings_damage_prediction": "伤害预测",
             "settings_damage_prediction_info": "立即播放音频/视觉效果来表现伤害，而无需等待服务器确认。伤害预测可以使射击感觉更加灵敏，但也存在偶尔出现错误的风险（例如由于击中反馈、减速或客户端尚未意识到的死亡）。当网络延迟较高时，伤害预测不会启用。",
             "GameUI_PredictBodyShotEffects": "预测击中身体的效果",

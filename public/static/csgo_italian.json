@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "Importa da CS:GO",
             "tooltip_copycrosshair": "Copia mirino",
             "GameUI_Xhair_Copy_Code_Confirm": "Sostituire il mirino attuale?",
+            "GameUI_Confirm_Write_Setting_Title": "Richiesta di modifica delle impostazioni",
+            "GameUI_Confirm_Write_Setting_Text": "Questa mappa del Workshop, \\\"{s:mapname}\\\", vorrebbe modificare le tue impostazioni. Queste possono includere modifiche al mirino, al radar, ai suoni e altro. Vuoi consentire queste modifiche?",
             "settings_damage_prediction": "Predizione dei danni",
             "settings_damage_prediction_info": "Riproduci immediatamente gli effetti audiovisivi dei danni inflitti senza attendere la conferma da parte del server. La predizione dei danni può rendere l'atto di fare fuoco significativamente più reattivo, ma comporta il rischio di fare errori occasionalmente (ad esempio a causa di oscillazioni, di una riduzione della salute dopo aver subito dei danni o di una morte di cui il client non ha ancora ricevuto le informazioni). La predizione dei danni non è attiva se il tuo ping è alto.",
             "GameUI_PredictBodyShotEffects": "Prevedi gli effetti dei colpi sul corpo",

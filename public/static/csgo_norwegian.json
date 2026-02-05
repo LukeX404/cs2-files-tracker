@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "Importer fra CS:GO",
             "tooltip_copycrosshair": "Kopier trådkors",
             "GameUI_Xhair_Copy_Code_Confirm": "Erstatte gjeldende trådkors?",
+            "GameUI_Confirm_Write_Setting_Title": "Forespørsel om å endre innstillinger",
+            "GameUI_Confirm_Write_Setting_Text": "Dette workshopkartet, «{s:mapname}», vil endre innstillingene dine. Dette kan omfatte endringer av trådkors, radar, lyd og annet. Vil du tillate disse endringene?",
             "settings_damage_prediction": "Skadeforutsigelse",
             "settings_damage_prediction_info": "Spiller umiddelbart av de lydlige/visuelle effektene av skade uten å vente på bekreftelse fra tjeneren. Skadeforutsigelse kan få skyting til å føles mye mer responsiv, men kan medføre feil (f.eks. på grunn av rykning eller sakking ved treff eller dødsfall som klienten ikke er klar over enda). Skadeforutsigelse er ikke aktiv når man har høy ping.",
             "GameUI_PredictBodyShotEffects": "Forutsi kroppsskuddeffekter",

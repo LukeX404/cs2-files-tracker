@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "Importar do CS:GO",
             "tooltip_copycrosshair": "Copiar mira",
             "GameUI_Xhair_Copy_Code_Confirm": "Substituir mira atual?",
+            "GameUI_Confirm_Write_Setting_Title": "Solicitação de alteração de configurações",
+            "GameUI_Confirm_Write_Setting_Text": "Este mapa da Oficina, \\\"{s:mapname}\\\", deseja alterar as suas configurações, o que pode incluir a mira, radar, sons, entre outras opções. Deseja permitir essas alterações?",
             "settings_damage_prediction": "Previsão de dano",
             "settings_damage_prediction_info": "Reproduzir imediatamente os efeitos audiovisuais de dano causado, sem aguardar a confirmação do servidor. Isso pode aumentar a responsividade aparente dos seus disparos, mas com o risco de erros ocasionais de previsão (ex.: mira ou movimentação afetada por sofrer disparos, ou uma morte da qual o seu cliente ainda não está ciente). A previsão de dano é desativada sempre que estiver com latência alta.",
             "GameUI_PredictBodyShotEffects": "Prever efeitos de tiros no corpo",

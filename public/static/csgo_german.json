@@ -37827,7 +37827,6 @@
             "cs_rating_relegation_match": "Relegationsspiel",
             "cs_rating_expired": "CS-Wertung abgelaufen",
             "cs_rating_none": "Keine CS-Wertung",
-            "cs_rating_wins_needed:p{winsneeded}": "Gewinnen Sie noch <b>{d:winsneeded}</b> Spiel.#|#Gewinnen Sie noch <b>{d:winsneeded}</b> Spiele.",
             "cs_rating_wins_needed_verbose:p{winsneeded}": "Gewinnen Sie noch <b>{d:winsneeded}</b> Spiel, um Ihre CS-Wertung zu erhalten.#|#Gewinnen Sie noch <b>{d:winsneeded}</b> Spiele, um Ihre CS-Wertung zu erhalten.",
             "cs_rating_wins_needed_verbose_intro:p{winsneeded}": "Gewinnen Sie <b>{d:winsneeded}</b> Spiel, um Ihre CS-Wertung zu erhalten.#|#Gewinnen Sie <b>{d:winsneeded}</b> Spiele, um Ihre CS-Wertung zu erhalten.",
             "cs_rating_need_wins:p{wins-needed}": "noch {d:wins-needed} Sieg#|#noch {d:wins-needed} Siege",

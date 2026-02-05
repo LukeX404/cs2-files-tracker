@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "Nhập từ CS:GO",
             "tooltip_copycrosshair": "Chép tâm ngắm",
             "GameUI_Xhair_Copy_Code_Confirm": "Thay thế tâm ngắm hiện tại?",
+            "GameUI_Confirm_Write_Setting_Title": "Yêu cầu thay đổi thiết lập",
+            "GameUI_Confirm_Write_Setting_Text": "Bản đồ Workshop ({s:mapname}) muốn thay đổi thiết lập của bạn. Quá trình này có thể bao gồm thay đổi về tâm ngắm, radar, âm thanh và những thiết lập khác. Bạn có cho phép thực hiện thay đổi hay không?",
             "settings_damage_prediction": "Dự đoán sát thương",
             "settings_damage_prediction_info": "Phát ngay lập tức hiệu ứng hình ảnh/âm thanh khi gây sát thương mà không cần chờ máy chủ xác nhận. Dự đoán sát thương cải thiện đáng kể độ nhạy của cảm nhận trải nghiệm bắn, nhưng đi kèm nguy cơ đôi khi sai sót (vd: do trúng đòn, dính đạn, hoặc chết mà phần mềm trò chơi chưa nhận thức được). Dự đoán sát thương sẽ không kích hoạt nếu bạn có ping cao.",
             "GameUI_PredictBodyShotEffects": "Dự đoán hiệu ứng bắn trúng thân",

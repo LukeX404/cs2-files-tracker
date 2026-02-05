@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "Importálás a CS:GO-ból",
             "tooltip_copycrosshair": "Célkereszt másolása",
             "GameUI_Xhair_Copy_Code_Confirm": "Lecseréled a jelenlegi célkeresztet?",
+            "GameUI_Confirm_Write_Setting_Title": "Beállításváltoztatási kérés",
+            "GameUI_Confirm_Write_Setting_Text": "A(z) '{s:mapname}' Műhely-pálya változtatni szeretne a beállításaidon. Ebbe beletartozhat a célkereszt, radar, hangok és egyebek megváltoztatása. Akarod engedélyezni ezeket a változtatásokat?",
             "settings_damage_prediction": "Sebzés-előrejelzés",
             "settings_damage_prediction_info": "Azonnal lejátssza a sebzés hang-, illetve képi effektjeit anélkül, hogy a szerver megerősítésére várna. A sebzés-előrejelzéstől a lövés jelentősen jobban reagálónak érződhet, de magában hordozza a tévedés kockázatát (pl. olyan célzáskiütés, találat vagy halál esetén, amiről a kliensed még nem tud). A sebzés-előrejelzés nem aktív, amikor magas a pinged.",
             "GameUI_PredictBodyShotEffects": "Testlövés effektek előrejelzése",

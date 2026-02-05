@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "CS:GO からインポート",
             "tooltip_copycrosshair": "照準をコピー",
             "GameUI_Xhair_Copy_Code_Confirm": "現在の照準設定と入れ替えますか?",
+            "GameUI_Confirm_Write_Setting_Title": "設定変更の確認",
+            "GameUI_Confirm_Write_Setting_Text": "このワークショップマップ {s:mapname} では、設定が変更される可能性があります。変更される設定には、照準、レーダー、サウンドなどが含まれます。変更を許可しますか？",
             "settings_damage_prediction": "ダメージ予測",
             "settings_damage_prediction_info": "サーバーからの確認を待たずにダメージを与えた際の音声/視覚効果が即座に再生されるようになります。射撃の反応は大幅に向上しますが、クライアントが認識していない死亡、エイムパンチ、タギングなどにより効果が誤って認識される恐れもあります。ping が高い場合、ダメージ予測は有効になりません。",
             "GameUI_PredictBodyShotEffects": "ボディショット効果の予測",

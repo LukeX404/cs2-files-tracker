@@ -90,6 +90,8 @@
             "GameUI_Xhair_ImportCSGO": "Importeren uit CS:GO",
             "tooltip_copycrosshair": "Richtkruis kopiëren",
             "GameUI_Xhair_Copy_Code_Confirm": "Huidig richtkruis vervangen?",
+            "GameUI_Confirm_Write_Setting_Title": "Verzoek tot wijzigen van instellingen",
+            "GameUI_Confirm_Write_Setting_Text": "Deze workshopmap '{s:mapname}' wil je instellingen wijzigen. Dit kan gevolgen hebben voor onder meer het vizier, de radar en het geluid. Wil je deze wijzigingen toestaan?",
             "settings_damage_prediction": "Schadevoorspelling",
             "settings_damage_prediction_info": "De audiovisuele effecten van toegebrachte schade worden onmiddellijk afgespeeld, zonder te wachten op bevestiging van de server. Schadevoorspelling zorgt ervoor dat schieten responsiever aanvoelt, maar soms klopt het niet (bijvoorbeeld bij een aimpunch, tagging of een kill die nog niet is geregistreerd door de client). Schadevoorspelling wordt gedeactiveerd als je een hoge ping hebt.",
             "GameUI_PredictBodyShotEffects": "Effecten voor lichaamstreffers voorspellen",

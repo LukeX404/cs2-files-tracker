@@ -90,6 +90,7 @@
             "GameUI_Xhair_ImportCSGO": "CS:GO에서 불러오기",
             "tooltip_copycrosshair": "조준선 복사",
             "GameUI_Xhair_Copy_Code_Confirm": "현재 사용 중인 조준선을 덮어쓸까요?",
+            "GameUI_Confirm_Write_Setting_Title": "설정 변경 요청",
             "settings_damage_prediction": "피해 예측",
             "settings_damage_prediction_info": "서버의 확인을 기다리지 않고 피해 발생 즉시 음향 및 시각 효과를 재생합니다. 피해 예측을 사용하면 사격 반응도가 상당히 크게 향상되지만, 클라이언트가 아직 인식하지 못한 피해 화면 효과, 움직임 둔화 효과, 사망으로 인해 가끔 오류가 발생할 위험이 있습니다. 핑이 높으면 피해 예측이 사용되지 않습니다.",
             "GameUI_PredictBodyShotEffects": "바디샷 효과 예측",
