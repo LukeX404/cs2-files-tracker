@@ -39946,6 +39946,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Are you sure you want to delete this item?",
             "popup_delete_warning": "Deleting an item cannot be undone.",
+            "popup_delete_tooltip": "Hold to delete this item. Deleting an item cannot be undone.",
             "popup_delete_button": "Delete Item",
             "popup_usegift_title": "Give {s:itemname}",
             "popup_usegift_desc": "Open this gift for players in this match.",
