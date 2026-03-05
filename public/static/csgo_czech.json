@@ -38763,6 +38763,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Opravdu chceš odstranit tento předmět?",
             "popup_delete_warning": "Tento krok nelze vzít zpět",
+            "popup_delete_tooltip": "Podržením tohoto tlačítka odstraníš tento předmět. Tento krok nelze vzít zpět.",
             "popup_delete_button": "Odstranit předmět",
             "popup_usegift_title": "Darovat {s:itemname}",
             "popup_usegift_desc": "Potvrzením otevřeš tento dárek pro hráče v tomto zápase.",

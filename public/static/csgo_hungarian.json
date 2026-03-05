@@ -38537,6 +38537,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Biztosan törölni szeretnéd ezt az elemet?",
             "popup_delete_warning": "A tárgytörlés nem vonható vissza.",
+            "popup_delete_tooltip": "Tartsd nyomva e tárgy törléséhez. A tárgytörlés nem vonható vissza.",
             "popup_delete_button": "Tárgy törlése",
             "popup_usegift_title": "{s:itemname} ajándékozása",
             "popup_usegift_desc": "Ajándék kinyitása a meccsben lévő játékosok számára.",

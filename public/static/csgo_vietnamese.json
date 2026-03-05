@@ -39853,6 +39853,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Bạn có chắc muốn xóa vật phẩm này không?",
             "popup_delete_warning": "Không thể hoàn tác việc xóa vật phẩm.",
+            "popup_delete_tooltip": "Nhấn giữ để xóa vật phẩm này. Không thể hoàn tác sau khi xóa vật phẩm.",
             "popup_delete_button": "Xóa vật phẩm",
             "popup_usegift_title": "Phát {s:itemname}",
             "popup_usegift_desc": "Mở quà cho người chơi trong trận này.",

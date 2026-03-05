@@ -38755,6 +38755,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Weet je zeker dat je dit voorwerp wilt verwijderen?",
             "popup_delete_warning": "Het verwijderen van een voorwerp kan niet worden teruggedraaid.",
+            "popup_delete_tooltip": "Blijf indrukken om dit voorwerp te verwijderen. Verwijderde voorwerpen kun je niet meer terugkrijgen.",
             "popup_delete_button": "Voorwerp verwijderen",
             "popup_usegift_title": "{s:itemname} geven",
             "popup_usegift_desc": "Open dit geschenk voor spelers in dit spel.",

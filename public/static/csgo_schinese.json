@@ -38318,6 +38318,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "您确定要删除这件物品？",
             "popup_delete_warning": "删除物品的操作无法撤销。",
+            "popup_delete_tooltip": "长按删除该物品，删除操作不可撤销。",
             "popup_delete_button": "删除物品",
             "popup_usegift_title": "赠送 {s:itemname}",
             "popup_usegift_desc": "为本场比赛选手开启此礼物。",

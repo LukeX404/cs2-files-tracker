@@ -38318,6 +38318,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Voulez-vous vraiment supprimer cet item ?",
             "popup_delete_warning": "Cette action est irréversible.",
+            "popup_delete_tooltip": "Appuyez longuement pour supprimer cet item. Toute suppression d'item est définitive.",
             "popup_delete_button": "Supprimer cet item",
             "popup_usegift_title": "Offrir {s:itemname}",
             "popup_usegift_desc": "Ouvre ce cadeau pour les joueurs de ce match.",

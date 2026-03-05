@@ -38395,6 +38395,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Tens a certeza de que queres eliminar este item?",
             "popup_delete_warning": "A eliminação de um item é permanente.",
+            "popup_delete_tooltip": "Mantém premido para eliminar este item. A eliminação de um item é permanente.",
             "popup_delete_button": "Eliminar item",
             "popup_usegift_title": "Oferecer {s:itemname}",
             "popup_usegift_desc": "Abre este presente para os jogadores desta partida.",

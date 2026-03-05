@@ -37758,6 +37758,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "本当にこのアイテムを削除しますか？",
             "popup_delete_warning": "アイテムを削除すると元に戻せません。",
+            "popup_delete_tooltip": "長押しするとアイテムを削除できます。アイテムを削除すると元には戻せません。",
             "popup_delete_button": "アイテムを削除",
             "popup_usegift_title": "ギフト相手： {s:itemname}",
             "popup_usegift_desc": "このマッチ内のプレイヤーに向けてギフトを開ける",

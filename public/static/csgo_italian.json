@@ -38319,6 +38319,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Vuoi davvero eliminare questo oggetto?",
             "popup_delete_warning": "L'eliminazione di un oggetto è irreversibile.",
+            "popup_delete_tooltip": "Tieni premuto per eliminare questo oggetto. L'eliminazione di un oggetto non può essere annullata.",
             "popup_delete_button": "Elimina oggetto",
             "popup_usegift_title": "Dona {s:itemname}",
             "popup_usegift_desc": "Dona questo regalo ai giocatori di questa partita.",
