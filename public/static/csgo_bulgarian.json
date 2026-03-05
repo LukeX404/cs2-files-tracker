@@ -42151,8 +42151,6 @@
             "user_btn_purchase_desc_purchase": "Задръжте, за да закупите този артикул. След покупката терминалът се отхвърля.",
             "user_btn_purchase_desc_continue": "Задръжте, така че перманентно да отхвърлите тази оферта и да видите следващата.",
             "user_btn_purchase_desc_end": "Отказване на окончателната оферта и отхвърляне на този терминал.",
-            "user_btn_purchase_title": "<b>{s:offer-count} оферта</b> — Предложени отклици",
-            "user_btn_purchase_final_title": "<b>Окончателна оферта</b> — Предложени отклици",
             "user_btn_decline_desc": "Отказване на тази оферта и виждане на нова",
             "user_btn_accept": "Приемане на оферта <b>{s:price}</b>",
             "user_btn_accept_final": "Приемане на окончателна оферта <b>{s:price}</b>",
