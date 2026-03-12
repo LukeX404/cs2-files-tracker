@@ -6997,6 +6997,9 @@
             "volatile_pricing": {
                 "prefab": "valve"
             },
+            "volatile_pricing_gloves": {
+                "prefab": "valve"
+            },
             "aus2025_sticker_capsule_prefab": {
                 "first_sale_date": "2025-05-23",
                 "prefab": "weapon_case_base",
@@ -30354,6 +30357,35 @@
                 "attributes": {
                     "pedestal display model": "models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
                 }
+            },
+            "5181": {
+                "item_name": "#CSGO_crate_community_37",
+                "item_description": "#CSGO_crate_community_37_desc",
+                "name": "crate_community_37",
+                "image_inventory": "econ/weapon_cases/crate_community_37_closed",
+                "image_inventory^volatile": "econ/weapon_cases/crate_community_37_open",
+                "model_player": "models/props/ad_laptop/ad_laptop_community_37.vmdl",
+                "prefab": "volatile_pricing_gloves weapon_case_selfopening_collection",
+                "attributes": {
+                    "set supply crate series": {
+                        "attribute_class": "supply_crate_series",
+                        "value": 468
+                    },
+                    "volatile container": {
+                        "attribute_class": "volatile_container",
+                        "value": 1
+                    }
+                },
+                "tags": {
+                    "ItemSet": {
+                        "tag_value": "set_community_37",
+                        "tag_text": "#CSGO_set_community_37",
+                        "tag_group": "ItemSet",
+                        "tag_group_text": "#SFUI_InvTooltip_SetTag"
+                    }
+                },
+                "loot_list_rare_item_footer": "#crate_community_15_unusual_lootlist",
+                "loot_list_rare_item_name": "#crate_community_15_unusual_itemname"
             },
             "5200": {
                 "name": "customplayer_tm_phoenix",
@@ -146172,6 +146204,291 @@
                 "wear_remap_max": 1,
                 "composite_material_path": "weapons/paints/limited_time/gsch_ak_djiin.vcompmat"
             },
+            "1398": {
+                "name": "glove_driver_silk_dragon_white",
+                "description_string": "#PaintKit_glove_driver_silk_dragon_white",
+                "description_tag": "#PaintKit_glove_driver_silk_dragon_white_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_silk_dragon_white.vcompmat"
+            },
+            "1399": {
+                "name": "glove_driver_brocade_crane_red",
+                "description_string": "#PaintKit_glove_brocade_crane",
+                "description_tag": "#PaintKit_glove_brocade_crane_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_brocade_crane_red.vcompmat"
+            },
+            "1400": {
+                "name": "glove_driver_brocade_flower_red",
+                "description_string": "#PaintKit_glove_driver_brocade_flower_red",
+                "description_tag": "#PaintKit_glove_driver_brocade_flower_red_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_brocade_flower_red.vcompmat"
+            },
+            "1401": {
+                "name": "glove_driver_dragon_scale_red",
+                "description_string": "#PaintKit_glove_driver_dragon_scale_red",
+                "description_tag": "#PaintKit_glove_driver_dragon_scale_red_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_dragon_scale_red.vcompmat"
+            },
+            "1402": {
+                "name": "glove_driver_embroidered_flowers_teal",
+                "description_string": "#PaintKit_glove_driver_embroidered_flowers_teal",
+                "description_tag": "#PaintKit_glove_driver_embroidered_flowers_teal_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_embroidered_flowers_teal.vcompmat"
+            },
+            "1404": {
+                "name": "glove_driver_scallop_metallic_blue",
+                "description_string": "#PaintKit_glove_driver_scallop_metallic_blue",
+                "description_tag": "#PaintKit_glove_driver_scallop_metallic_blue_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_scallop_metallic_blue.vcompmat"
+            },
+            "1405": {
+                "name": "glove_sport_beadwork_diamonds_purple",
+                "description_string": "#PaintKit_glove_sport_beadwork_diamonds_purple",
+                "description_tag": "#PaintKit_glove_sport_beadwork_diamonds_purple_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_sport_beadwork_diamonds_purple.vcompmat"
+            },
+            "1406": {
+                "name": "glove_sport_camo_winter",
+                "description_string": "#PaintKit_glove_sport_camo_winter",
+                "description_tag": "#PaintKit_glove_sport_camo_winter_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_sport_camo_winter.vcompmat"
+            },
+            "1407": {
+                "name": "glove_sport_flames_orange",
+                "description_string": "#PaintKit_glove_sport_flames_orange",
+                "description_tag": "PaintKit_aa_flames_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_sport_flames_orange.vcompmat"
+            },
+            "1408": {
+                "name": "glove_sport_pinstripe_black",
+                "description_string": "#PaintKit_glove_sport_pinstripe_black",
+                "description_tag": "#PaintKit_glove_sport_pinstripe_black_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_sport_pinstripe_black.vcompmat"
+            },
+            "1409": {
+                "name": "glove_sport_racer_red",
+                "description_string": "#PaintKit_glove_sport_racer_red",
+                "description_tag": "#PaintKit_glove_sport_racer_red_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_sport_racer_red.vcompmat"
+            },
+            "1410": {
+                "name": "glove_sport_tech_gradient_bright",
+                "description_string": "#PaintKit_glove_sport_tech_gradient_bright",
+                "description_tag": "#PaintKit_glove_sport_tech_gradient_bright_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_sport_tech_gradient_bright.vcompmat"
+            },
+            "1412": {
+                "name": "glove_driver_ostrich_purple",
+                "description_string": "#PaintKit_glove_driver_ostrich_purple",
+                "description_tag": "#PaintKit_glove_driver_ostrich_purple_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_ostrich_purple.vcompmat"
+            },
+            "1413": {
+                "name": "glove_specialist_abstract_green",
+                "description_string": "#PaintKit_glove_specialist_abstract_green",
+                "description_tag": "#PaintKit_glove_specialist_abstract_green_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_specialist_abstract_green.vcompmat"
+            },
+            "1414": {
+                "name": "glove_specialist_graffiti_black",
+                "description_string": "#PaintKit_glove_specialist_graffiti_black",
+                "description_tag": "#PaintKit_glove_specialist_graffiti_black_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_specialist_graffiti_black.vcompmat"
+            },
+            "1415": {
+                "name": "glove_specialist_quilted_black",
+                "description_string": "#PaintKit_glove_specialist_quilted_black",
+                "description_tag": "#PaintKit_glove_specialist_quilted_black_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_specialist_quilted_black.vcompmat"
+            },
+            "1416": {
+                "name": "glove_specialist_sunburst_red",
+                "description_string": "#PaintKit_glove_specialist_sunburst_red",
+                "description_tag": "#PaintKit_glove_specialist_sunburst_red_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_specialist_sunburst_red.vcompmat"
+            },
+            "1417": {
+                "name": "glove_sport_velvet_red",
+                "description_string": "#PaintKit_glove_sport_velvet_red",
+                "description_tag": "#PaintKit_glove_sport_velvet_red_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_sport_velvet_red.vcompmat"
+            },
+            "1418": {
+                "name": "bizon_rmx",
+                "description_string": "#PaintKit_bizon_rmx",
+                "description_tag": "#PaintKit_bizon_rmx_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/bizon_rmx.vcompmat"
+            },
+            "1419": {
+                "name": "p90_deathgaze",
+                "description_string": "#PaintKit_p90_deathgaze",
+                "description_tag": "#PaintKit_p90_deathgaze_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/p90_deathgaze.vcompmat"
+            },
+            "1420": {
+                "name": "p250_kintsugi",
+                "description_string": "#PaintKit_p250_kintsugi",
+                "description_tag": "#PaintKit_p250_kintsugi_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/p250_kintsugi.vcompmat"
+            },
+            "1421": {
+                "name": "glock_jdpeek",
+                "description_string": "#PaintKit_glock_jdpeek",
+                "description_tag": "#PaintKit_glock_jdpeek_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/glock_jdpeek.vcompmat"
+            },
+            "1422": {
+                "name": "awp_queens_gambit",
+                "description_string": "#PaintKit_awp_queens_gambit",
+                "description_tag": "#PaintKit_awp_queens_gambit_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/awp_queens_gambit.vcompmat"
+            },
+            "1423": {
+                "name": "mp9_urban_sovereign",
+                "description_string": "#PaintKit_mp9_urban_sovereign",
+                "description_tag": "#PaintKit_mp9_urban_sovereign_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/mp9_urban_sovereign.vcompmat"
+            },
+            "1425": {
+                "name": "ak47_crane_flight",
+                "description_string": "#PaintKit_ak47_crane_flight",
+                "description_tag": "#PaintKit_ak47_crane_flight_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/ak47_crane_flight.vcompmat"
+            },
+            "1426": {
+                "name": "ump_fragment",
+                "description_string": "#PaintKit_ump_fragment",
+                "description_tag": "#PaintKit_ump_fragment_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/ump_fragment.vcompmat"
+            },
+            "1427": {
+                "name": "sawedoff_fusion",
+                "description_string": "#PaintKit_sawedoff_fusion",
+                "description_tag": "#PaintKit_sawedoff_fusion_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/sawedoff_fusion.vcompmat"
+            },
+            "1429": {
+                "name": "fiveseven_polymer_dark",
+                "description_string": "#PaintKit_fiveseven_polymer_dark",
+                "description_tag": "#PaintKit_fiveseven_polymer_dark_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/fiveseven_polymer_dark.vcompmat"
+            },
+            "1430": {
+                "name": "deagle_firebreathing",
+                "description_string": "#PaintKit_deagle_firebreathing",
+                "description_tag": "#PaintKit_deagle_firebreathing_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/deagle_firebreathing.vcompmat"
+            },
+            "1431": {
+                "name": "usps_silent_boy",
+                "description_string": "#PaintKit_usps_silent_boy",
+                "description_tag": "#PaintKit_usps_silent_boy_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/usps_silent_boy.vcompmat"
+            },
+            "1432": {
+                "name": "m4a4_zubastick_bw",
+                "description_string": "#PaintKit_m4a4_zubastick_bw",
+                "description_tag": "#PaintKit_m4a4_zubastick_bw_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/m4a4_zubastick_bw.vcompmat"
+            },
+            "1433": {
+                "name": "m4a1s_electrum",
+                "description_string": "#PaintKit_m4a1s_electrum",
+                "description_tag": "#PaintKit_m4a1s_electrum_Tag",
+                "style": 9,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/m4a1s_electrum.vcompmat"
+            },
+            "1434": {
+                "name": "galil_galigator",
+                "description_string": "#PaintKit_galil_galigator",
+                "description_tag": "#PaintKit_galil_galigator_Tag",
+                "style": 7,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/galil_galigator.vcompmat"
+            },
+            "1435": {
+                "name": "m249_blocks_purple",
+                "description_string": "#PaintKit_m249_blocks_purple",
+                "description_tag": "#PaintKit_m249_blocks_purple_Tag",
+                "style": 7,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/m249_blocks_purple.vcompmat"
+            },
+            "1436": {
+                "name": "mp7_amberline",
+                "description_string": "#PaintKit_mp7_amberline",
+                "description_tag": "#PaintKit_mp7_amberline_Tag",
+                "style": 3,
+                "wear_remap_min": 0,
+                "wear_remap_max": 1,
+                "composite_material_path": "weapons/paints/community/community_37/mp7_amberline.vcompmat"
+            },
+            "1437": {
+                "name": "glove_specialist_wave_blue",
+                "description_string": "#PaintKit_glove_specialist_wave_blue",
+                "description_tag": "#PaintKit_glove_specialist_wave_blue_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_specialist_wave_blue.vcompmat"
+            },
+            "1438": {
+                "name": "glove_specialist_quilted_white",
+                "description_string": "#PaintKit_glove_specialist_quilted_white",
+                "description_tag": "#PaintKit_glove_specialist_quilted_white_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_specialist_quilted_white.vcompmat"
+            },
+            "1439": {
+                "name": "glove_driver_knit_argyle_green",
+                "description_string": "#PaintKit_glove_driver_knit_argyle_green",
+                "description_tag": "#PaintKit_glove_driver_knit_argyle_green_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_driver_knit_argyle_green.vcompmat"
+            },
+            "1440": {
+                "name": "glove_specialist_dragon_blue",
+                "description_string": "#PaintKit_glove_specialist_dragon_blue",
+                "description_tag": "#PaintKit_glove_specialist_dragon_blue_Tag",
+                "composite_material_path": "gloves/paints/volatile_02/glove_specialist_dragon_blue.vcompmat"
+            },
             "9001": {
                 "name": "workshop_default",
                 "wear_remap_min": 0,
@@ -147899,6 +148216,45 @@
             "mp7_smoking_kills_v2": "legendary",
             "m4a4_skrrrt_green": "legendary",
             "ak47_puffer_custom": "legendary",
+            "m4a4_zubastick_bw": "uncommon",
+            "usps_silent_boy": "uncommon",
+            "m249_blocks_purple": "rare",
+            "ump_fragment": "rare",
+            "sawedoff_fusion": "rare",
+            "fiveseven_polymer_dark": "rare",
+            "bizon_rmx": "rare",
+            "deagle_firebreathing": "rare",
+            "m4a1s_electrum": "rare",
+            "mp7_amberline": "mythical",
+            "galil_galigator": "mythical",
+            "mp9_urban_sovereign": "mythical",
+            "ak47_crane_flight": "mythical",
+            "p250_kintsugi": "legendary",
+            "p90_deathgaze": "legendary",
+            "awp_queens_gambit": "legendary",
+            "glock_jdpeek": "legendary",
+            "glove_driver_brocade_crane_red": "ancient",
+            "glove_driver_brocade_flower_red": "ancient",
+            "glove_driver_dragon_scale_red": "ancient",
+            "glove_driver_embroidered_flowers_teal": "ancient",
+            "glove_driver_knit_argyle_green": "ancient",
+            "glove_driver_ostrich_purple": "ancient",
+            "glove_driver_scallop_metallic_blue": "ancient",
+            "glove_driver_silk_dragon_white": "ancient",
+            "glove_sport_beadwork_diamonds_purple": "ancient",
+            "glove_sport_camo_winter": "ancient",
+            "glove_sport_flames_orange": "ancient",
+            "glove_sport_pinstripe_black": "ancient",
+            "glove_sport_racer_red": "ancient",
+            "glove_sport_tech_gradient_bright": "ancient",
+            "glove_sport_velvet_red": "ancient",
+            "glove_specialist_abstract_green": "ancient",
+            "glove_specialist_graffiti_black": "ancient",
+            "glove_specialist_quilted_black": "ancient",
+            "glove_specialist_sunburst_red": "ancient",
+            "glove_specialist_wave_blue": "ancient",
+            "glove_specialist_quilted_white": "ancient",
+            "glove_specialist_dragon_blue": "ancient",
             "ht_facet_p2000": "common",
             "ht_peaks_rainbow": "uncommon",
             "ht_swirl_ssg08": "uncommon",
@@ -150114,6 +150470,33 @@
                     "[glock_mirror_maze_v2_pearl]weapon_glock": 1,
                     "[m4a4_skrrrt_green]weapon_m4a1": 1,
                     "[ak47_puffer_custom]weapon_ak47": 1
+                }
+            },
+            "set_community_37": {
+                "name": "#CSGO_set_community_37",
+                "set_description": "#CSGO_set_community_37_desc",
+                "is_collection": 1,
+                "items": {
+                    "[m249_blocks_purple]weapon_m249": 1,
+                    "[m4a4_zubastick_bw]weapon_m4a1": 1,
+                    "[ump_fragment]weapon_ump45": 1,
+                    "[sawedoff_fusion]weapon_sawedoff": 1,
+                    "[fiveseven_polymer_dark]weapon_fiveseven": 1,
+                    "[usps_silent_boy]weapon_usp_silencer": 1,
+                    "[bizon_rmx]weapon_bizon": 1,
+                    "[deagle_firebreathing]weapon_deagle": 1,
+                    "[m4a1s_electrum]weapon_m4a1_silencer": 1,
+                    "[mp7_amberline]weapon_mp7": 1,
+                    "[galil_galigator]weapon_galilar": 1,
+                    "[mp9_urban_sovereign]weapon_mp9": 1,
+                    "[ak47_crane_flight]weapon_ak47": 1,
+                    "[p250_kintsugi]weapon_p250": 1,
+                    "[p90_deathgaze]weapon_p90": 1,
+                    "[awp_queens_gambit]weapon_awp": 1,
+                    "[glock_jdpeek]weapon_glock": 1
+                },
+                "unusuals": {
+                    "unique": "set_community_37_unusual"
                 }
             },
             "set_graphic_design": {
@@ -167770,6 +168153,38 @@
                 "set_community_36_legendary": 1,
                 "set_community_36_ancient": 1
             },
+            "set_community_37_rare": {
+                "[m249_blocks_purple]weapon_m249": 1,
+                "[m4a4_zubastick_bw]weapon_m4a1": 1,
+                "[ump_fragment]weapon_ump45": 1,
+                "[sawedoff_fusion]weapon_sawedoff": 1,
+                "[fiveseven_polymer_dark]weapon_fiveseven": 1,
+                "[usps_silent_boy]weapon_usp_silencer": 1,
+                "[bizon_rmx]weapon_bizon": 1
+            },
+            "set_community_37_mythical": {
+                "[deagle_firebreathing]weapon_deagle": 1,
+                "[m4a1s_electrum]weapon_m4a1_silencer": 1,
+                "[mp7_amberline]weapon_mp7": 1,
+                "[galil_galigator]weapon_galilar": 1,
+                "[mp9_urban_sovereign]weapon_mp9": 1
+            },
+            "set_community_37_legendary": {
+                "[ak47_crane_flight]weapon_ak47": 1,
+                "[p250_kintsugi]weapon_p250": 1,
+                "[p90_deathgaze]weapon_p90": 1
+            },
+            "set_community_37_ancient": {
+                "[awp_queens_gambit]weapon_awp": 1,
+                "[glock_jdpeek]weapon_glock": 1
+            },
+            "set_community_37": {
+                "set_community_37_rare": 1,
+                "set_community_37_mythical": 1,
+                "set_community_37_legendary": 1,
+                "set_community_37_ancient": 1,
+                "set_community_37_unusual": 1
+            },
             "set_graphic_design_uncommon": {
                 "[ht_peaks_rainbow]weapon_m249": 1,
                 "[ht_swirl_ssg08]weapon_ssg08": 1,
@@ -170782,7 +171197,8 @@
             "464": "crate_signature_pack_bud2025_group_players_collection_legends",
             "465": "crate_signature_pack_bud2025_group_players_collection_challengers",
             "466": "crate_signature_pack_bud2025_group_players_collection_contenders",
-            "467": "crate_signature_pack_bud2025_group_players_collection_champions"
+            "467": "crate_signature_pack_bud2025_group_players_collection_champions",
+            "468": "set_community_37"
         },
         "quest_reward_loot_lists": {
             "1": "set_dust",

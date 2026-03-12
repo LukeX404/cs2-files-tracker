@@ -38318,6 +38318,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Bu eşyayı silmek istediğinize emin misiniz?",
             "popup_delete_warning": "Silinen bir eşya geri getirilemez.",
+            "popup_delete_tooltip": "Bu eşyayı silmek için basılı tut. Silinen bir eşya geri getirilemez.",
             "popup_delete_button": "Eşyayı Sil",
             "popup_usegift_title": "{s:itemname} Yolla",
             "popup_usegift_desc": "Bu hediyeyi, bu maçtaki oyuncular için aç.",

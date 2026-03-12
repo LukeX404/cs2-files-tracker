@@ -38335,6 +38335,7 @@
             "popup_delete_title": "{s:itemname}",
             "popup_delete_desc": "Sigur vrei să ștergi acest obiect?",
             "popup_delete_warning": "Ștergerea unui obiect este definitivă.",
+            "popup_delete_tooltip": "Menține apăsat pentru a șterge acest obiect. Ștergerea unui obiect este definitivă.",
             "popup_delete_button": "Șterge obiectul",
             "popup_usegift_title": "Oferă {s:itemname}",
             "popup_usegift_desc": "Deschide cadoul acesta pentru jucătorii din acest meci.",

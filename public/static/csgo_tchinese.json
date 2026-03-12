@@ -38738,6 +38738,7 @@
             "inv_session_prop_updated": "已更新！",
             "inv_session_prop_quest_reward": "獎勵！",
             "inv_session_prop_xpshopredeem": "新！",
+            "inv_session_prop_marketlisting": "<img src='file://{images}/icons/ui/coupon.svg' class='item-tile__onmarket'/> 市集待售",
             "inv_equipped_item": "已為<b>{s:team}</b>裝備 <b>{s:name}</b>",
             "inv_equipped_item_noteam": "已裝備 <b>{s:name}</b>",
             "inv_unequipped_item": "未裝備 <b>{s:name}</b>",
