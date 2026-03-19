@@ -32028,8 +32028,8 @@
             "Workshop_created": "Date Created",
             "Workshop_size": "Size",
             "Workshop_View": "View on Workshop",
-            "Workshop_Allow": "Allow",
-            "Workshop_Deny": "Deny",
+            "Workshop_Allow": "Download",
+            "Workshop_Deny": "Cancel",
             "SFUI_Workshop_Desc_Pw": "Your subscribed workshop maps are listed here. You can use Community Quick-Play to find the best community server running a map.",
             "SFUI_Workshop_Desc_Sp_Pw": "Your subscribed workshop maps are listed here. You can try them locally with bots.",
             "SFUI_Workshop_Filter_Prompt": "Filter Maps",
@@ -40866,10 +40866,10 @@
             "practicesettings_infammo_button": "Infinite Ammo",
             "practicesettings_infwarmup_tooltip": "When <b>enabled</b> the match will remain in permanent warmup and no bots will join.",
             "practicesettings_infwarmup_button": "Infinite Warmup",
-            "practicesettings_annotations_tooltip": "When <b>enabled</b> the selected map guide from the dropdown will load, and the following settings will be forced on: infinite warmup, infinite ammo, and grenade camera.",
-            "practicesettings_annotations_button": "Use Map Guide",
+            "practicesettings_annotations_tooltip": "When <b>enabled</b> the (optionally) selected map guide from the dropdown will load, and the following settings will be forced on: infinite warmup, infinite ammo, and grenade camera.",
+            "practicesettings_annotations_button": "Enable Map Guides",
             "practicesettings_annotations_workshop_tooltip": "Visit Workshop",
-            "practicesettings_annotations_dropdown_tooltip": "Specifies which Map Guide will be loaded",
+            "practicesettings_annotations_dropdown_tooltip": "Specifies which Map Guide (if any) will be loaded",
             "PlayMenuReplayNewUserTrainingButton": "Replay Training Day",
             "CSGO_VanityLoadout_Inspect": "Inspect",
             "CSGO_VanityLoadout_FindOnMarket": "Find on Market",
@@ -40891,6 +40891,7 @@
             "Workshop_annotation_ready": "Submission ready to upload.",
             "UI_File_Filter_SupportedAnnotationFormat": "Text files (*.txt)",
             "annotations_visit_workshop": "Visit Workshop ⤤",
+            "annotations_exceed_round_limit": "No Map Guides Allowed Past Round {s:rounds} of the Half",
             "gamemode_casual_desc": "Freely drop in and drop out of games using the Casual ruleset. Buy new weapons each round with money earned and win the round by eliminating the other team or completing the objective.",
             "gamemode_casual_desclist": "· Friendly fire is OFF<br>· Team collision is OFF<br>· 50% kill reward amounts<br>· Best out of 15 rounds",
             "gamemode_casual_descsp": "Buy new weapons each round with money earned. Win the round by eliminating the other team or completing the objective.",
@@ -42705,7 +42706,11 @@
             "quest_11014_var_ingame:p{mission-points}": "Win a round#|#Win rounds",
             "quest_11015_var_desc:p{mission-points}": "Win a round in <b>{s:gamemode}: {s:location}</b>.#|#Win rounds in <b>{s:gamemode}: {s:location}</b>.",
             "quest_11015_var_partial": "",
-            "quest_11015_var_ingame:p{mission-points}": "Win a round#|#Win rounds"
+            "quest_11015_var_ingame:p{mission-points}": "Win a round#|#Win rounds",
+            "tooltip_viewaddon": "Visit custom map on workshop page",
+            "tooltip_kick_player": "Kick player from local server",
+            "tooltip_short_viewaddon": "View Custom Map",
+            "tooltip_short_kick_player": "Kick"
         }
     }
 }
