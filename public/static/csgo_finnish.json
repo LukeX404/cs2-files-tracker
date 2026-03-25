@@ -29865,7 +29865,6 @@
             "PaintKit_zeus_thunder_god": "Asetta koristaa ukkosenjumala Zeus.\\n\\n<i>Rytinää ja räiskettä</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olympus",
             "PaintKit_usp_field_snake": "Asetta koristaa pomminpurkaja takatähtäimen alla ja numerot 027 lähellä ejektoria. \\n\\n<i>Kevyttä kenttätyötä.</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Desert Eaglen luisti on koristeltu hopeanvärisin kalligrafiakuvioin.\\n\\n<i>Kaikki vie oman aikansa.</i>",
             "PaintKit_deagle_calligraff_Tag": "Kalligraffiti",
             "PaintKit_mp5_statics_blue": "Käsin maalattu mustalla ja sinisellä kuviolla.\\n\\n<i>Mustaa ja sinistä ja kovinkin veristä.</i>",
@@ -31044,8 +31043,8 @@
             "Workshop_created": "Luotu",
             "Workshop_size": "Koko",
             "Workshop_View": "Katso Workshopissa",
-            "Workshop_Allow": "Salli",
-            "Workshop_Deny": "Hylkää",
+            "Workshop_Allow": "Lataa",
+            "Workshop_Deny": "Peruuta",
             "SFUI_Workshop_Desc_Pw": "Tilaamasi Workshop-kartat on lueteltu täällä. Yhteisön pikapelin avulla löydät parhaan karttaa pyörittävän yhteisöpalvelimen.",
             "SFUI_Workshop_Desc_Sp_Pw": "Tilaamasi Workshop-kartat on lueteltu täällä. Voit kokeilla niitä paikallisesti bottien kanssa.",
             "SFUI_Workshop_Filter_Prompt": "Suodata karttoja",
@@ -39853,10 +39852,10 @@
             "practicesettings_infammo_button": "Loputtomat ammukset",
             "practicesettings_infwarmup_tooltip": "Kun <b>käytössä</b>, ottelu jatkuu lämmittelynä eikä peliin liity botteja.",
             "practicesettings_infwarmup_button": "Loputon lämmittely",
-            "practicesettings_annotations_tooltip": "Kun asetus on <b>käytössä</b>, pudotusvalikosta valittu karttaopas latautuu ja seuraavat asetukset pakotetaan käyttöön: loputon lämmittely, loputtomat ammukset ja kranaattikamera.",
-            "practicesettings_annotations_button": "Käytä karttaopasta",
+            "practicesettings_annotations_tooltip": "Kun asetus on <b>käytössä</b>, pudotusvalikosta mahdollisesti valittu karttaopas latautuu ja seuraavat asetukset pakotetaan käyttöön: Loputon lämmittely, Loputtomat ammukset ja Kranaattikamera.",
+            "practicesettings_annotations_button": "Ota karttaoppaat käyttöön",
             "practicesettings_annotations_workshop_tooltip": "Käy Workshopissa",
-            "practicesettings_annotations_dropdown_tooltip": "Määrittää ladattavan karttaoppaan",
+            "practicesettings_annotations_dropdown_tooltip": "Määrittää ladattavan karttaoppaan (valinnainen).",
             "PlayMenuReplayNewUserTrainingButton": "Suorita peruskurssi uudelleen",
             "CSGO_VanityLoadout_Inspect": "Tarkastele",
             "CSGO_VanityLoadout_FindOnMarket": "Etsi kauppapaikalta",
@@ -39878,6 +39877,7 @@
             "Workshop_annotation_ready": "Esine on valmis lähetettäväksi.",
             "UI_File_Filter_SupportedAnnotationFormat": "Tekstitiedostot (*.txt)",
             "annotations_visit_workshop": "Käy Workshopissa ⤤",
+            "annotations_exceed_round_limit": "Karttaoppaita ei voi käyttää puoliskon {s:rounds}. erän jälkeen",
             "gamemode_casual_desc": "Liity ja poistu peleistä vapaasti rennossa tilassa. Osta uusia aseita ansaituilla rahoilla ja voita erä eliminoimalla vastustajajoukkue tai suorittamalla tehtävä.",
             "gamemode_casual_desclist": "· Oma tuli POIS PÄÄLTÄ<br>· Tiimikavereiden läpi VOI kulkea<br>· 50 % palkkio taposta<br>· Paras 15 erästä voittaa",
             "gamemode_casual_descsp": "Osta uusia aseita ansaituilla rahoilla ja voita erä eliminoimalla vastustajajoukkue tai suorittamalla tehtävä.",
@@ -41627,7 +41627,11 @@
             "quest_11014_var_desc:p{mission-points}": "Voita erä pelitilassa <b>{s:gamemode} ja kartalla {s:location}</b>.#|#Voita eriä pelitilassa <b>{s:gamemode} ja kartalla {s:location}</b>.",
             "quest_11014_var_ingame:p{mission-points}": "Voita erä.#|#Voita eriä.",
             "quest_11015_var_desc:p{mission-points}": "Voita erä pelitilassa <b>{s:gamemode} ja kartalla {s:location}</b>.#|#Voita eriä pelitilassa <b>{s:gamemode} ja kartalla {s:location}</b>.",
-            "quest_11015_var_ingame:p{mission-points}": "Voita erä.#|#Voita eriä."
+            "quest_11015_var_ingame:p{mission-points}": "Voita erä.#|#Voita eriä.",
+            "tooltip_viewaddon": "Näytä mukautettu kartta Workshop-sivulla",
+            "tooltip_kick_player": "Poista pelaaja paikalliselta palvelimelta",
+            "tooltip_short_viewaddon": "Näytä mukautettu kartta",
+            "tooltip_short_kick_player": "Poista"
         }
     }
 }

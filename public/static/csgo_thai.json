@@ -29867,7 +29867,6 @@
             "PaintKit_zeus_thunder_god": "มันถูกลงสีแบบกำหนดเองด้วยลายซูส เทพเจ้าแห่งสายฟ้า\\n\\n<i>ฟ้าเสียงดังเปรี้ยง…</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olympus",
             "PaintKit_usp_field_snake": "มันถูกลงสีแบบกำหนดเองด้วยลายอุปกรณ์ปลดชนวนมีปีกข้างใต้ศูนย์เล็งและมีเลข \\\"027\\\" ใกล้ตรงช่องดีดกระสุน\\n\\n<i>งานภาคสนามเบา ๆ</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "สไลด์ของปืน Desert Eagle ถูกตกแต่งด้วยตัวอักษรที่บรรจงเขียนด้วยพู่กันสีเงิน\\n\\n<i>สิ่งเหล่านี้ต้องใช้เวลา</i>",
             "PaintKit_deagle_calligraff_Tag": "Calligraffiti",
             "PaintKit_mp5_statics_blue": "มันถูกลงสีแบบกำหนดเองด้วยสีดำและน้ำเงิน\\n\\n<i>มีแต่ดำและน้ำเงินและเลือดกระจายไปทั่ว</i>",
@@ -31046,8 +31045,8 @@
             "Workshop_created": "วันที่สร้าง",
             "Workshop_size": "ขนาด",
             "Workshop_View": "ดูบนเวิร์กช็อป",
-            "Workshop_Allow": "อนุญาต",
-            "Workshop_Deny": "ปฏิเสธ",
+            "Workshop_Allow": "ดาวน์โหลด",
+            "Workshop_Deny": "ยกเลิก",
             "SFUI_Workshop_Desc_Pw": "แผนที่เวิร์กชอปที่สมัครเป็นสมาชิกของคุณจะถูกแสดงที่นี่ คุณสามารถใช้ปุ่มเล่นในชุมชนอย่างรวดเร็วเพื่อค้นหาเซิร์ฟเวอร์ชุมชนที่ดีที่สุดที่เรียกใช้แผนที่",
             "SFUI_Workshop_Desc_Sp_Pw": "แผนที่เวิร์กชอปที่สมัครเป็นสมาชิกของคุณจะถูกแสดงที่นี่ คุณสามารถลองเล่นทดสอบกับบอทได้",
             "SFUI_Workshop_Filter_Prompt": "ตัวกรองแผนที่",
@@ -39856,10 +39855,10 @@
             "practicesettings_infammo_button": "กระสุนไม่จำกัด",
             "practicesettings_infwarmup_tooltip": "เมื่อ<b>เปิดใช้งาน</b>แล้ว แมตช์จะอยู่ในรอบอุ่นเครื่องถาวรและไม่มีบอทเข้าร่วม",
             "practicesettings_infwarmup_button": "รอบอุ่นเครื่องไม่จำกัด",
-            "practicesettings_annotations_tooltip": "เมื่อ<b>เปิดใช้งาน</b> คู่มือแผนที่ที่ถูกเลือกจากเมนูดรอปดาวน์จะถูกโหลด และการตั้งค่าดังต่อไปนี้จะถูกบังคับให้เปิดใช้งาน: รอบอุ่นเครื่องไม่จำกัด กระสุนไม่จำกัด และมุมกล้องระเบิด",
-            "practicesettings_annotations_button": "ใช้คู่มือแผนที่",
+            "practicesettings_annotations_tooltip": "เมื่อ<b>เปิดใช้งาน</b> คู่มือแผนที่ที่เลือกไว้ (หรือไม่ได้เลือกไว้) จากเมนูดรอปดาวน์จะถูกโหลด และการตั้งค่าดังต่อไปนี้จะถูกบังคับให้เปิดใช้งาน: รอบอุ่นเครื่องไม่จำกัด กระสุนไม่จำกัด และมุมกล้องระเบิด",
+            "practicesettings_annotations_button": "เปิดใช้งานคู่มือแผนที่",
             "practicesettings_annotations_workshop_tooltip": "เยี่ยมชมเวิร์กชอป",
-            "practicesettings_annotations_dropdown_tooltip": "ระบุคู่มือแผนที่ที่จะโหลด",
+            "practicesettings_annotations_dropdown_tooltip": "ระบุว่าจะโหลดคู่มือแผนที่ใด (หากมี)",
             "PlayMenuReplayNewUserTrainingButton": "รีเพลย์วันฝึกซ้อม",
             "CSGO_VanityLoadout_Inspect": "ตรวจสอบ",
             "CSGO_VanityLoadout_FindOnMarket": "ค้นหาในตลาด",
@@ -39881,6 +39880,7 @@
             "Workshop_annotation_ready": "การส่งพร้อมที่จะอัปโหลด",
             "UI_File_Filter_SupportedAnnotationFormat": "ไฟล์ข้อความ (*.txt)",
             "annotations_visit_workshop": "เยี่ยมชมเวิร์กชอป ⤤",
+            "annotations_exceed_round_limit": "ไม่อนุญาตให้ใช้คู่มือแผนที่หลังจากรอบที่ {s:rounds} ของครึ่งแรก",
             "gamemode_casual_desc": "สามารถเล่นและออกจากเกมได้อย่างอิสระโดยการใช้กฎแบบเดียวกับโหมดแคชชวล ซื้ออาวุธชิ้นใหม่ได้ในแต่ละรอบด้วยเงินที่ได้รับ และชนะรอบด้วยการกำจัดอีกทีมหรือทำเป้าหมายให้สำเร็จ",
             "gamemode_casual_desclist": "·&#xA0;ปิดการยิงฝ่ายเดียวกัน<br>·&#xA0;ปิดการปะทะกันของทีม<br>·&#xA0;จำนวนเงินรางวัลจากการสังหาร 50%<br>·&#xA0;ดีที่สุดจาก 15 รอบ",
             "gamemode_casual_descsp": "ซื้ออาวุธชิ้นใหม่ได้ในแต่ละรอบด้วยเงินที่ได้รับ ชนะรอบด้วยการกำจัดอีกทีมหรือทำเป้าหมายให้สำเร็จ",
@@ -41645,7 +41645,11 @@
             "quest_11014_var_desc:p{mission-points}": "ชนะรอบในโหมด <b>{s:gamemode}: {s:location}</b>",
             "quest_11014_var_ingame:p{mission-points}": "ชนะรอบ",
             "quest_11015_var_desc:p{mission-points}": "ชนะรอบในโหมด <b>{s:gamemode}: {s:location}</b>",
-            "quest_11015_var_ingame:p{mission-points}": "ชนะรอบ"
+            "quest_11015_var_ingame:p{mission-points}": "ชนะรอบ",
+            "tooltip_viewaddon": "ดูแผนที่แบบกำหนดเองในหน้าเวิร์กชอป",
+            "tooltip_kick_player": "เตะผู้เล่นออกจากเซิร์ฟเวอร์ท้องถิ่น",
+            "tooltip_short_viewaddon": "ดูแผนที่แบบกำหนดเอง",
+            "tooltip_short_kick_player": "เตะ"
         }
     }
 }

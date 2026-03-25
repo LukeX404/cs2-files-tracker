@@ -29445,7 +29445,6 @@
             "PaintKit_zeus_thunder_god": "Ez az egyedi festés Zeuszt, a villámok istenét ábrázolja.\\n\\n<i>Szikrázik a levegő…</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olümposz",
             "PaintKit_usp_field_snake": "Ezen az egyedi festésen egy szárnyas hatástalanító készlet van a hátsó irányzék mögött, és a „027” felirat a hüvelykivető közelében.\\n\\n<i>Könnyű terepmunka.</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Ennek a Desert Eagle-nek a szánját ezüst festéktollal készült kalligráfia díszíti.\\n\\n<i>Az ilyesmihez idő kell.</i>",
             "PaintKit_deagle_calligraff_Tag": "Kalligraffiti",
             "PaintKit_mp5_statics_blue": "Fekete-kék mintás egyedi festést kapott.\\n\\n<i>Fekete, kék, és csupa vér.</i>",
@@ -30624,8 +30623,8 @@
             "Workshop_created": "Létrehozás dátuma",
             "Workshop_size": "Méret",
             "Workshop_View": "Megnézés a Műhelyben",
-            "Workshop_Allow": "Engedélyezés",
-            "Workshop_Deny": "Megtagadás",
+            "Workshop_Allow": "Letöltés",
+            "Workshop_Deny": "Mégse",
             "SFUI_Workshop_Desc_Pw": "Itt vannak felsorolva azon pályák, melyekre a Műhelyben feliratkoztál. A Közösségi gyorsmeccs funkció használatával megtalálhatod az adott pályát futtató legjobb közösségi szervert.",
             "SFUI_Workshop_Desc_Sp_Pw": "Itt vannak felsorolva azon pályák, melyekre a Műhelyben feliratkoztál. Kipróbálhatod őket helyileg, botokkal.",
             "SFUI_Workshop_Filter_Prompt": "Pályák szűrése",
@@ -39429,10 +39428,10 @@
             "practicesettings_infammo_button": "Végtelen lőszer",
             "practicesettings_infwarmup_tooltip": "Amikor <b>be van kapcsolva</b>, a meccs állandó bemelegítési szakaszban marad, és nem fognak botok csatlakozni.",
             "practicesettings_infwarmup_button": "Végtelen bemelegítés",
-            "practicesettings_annotations_tooltip": "Amikor <b>be van kapcsolva</b>, a lenyíló menüből kiválasztott pályaútmutató betöltődik, és a következő beállítások bekapcsoltra lesznek kényszerítve: végtelen bemelegítés, végtelen lőszer és gránátkamera.",
-            "practicesettings_annotations_button": "Pályaútmutató használata",
+            "practicesettings_annotations_tooltip": "Amikor <b>be van kapcsolva</b>, a lenyíló menüből (kívánság szerint) kiválasztott pályaútmutató betöltődik, és a következő beállítások bekapcsoltra lesznek kényszerítve: végtelen bemelegítés, végtelen lőszer és gránátkamera.",
+            "practicesettings_annotations_button": "Pályaútmutatók bekapcsolása",
             "practicesettings_annotations_workshop_tooltip": "Műhely meglátogatása",
-            "practicesettings_annotations_dropdown_tooltip": "Megadja, melyik pályaútmutató lesz betöltve.",
+            "practicesettings_annotations_dropdown_tooltip": "Megadja, melyik pályaútmutató (ha bármelyik) lesz betöltve.",
             "PlayMenuReplayNewUserTrainingButton": "Kiképzés megismétlése",
             "CSGO_VanityLoadout_Inspect": "Megvizsgálás",
             "CSGO_VanityLoadout_FindOnMarket": "Keresés a piacon",
@@ -39454,6 +39453,7 @@
             "Workshop_annotation_ready": "A beküldés feltöltésre kész.",
             "UI_File_Filter_SupportedAnnotationFormat": "Szövegfájlok (*.txt)",
             "annotations_visit_workshop": "Műhely meglátogatása ⤤",
+            "annotations_exceed_round_limit": "A pályaútmutatók a félidő {s:rounds}. körén túl nem lesznek engedélyezve.",
             "gamemode_casual_desc": "Lépkedj szabadon be-ki Könnyed szabálykészletet használó játékokba. Vásárolj új fegyvert minden körben a megkeresett pénzből, és nyerd meg a kört a másik csapat semlegesítésével, vagy a feladat teljesítésével.",
             "gamemode_casual_desclist": "· NINCS baráti tűz<br>· NINCS csapat-ütközés<br>· Az ölési jutalom 50%<br>· Az győz, aki 15 körből többet nyer",
             "gamemode_casual_descsp": "Vegyél új fegyvert minden körben a megkeresett pénzből. Nyerd meg a kört a másik csapat semlegesítésével vagy a feladat teljesítésével.",
@@ -41218,7 +41218,11 @@
             "quest_11014_var_desc:p{mission-points}": "Nyerj egy kört <b>{s:gamemode} játékban: {s:location}</b>.#|#Nyerj köröket <b>{s:gamemode} játékban: {s:location}</b>.",
             "quest_11014_var_ingame:p{mission-points}": "Nyerj egy kört.#|#Nyerj köröket.",
             "quest_11015_var_desc:p{mission-points}": "Nyerj egy kört <b>{s:gamemode} játékban: {s:location}</b>.#|#Nyerj köröket <b>{s:gamemode} játékban: {s:location}</b>.",
-            "quest_11015_var_ingame:p{mission-points}": "Nyerj egy kört.#|#Nyerj köröket."
+            "quest_11015_var_ingame:p{mission-points}": "Nyerj egy kört.#|#Nyerj köröket.",
+            "tooltip_viewaddon": "Egyedi pálya felkeresése a Műhely-oldalon.",
+            "tooltip_kick_player": "Játékos kirúgása a helyi szerverről",
+            "tooltip_short_viewaddon": "Egyedi pálya megnézése",
+            "tooltip_short_kick_player": "Kirúgás"
         }
     }
 }

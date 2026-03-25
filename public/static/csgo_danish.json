@@ -30014,7 +30014,6 @@
             "PaintKit_zeus_thunder_god": "Denne specialmaling viser tordenguden Zeus.\\n\\n<i>Luften knitrer…</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olympus",
             "PaintKit_usp_field_snake": "Denne specialmaling viser en bevinget tang under bagsigtet og \\\"027\\\" nær udkasterporten.\\n\\n<i>Let feltarbejde</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Skinnen på denne Desert Eagle er dekoreret med sølvfarvet kalligrafi.\\n\\n<i>Disse ting tager tid</i>",
             "PaintKit_deagle_calligraff_Tag": "Calligraffiti",
             "PaintKit_mp5_statics_blue": "Den er blevet specialmalet i et sort og blåt design.\\n\\n<i>Sort og blå og blodig</i>",
@@ -31193,8 +31192,8 @@
             "Workshop_created": "Dato oprettet",
             "Workshop_size": "Størrelse",
             "Workshop_View": "Vis i værkstedet",
-            "Workshop_Allow": "Tillad",
-            "Workshop_Deny": "Afslå",
+            "Workshop_Allow": "Download",
+            "Workshop_Deny": "Annuller",
             "SFUI_Workshop_Desc_Pw": "Dine abonnerede værkstedsbaner vises her. Du kan bruge Community Quickplay til at finde den bedste fællesskabsserver med en bestemt bane.",
             "SFUI_Workshop_Desc_Sp_Pw": "Dine abonnerede værkstedsbaner vises her. Du kan prøve dem lokalt med bots.",
             "SFUI_Workshop_Filter_Prompt": "Filtrer baner",
@@ -40008,10 +40007,10 @@
             "practicesettings_infammo_button": "Ubegrænset ammunition",
             "practicesettings_infwarmup_tooltip": "Når dette er <b>slået til</b>, vil kampen forblive i en permanent opvarmningstilstand, og ingen bots vil deltage.",
             "practicesettings_infwarmup_button": "Permanent opvarmning",
-            "practicesettings_annotations_tooltip": "Når dette er <b>slået til</b>, indlæses den valgte baneguide fra rullemenuen, og følgende indstillinger bliver påtvunget: Permanent opvarmning, Ubegrænset ammunition og Granatkamera.",
-            "practicesettings_annotations_button": "Anvend baneguide",
+            "practicesettings_annotations_tooltip": "Når dette er <b>slået til</b>, indlæses den (eventuelt) valgte baneguide fra rullemenuen, og følgende indstillinger bliver påtvunget: Permanent opvarmning, Ubegrænset ammunition og Granatkamera.",
+            "practicesettings_annotations_button": "Slå baneguider til",
             "practicesettings_annotations_workshop_tooltip": "Besøg værkstedet",
-            "practicesettings_annotations_dropdown_tooltip": "Angiver, hvilken baneguide der bliver indlæst",
+            "practicesettings_annotations_dropdown_tooltip": "Angiver, hvilken baneguide (om nogen) der bliver indlæst",
             "PlayMenuReplayNewUserTrainingButton": "Genspil træningsdag",
             "CSGO_VanityLoadout_Inspect": "Inspicer",
             "CSGO_VanityLoadout_FindOnMarket": "Find på markedet",
@@ -40033,6 +40032,7 @@
             "Workshop_annotation_ready": "Indsendelse klar til upload.",
             "UI_File_Filter_SupportedAnnotationFormat": "Tekstfiler (*.txt)",
             "annotations_visit_workshop": "Besøg værkstedet ⤤",
+            "annotations_exceed_round_limit": "Ingen baneguider tilladt efter {s:rounds}. runde i halvlegen",
             "gamemode_casual_desc": "Hop frit ind og ud af spil, der bruger Casual-regelsættet. Køb nye våben hver runde med optjente penge og vind runden ved at eliminere det andet hold eller fuldføre målet.",
             "gamemode_casual_desclist": "· Egenbeskydning slået FRA<br>· Holdkollision slået FRA<br>· Halvt så stor fortjeneste på drab<br>· Bedst ud af 15 runder",
             "gamemode_casual_descsp": "Køb nye våben hver runde med optjente penge. Vind runden ved at eliminere det andet hold eller fuldføre målet.",
@@ -41807,7 +41807,11 @@
             "quest_11014_var_desc:p{mission-points}": "Vind en runde i <b>{s:gamemode}: {s:location}</b>.#|#Vind runder i <b>{s:gamemode}: {s:location}</b>.",
             "quest_11014_var_ingame:p{mission-points}": "Vind en runde#|#Vind runder",
             "quest_11015_var_desc:p{mission-points}": "Vind en runde i <b>{s:gamemode}: {s:location}</b>.#|#Vind runder i <b>{s:gamemode}: {s:location}</b>.",
-            "quest_11015_var_ingame:p{mission-points}": "Vind en runde#|#Vind runder"
+            "quest_11015_var_ingame:p{mission-points}": "Vind en runde#|#Vind runder",
+            "tooltip_viewaddon": "Gå til tilpasset bane på værkstedssiden",
+            "tooltip_kick_player": "Smid spiller ud fra lokal server",
+            "tooltip_short_viewaddon": "Vis tilpasset bane",
+            "tooltip_short_kick_player": "Smid ud"
         }
     }
 }

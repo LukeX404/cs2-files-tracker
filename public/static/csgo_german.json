@@ -29232,7 +29232,6 @@
             "PaintKit_zeus_thunder_god": "Diese Sonderlackierung zeigt Zeus, den Gott des Donners.\\n\\n<i>Die Luft knistert …</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olymp",
             "PaintKit_usp_field_snake": "Diese Sonderlackierung zeigt einen geflügelten Bombenentschärfer unter der Kimme sowie die Beschriftung „027“ unter dem Auswurffenster.\\n\\n<i>Leichte Schlachtfeldarbeit</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Der Schlitten dieser Desert Eagle wurde mit einer Kalligrafie versehen, die mit einem silbernen Farbstift angebracht wurde.\\n\\n<i>Diese Dinge brauchen Zeit</i>",
             "PaintKit_deagle_calligraff_Tag": "Kalligraffiti",
             "PaintKit_mp5_statics_blue": "Die Waffe wurde mit einer Sonderlackierung mit einem blauschwarzen Design versehen.\\n\\n<i>Komplett schwarz, blau und blutig</i>",
@@ -30411,8 +30410,8 @@
             "Workshop_created": "Erstellungsdatum",
             "Workshop_size": "Größe",
             "Workshop_View": "Im Workshop anzeigen",
-            "Workshop_Allow": "Zulassen",
-            "Workshop_Deny": "Verweigern",
+            "Workshop_Allow": "Herunterladen",
+            "Workshop_Deny": "Abbrechen",
             "SFUI_Workshop_Desc_Pw": "Hier sind Ihre abonnierten Workshop-Karten aufgelistet. Mit „Schnelles Spiel (Community)“ finden Sie den besten Community-Server, der eine bestimmte Karte anbietet.",
             "SFUI_Workshop_Desc_Sp_Pw": "Hier sind Ihre abonnierten Workshop-Karten aufgelistet. Sie können sie lokal mit Bots testen.",
             "SFUI_Workshop_Filter_Prompt": "Karten filtern",
@@ -39210,10 +39209,10 @@
             "practicesettings_infammo_button": "Unendlich Munition",
             "practicesettings_infwarmup_tooltip": "Wenn <b>aktiviert</b>, bleibt das Spiel dauerhaft in der Aufwärmphase und es treten keine Bots bei.",
             "practicesettings_infwarmup_button": "Endlose Aufwärmphase",
-            "practicesettings_annotations_tooltip": "Wenn diese Option <b>aktiviert</b> ist, werden der ausgewählte Karten-Guide aus dem Auswahlmenü geladen und folgende Einstellungen automatisch übernommen: Endlose Aufwärmphase, Unendlich Munition und Granatenkamera.",
-            "practicesettings_annotations_button": "Karten-Guide laden",
+            "practicesettings_annotations_tooltip": "Wenn diese Option <b>aktiviert</b> ist, wird der ausgewählte Karten-Guide (optional) aus dem Auswahlmenü geladen und folgende Einstellungen automatisch übernommen: Endlose Aufwärmphase, Unendlich Munition und Granatenkamera.",
+            "practicesettings_annotations_button": "Karten-Guides aktivieren",
             "practicesettings_annotations_workshop_tooltip": "Workshop aufrufen",
-            "practicesettings_annotations_dropdown_tooltip": "Legt fest, welcher Karten-Guide geladen wird.",
+            "practicesettings_annotations_dropdown_tooltip": "Legt fest, welcher Karten-Guide geladen wird (bzw. ob überhaupt ein Karten-Guide geladen werden soll).",
             "PlayMenuReplayNewUserTrainingButton": "Trainingslager wiederholen",
             "CSGO_VanityLoadout_Inspect": "Untersuchen",
             "CSGO_VanityLoadout_FindOnMarket": "Im Markt suchen",
@@ -39235,6 +39234,7 @@
             "Workshop_annotation_ready": "Gegenstand bereit zum Hochladen.",
             "UI_File_Filter_SupportedAnnotationFormat": "Textdateien (*.txt)",
             "annotations_visit_workshop": "Workshop besuchen ⤤",
+            "annotations_exceed_round_limit": "Karten-Guides sind nach der {s:rounds}. Runde der Halbzeit nicht mehr erlaubt",
             "gamemode_casual_desc": "Steigen Sie frei in Spiele mit den Regeln des Gelegenheitsspiels ein und aus. Kaufen Sie mit verdientem Geld jede Runde neue Waffen und gewinnen Sie die Runde, indem Sie das andere Team eliminieren oder den Auftrag erfüllen.",
             "gamemode_casual_desclist": "· Eigenbeschuss ist AUS<br>· Teamkollision ist AUS<br>· 50 % der Abschussprämie<br>· Die Besten aus 15 Runden",
             "gamemode_casual_descsp": "Kaufen Sie mit verdientem Geld jede Runde neue Waffen. Gewinnen Sie die Runde, indem Sie das andere Team eliminieren oder den Auftrag erfüllen.",
@@ -40983,7 +40983,11 @@
             "quest_11014_var_desc:p{mission-points}": "Gewinnen Sie eine Runde im Spielmodus <b>{s:gamemode}</b> auf <b>{s:location}</b>.#|#Gewinnen Sie mehrere Runden im Spielmodus <b>{s:gamemode}</b> auf <b>{s:location}</b>.",
             "quest_11014_var_ingame:p{mission-points}": "Gewinnen Sie eine Runde.#|#Gewinnen Sie mehrere Runden.",
             "quest_11015_var_desc:p{mission-points}": "Gewinnen Sie eine Runde im Spielmodus <b>{s:gamemode}</b> auf <b>{s:location}</b>.#|#Gewinnen Sie mehrere Runden im Spielmodus <b>{s:gamemode}</b> auf <b>{s:location}</b>.",
-            "quest_11015_var_ingame:p{mission-points}": "Gewinnen Sie eine Runde.#|#Gewinnen Sie mehrere Runden."
+            "quest_11015_var_ingame:p{mission-points}": "Gewinnen Sie eine Runde.#|#Gewinnen Sie mehrere Runden.",
+            "tooltip_viewaddon": "Benutzerdefinierte Karte im Workshop besuchen",
+            "tooltip_kick_player": "Spieler vom lokalem Server werfen",
+            "tooltip_short_viewaddon": "Benutzerdefinierte Karte anzeigen",
+            "tooltip_short_kick_player": "Herauswerfen"
         }
     }
 }

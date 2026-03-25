@@ -29659,7 +29659,6 @@
             "PaintKit_zeus_thunder_god": "In deze speciale beschildering staat Zeus, god van de bliksem, centraal.\\n\\n<i>Het dondert en het bliksemt…</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olympus",
             "PaintKit_usp_field_snake": "Onder het vizier van dit wapen is een gevleugelde ontmantelkit geschilderd en op de loop staat '027'.\\n\\n<i>Licht veldwerk</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Op de slede van deze Desert Eagle is met een zilverkleurige pen gekalligrafeerd.\\n\\n<i>Dit soort dingen kost tijd</i>",
             "PaintKit_deagle_calligraff_Tag": "Calligraffiti",
             "PaintKit_mp5_statics_blue": "Het wapen is speciaal beschilderd met een zwart-wit ontwerp.\\n\\n<i>Zwart, blauw en vooral bloederig</i>",
@@ -30838,8 +30837,8 @@
             "Workshop_created": "Gemaakt op",
             "Workshop_size": "Grootte",
             "Workshop_View": "Bekijken in Workshop",
-            "Workshop_Allow": "Toestaan",
-            "Workshop_Deny": "Weigeren",
+            "Workshop_Allow": "Downloaden",
+            "Workshop_Deny": "Annuleren",
             "SFUI_Workshop_Desc_Pw": "De maps waarop je bent geabonneerd staan hier. Je kunt met \\\"Snel spelen\\\" de beste communityserver vinden die die map draait.",
             "SFUI_Workshop_Desc_Sp_Pw": "De maps waarop je bent geabonneerd staan hier. Je kunt ze lokaal uitproberen met bots.",
             "SFUI_Workshop_Filter_Prompt": "Maps filteren",
@@ -39647,10 +39646,10 @@
             "practicesettings_infammo_button": "Oneindige munitie",
             "practicesettings_infwarmup_tooltip": "Als deze optie is <b>ingeschakeld</b>, blijft de wedstrijd permanent in de warming-up en doen er geen bots mee.",
             "practicesettings_infwarmup_button": "Oneindige warming-up",
-            "practicesettings_annotations_tooltip": "Als deze optie is <b>ingeschakeld</b>, wordt de mapgids uit het keuzemenu geladen en worden de volgende instellingen geactiveerd: oneindige warming-up, oneindige munitie en handgranaatcamera.",
-            "practicesettings_annotations_button": "Mapgids gebruiken",
+            "practicesettings_annotations_tooltip": "Als je deze optie <b>inschakelt</b>, wordt de (optioneel) via het uitklapmenu gekozen mapgids geladen. De volgende instellingen staan dan altijd aan: Oneindige warming-up, Oneindige munitie en Granaatcamera.",
+            "practicesettings_annotations_button": "Mapgidsen inschakelen",
             "practicesettings_annotations_workshop_tooltip": "Workshop bezoeken",
-            "practicesettings_annotations_dropdown_tooltip": "Geeft aan welke mapgids wordt geladen.",
+            "practicesettings_annotations_dropdown_tooltip": "Specificeert of er een mapgids wordt geladen, en zo ja, welke",
             "PlayMenuReplayNewUserTrainingButton": "Herhaal Trainingsdag",
             "CSGO_VanityLoadout_Inspect": "Bekijken",
             "CSGO_VanityLoadout_FindOnMarket": "Zoeken op de markt",
@@ -39672,6 +39671,7 @@
             "Workshop_annotation_ready": "Inzending klaar voor uploaden.",
             "UI_File_Filter_SupportedAnnotationFormat": "Tekstbestanden (*.txt)",
             "annotations_visit_workshop": "Workshop bezoeken ⤤",
+            "annotations_exceed_round_limit": "Na ronde {s:rounds} van elke helft zijn mapgidsen niet toegestaan",
             "gamemode_casual_desc": "Kom binnen en verlaat spellen zonder problemen met de Casual-regels. Koop elke ronde nieuwe wapens met geld dat je verdient en win de ronde door het andere team te elimineren of het doel te volbrengen.",
             "gamemode_casual_desclist": "· Friendly fire staat UIT<br>· Botsen met teamgenoten staat UIT<br>· Kill-inkomsten 50% lager<br>· Beste van 15 ronden",
             "gamemode_casual_descsp": "Koop elke ronde nieuwe wapens met verdiend geld. Win de ronde door het andere team te elimineren of de doelstelling te behalen.",
@@ -41437,7 +41437,11 @@
             "quest_11014_var_desc:p{mission-points}": "Win een ronde in <b>{s:gamemode}: {s:location}</b>.#|#Win ronden in <b>{s:gamemode}: {s:location}</b>.",
             "quest_11014_var_ingame:p{mission-points}": "Win een ronde#|#Win ronden",
             "quest_11015_var_desc:p{mission-points}": "Win een ronde in <b>{s:gamemode}: {s:location}</b>.#|#Win ronden in <b>{s:gamemode}: {s:location}</b>.",
-            "quest_11015_var_ingame:p{mission-points}": "Win een ronde#|#Win ronden"
+            "quest_11015_var_ingame:p{mission-points}": "Win een ronde#|#Win ronden",
+            "tooltip_viewaddon": "Check de aangepaste map in de Workshop",
+            "tooltip_kick_player": "Verwijder de speler van de lokale server",
+            "tooltip_short_viewaddon": "Bekijk de aangepaste map",
+            "tooltip_short_kick_player": "Verwijderen"
         }
     }
 }

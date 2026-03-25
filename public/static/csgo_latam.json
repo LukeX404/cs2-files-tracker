@@ -29232,7 +29232,6 @@
             "PaintKit_zeus_thunder_god": "Esta pintura personalizada incluye a Zeus, el Dios del Trueno.\\n\\n<i>El aire crepita…</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olimpo",
             "PaintKit_usp_field_snake": "Esta pintura personalizada representa un difusor alado debajo de la mira posterior y \\\"027\\\" cerca de la ventanilla de expulsión.\\n\\n<i>Trabajo de campo ligero</i>.",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "La corredera de esta Desert Eagle se decoró con caligrafía de rotulador de pintura plateada\\n\\n<i>Estas cosas toman tiempo</i>.",
             "PaintKit_deagle_calligraff_Tag": "Caligrafiti",
             "PaintKit_mp5_statics_blue": "Se personalizó con un diseño de colores azul y negro.\\n\\n<i>Negro y azul con toques de rojo sangriento</i>.",
@@ -30411,8 +30410,8 @@
             "Workshop_created": "Fecha de creación",
             "Workshop_size": "Tamaño",
             "Workshop_View": "Ver en el Workshop",
-            "Workshop_Allow": "Permitir",
-            "Workshop_Deny": "Rechazar",
+            "Workshop_Allow": "Descargar",
+            "Workshop_Deny": "Cancelar",
             "SFUI_Workshop_Desc_Pw": "Aquí están los mapas del Workshop a los que te has suscrito. Puedes utilizar la partida rápida comunitaria para encontrar el mejor servidor comunitario con un mapa determinado.",
             "SFUI_Workshop_Desc_Sp_Pw": "Aquí están los mapas del Workshop a los que te has suscrito. Puedes probarlos en partida local con bots.",
             "SFUI_Workshop_Filter_Prompt": "Filtrar mapas",
@@ -39210,10 +39209,10 @@
             "practicesettings_infammo_button": "Munición infinita",
             "practicesettings_infwarmup_tooltip": "Cuando está <b>activada</b>, la partida se mantendrá en fase de calentamiento permanentemente y los bots no se unirán.",
             "practicesettings_infwarmup_button": "Calentamiento infinito",
-            "practicesettings_annotations_tooltip": "Cuanto esta opción está <b>activada</b>, se cargará la guía del mapa seleccionada del menú desplegable y se activarán los siguientes ajustes: calentamiento infinito, munición infinita y cámara de granadas.",
-            "practicesettings_annotations_button": "Usar guía del mapa",
+            "practicesettings_annotations_tooltip": "Cuando esta opción esté <b>activada</b>, se cargará la guía del mapa seleccionada (opcional) del menú desplegable y se activarán los siguientes ajustes: calentamiento infinito, munición infinita y cámara de granadas.",
+            "practicesettings_annotations_button": "Activar guías del mapa",
             "practicesettings_annotations_workshop_tooltip": "Visitar Workshop",
-            "practicesettings_annotations_dropdown_tooltip": "Especifica cuál guía del mapa se cargará.",
+            "practicesettings_annotations_dropdown_tooltip": "Especifica qué guía del mapa se carga (en caso de cargar alguna)",
             "PlayMenuReplayNewUserTrainingButton": "Repetir día de entrenamiento",
             "CSGO_VanityLoadout_Inspect": "Inspeccionar",
             "CSGO_VanityLoadout_FindOnMarket": "Encontrar en el mercado",
@@ -39235,6 +39234,7 @@
             "Workshop_annotation_ready": "Aportación lista para cargar.",
             "UI_File_Filter_SupportedAnnotationFormat": "Archivos de texto (*.txt)",
             "annotations_visit_workshop": "Visitar Workshop ⤤",
+            "annotations_exceed_round_limit": "Las guías del mapa no están permitidas después de la ronda {s:rounds} de cada mitad",
             "gamemode_casual_desc": "Entra y sal libremente de las partidas que utilizan el conjunto de normas casual. Compra nuevas armas en cada ronda con el dinero obtenido y gana la ronda eliminando al otro equipo o completando el objetivo.",
             "gamemode_casual_desclist": "· Fuego amistoso DESACTIVADO<br>· Colisiones con compañeros DESACTIVADAS<br>·  50 % de recompensa por víctima<br>· Gana el mejor de 15 rondas",
             "gamemode_casual_descsp": "Compra nuevas armas en cada ronda con el dinero obtenido. Gana la ronda eliminando al otro equipo o completando el objetivo.",
@@ -40983,7 +40983,11 @@
             "quest_11014_var_desc:p{mission-points}": "Gana una ronda en <b>{s:location}</b> jugando en el modo <b>{s:gamemode}</b>.#|#Gana rondas en <b>{s:location}</b> jugando en el modo <b>{s:gamemode}</b>.",
             "quest_11014_var_ingame:p{mission-points}": "Gana una ronda#|#Gana rondas",
             "quest_11015_var_desc:p{mission-points}": "Gana una ronda en <b>{s:location}</b> jugando en el modo <b>{s:gamemode}</b>.#|#Gana rondas en <b>{s:location}</b> jugando en el modo <b>{s:gamemode}</b>.",
-            "quest_11015_var_ingame:p{mission-points}": "Gana una ronda#|#Gana rondas"
+            "quest_11015_var_ingame:p{mission-points}": "Gana una ronda#|#Gana rondas",
+            "tooltip_viewaddon": "Visitar el mapa personalizado en la página del Workshop",
+            "tooltip_kick_player": "Expulsar al jugador del servidor local",
+            "tooltip_short_viewaddon": "Ver mapa personalizado",
+            "tooltip_short_kick_player": "Expulsar"
         }
     }
 }

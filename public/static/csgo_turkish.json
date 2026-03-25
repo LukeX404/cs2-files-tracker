@@ -29232,7 +29232,6 @@
             "PaintKit_zeus_thunder_god": "Bu özel boya çalışması yıldırım tanrısı Zeus'u tasvir eder.\\n\\n<i>Hava çatırdıyor…</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olimpos",
             "PaintKit_usp_field_snake": "Bu özel boya tasarımı, gezin altında kanatlı bir imha aygıtı ve kovan atma boşluğunun yanında \\\"027\\\" sayısını içeriyor.\\n\\n<i>Hafif saha çalışması</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Desert Eagle'ın sürgüsü gümüş renginde boya kullanılarak kaligrafi kalemiyle süslenmiştir.\\n\\n<i>Böyle şeyler zaman alır</i>",
             "PaintKit_deagle_calligraff_Tag": "Kaligrafiti",
             "PaintKit_mp5_statics_blue": "Mavi ve siyah bir tasarım ile özel olarak boyanmıştır.\\n\\n<i>Her yer mavi ve siyah ve kan içinde</i>",
@@ -30411,8 +30410,8 @@
             "Workshop_created": "Oluşturulma Tarihi",
             "Workshop_size": "Boyut",
             "Workshop_View": "Atölye'de Görüntüle",
-            "Workshop_Allow": "İzin Ver",
-            "Workshop_Deny": "Reddet",
+            "Workshop_Allow": "İndir",
+            "Workshop_Deny": "İptal Et",
             "SFUI_Workshop_Desc_Pw": "Abone olduğunuz atölye haritaları burada listelenir. Bir haritayı çalıştıran en iyi topluluk sunucusunu bulmak için Topluluk Hızlı Oyun özelliğini kullanın.",
             "SFUI_Workshop_Desc_Sp_Pw": "Abone olduğunuz atölye haritaları burada listelenir. Bu haritaları yerel oyunda botlar ile deneyebilirsiniz.",
             "SFUI_Workshop_Filter_Prompt": "Filtrele",
@@ -39210,10 +39209,10 @@
             "practicesettings_infammo_button": "Sınırsız Mermi",
             "practicesettings_infwarmup_tooltip": "<b>Etkinleştirildiğinde</b>, maç kalıcı olarak ısınma modunda kalır ve botlar katılmaz.",
             "practicesettings_infwarmup_button": "Sonsuz Isınma",
-            "practicesettings_annotations_tooltip": "<b>Etkinleştirildiğinde</b>, açılır menüden seçilen harita rehberi yüklenir ve şu ayarlar zorunlu olarak devreye alınır: Sonsuz ısınma, sonsuz cephane ve el bombası kamerası.",
-            "practicesettings_annotations_button": "Harita Rehberini Kullan",
+            "practicesettings_annotations_tooltip": "<b>Etkinleştirildiğinde</b>, açılır menüden seçilen harita rehberi (isteğe bağlı) yüklenir ve şu ayarlar zorunlu olarak uygulanır: Sonsuz ısınma, sınırsız mermi ve el bombası kamerası.",
+            "practicesettings_annotations_button": "Harita Rehberlerini Etkinleştir",
             "practicesettings_annotations_workshop_tooltip": "Atölyeyi Ziyaret Et",
-            "practicesettings_annotations_dropdown_tooltip": "Hangi harita rehberinin yükleneceğini belirtir.",
+            "practicesettings_annotations_dropdown_tooltip": "Hangi harita rehberinin (varsa) yükleneceğini belirtir.",
             "PlayMenuReplayNewUserTrainingButton": "Eğitim Gününü Tekrarla",
             "CSGO_VanityLoadout_Inspect": "İncele",
             "CSGO_VanityLoadout_FindOnMarket": "Pazar'da Bul",
@@ -39235,6 +39234,7 @@
             "Workshop_annotation_ready": "Gönderim yüklenmeye hazır.",
             "UI_File_Filter_SupportedAnnotationFormat": "Metin dosyaları (*.txt)",
             "annotations_visit_workshop": "Atölyeyi Ziyaret Et ⤤",
+            "annotations_exceed_round_limit": "Yarının {s:rounds} raundundan sonra harita rehberlerine izin verilmez.",
             "gamemode_casual_desc": "Basit Eğlence kurallarını kullanan maçlara istediğin zaman girip çık. Kazandığın parayla her raunt başında yeni silahlar satın al ve karşı takımı ortadan kaldırarak ya da görevi tamamlayarak raundu kazan.",
             "gamemode_casual_desclist": "· Dost ateşi KAPALI<br>· Takım üyelerine çarpma KAPALI<br>· %50 leş ödülü miktarı<br>· 15 rauntluk maç",
             "gamemode_casual_descsp": "Kazandığın parayla her raunt başında yeni silahlar satın al. Karşı takımı ortadan kaldırarak ya da görevi tamamlayarak raundu kazan.",
@@ -40983,7 +40983,11 @@
             "quest_11014_var_desc:p{mission-points}": "<b>{s:gamemode}: {s:location}</b> oynarken bir raunt kazan.#|#<b>{s:gamemode}: {s:location}</b> oynarken birden fazla raunt kazan.",
             "quest_11014_var_ingame:p{mission-points}": "Bir raunt kazan.#|#Birden fazla raunt kazan.",
             "quest_11015_var_desc:p{mission-points}": "<b>{s:gamemode}: {s:location}</b> oynarken bir raunt kazan.#|#<b>{s:gamemode}: {s:location}</b> oynarken birden fazla raunt kazan.",
-            "quest_11015_var_ingame:p{mission-points}": "Bir raunt kazan.#|#Birden fazla raunt kazan."
+            "quest_11015_var_ingame:p{mission-points}": "Bir raunt kazan.#|#Birden fazla raunt kazan.",
+            "tooltip_viewaddon": "Özel haritanın atölye sayfasına git",
+            "tooltip_kick_player": "Oyuncuyu yerel sunucudan at",
+            "tooltip_short_viewaddon": "Özel Haritayı Görüntüle",
+            "tooltip_short_kick_player": "At"
         }
     }
 }

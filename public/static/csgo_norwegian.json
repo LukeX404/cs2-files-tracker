@@ -29874,7 +29874,6 @@
             "PaintKit_zeus_thunder_god": "Denne spesiallakkeringen viser tordenguden Zevs.\\n\\n<i>Det knitrer i luften …</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olympus",
             "PaintKit_usp_field_snake": "Denne spesiallakkeringen viser en bevinget avbitertang under baksiktet og «027» nær utkasteråpningen.\\n\\n<i>Lett feltarbeid.</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Glidestykket på denne pistolen er blitt dekorert med sølvfarget kalligrafi.\\n\\n<i>Ting tar tid.</i>",
             "PaintKit_deagle_calligraff_Tag": "Calligraffiti",
             "PaintKit_mp5_statics_blue": "Den er spesiallakkert i et svart og blått design.\\n\\n<i>Svart og blå med innslag av blodrød.</i>",
@@ -31053,8 +31052,8 @@
             "Workshop_created": "Opprettelsesdato",
             "Workshop_size": "Størrelse",
             "Workshop_View": "Vis i workshopen",
-            "Workshop_Allow": "Tillat",
-            "Workshop_Deny": "Avslå",
+            "Workshop_Allow": "Last ned",
+            "Workshop_Deny": "Avbryt",
             "SFUI_Workshop_Desc_Pw": "Workshopkart du abonnerer på er oppførte her. Du kan bruke hurtigspill i samfunnet for å finne den beste samfunnstjeneren som kjører et kart.",
             "SFUI_Workshop_Desc_Sp_Pw": "Workshopkart du abonnerer på er oppførte her. Du kan prøve dem lokalt med boter.",
             "SFUI_Workshop_Filter_Prompt": "Filtrer kart",
@@ -39864,10 +39863,10 @@
             "practicesettings_infammo_button": "Uendelig ammunisjon",
             "practicesettings_infwarmup_tooltip": "Når dette er <b>slått på</b>, blir kampen værende i oppvarming og ingen boter blir med.",
             "practicesettings_infwarmup_button": "Evig oppvarming",
-            "practicesettings_annotations_tooltip": "Når dette er <b>slått på</b>, lastes valgt kartveiledningen, og følgende innstillinger blir påtvunget: evig oppvarming, uendelig ammunisjon og granatkamera.",
-            "practicesettings_annotations_button": "Bruk kartveiledning",
+            "practicesettings_annotations_tooltip": "Når dette er <b>slått på</b>, lastes eventuelt valgt kartveiledning, og følgende innstillinger blir påtvunget: evig oppvarming, uendelig ammunisjon og granatkamera.",
+            "practicesettings_annotations_button": "Slå på kartveiledninger",
             "practicesettings_annotations_workshop_tooltip": "Åpne workshopen",
-            "practicesettings_annotations_dropdown_tooltip": "Angir hvilken kartveiledning som skal lastes inn.",
+            "practicesettings_annotations_dropdown_tooltip": "Angir hvilken kartveiledning (om noen) som skal lastes",
             "PlayMenuReplayNewUserTrainingButton": "Spill treningsdagen om igjen",
             "CSGO_VanityLoadout_Inspect": "Inspiser",
             "CSGO_VanityLoadout_FindOnMarket": "Finn på markedet",
@@ -39889,6 +39888,7 @@
             "Workshop_annotation_ready": "Innsendelse er klar for opplasting.",
             "UI_File_Filter_SupportedAnnotationFormat": "Tekstfiler (*.txt)",
             "annotations_visit_workshop": "Åpne workshopen ⤤",
+            "annotations_exceed_round_limit": "Ingen kartveiledninger tillatt etter runde {s:rounds} i omgangen",
             "gamemode_casual_desc": "Gå fritt inn og ut av kampene ved å bruke det avslappede regelsettet. Kjøp nye våpen hver runde med inntjente penger, og vinn runden ved å eliminere det andre laget eller fullføre målet.",
             "gamemode_casual_desclist": "· Vennlig ild er AV<br>· Lagkollisjon er AV<br>· 50 % drapsbelønning<br>· Best av 15 runder",
             "gamemode_casual_descsp": "Kjøp nye våpen hver runde med inntjente penger. Vinn runden ved å eliminere det andre laget eller fullføre målet.",
@@ -41662,7 +41662,11 @@
             "quest_11014_var_desc:p{mission-points}": "<b>{s:gamemode}: {s:location}</b> – vinn en runde.#|#<b>{s:gamemode}: {s:location}</b> – vinn runder.",
             "quest_11014_var_ingame:p{mission-points}": "Vinn en runde#|#Vinn runder",
             "quest_11015_var_desc:p{mission-points}": "<b>{s:gamemode}: {s:location}</b> – vinn en runde.#|#<b>{s:gamemode}: {s:location}</b> – vinn runder.",
-            "quest_11015_var_ingame:p{mission-points}": "Vinn en runde#|#Vinn runder"
+            "quest_11015_var_ingame:p{mission-points}": "Vinn en runde#|#Vinn runder",
+            "tooltip_viewaddon": "Gå til tilpasset kart i workshopen",
+            "tooltip_kick_player": "Kast spiller ut fra lokal tjener",
+            "tooltip_short_viewaddon": "Vis tilpasset kart",
+            "tooltip_short_kick_player": "Kast ut"
         }
     }
 }

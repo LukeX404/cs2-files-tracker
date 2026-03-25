@@ -30721,7 +30721,6 @@
             "PaintKit_zeus_thunder_god": "Được sơn tùy chỉnh theo hình ảnh thần sấm sét Zeus.\\n\\n<i>Tiếng sấm rền vang…</i>",
             "PaintKit_zeus_thunder_god_Tag": "Olympus",
             "PaintKit_usp_field_snake": "Được sơn tùy chỉnh với hình kìm gỡ bom chắp cánh trên ống ngắm sau và \\\"027\\\" gần chỗ nhả vỏ đạn.\\n\\n<i>Thực địa nhẹ nhàng</i>",
-            "PaintKit_usp_field_snake_Tag": 27,
             "PaintKit_deagle_calligraff": "Thanh trượt của khẩu Desert Eagle này được trang trí với nét bút thư pháp màu sơn bạc.\\n\\n<i>Những thứ này cần thời gian</i>",
             "PaintKit_deagle_calligraff_Tag": "Calligraffiti",
             "PaintKit_mp5_statics_blue": "Được sơn tùy chỉnh với thiết kế hai màu đen và xanh dương.\\n\\n<i>Đen, xanh, đẫm máu</i>",
@@ -31913,8 +31912,8 @@
             "Workshop_created": "Ngày tạo",
             "Workshop_size": "Kích cỡ",
             "Workshop_View": "Xem trên Workshop",
-            "Workshop_Allow": "Cho phép",
-            "Workshop_Deny": "Từ chối",
+            "Workshop_Allow": "Tải xuống",
+            "Workshop_Deny": "Hủy",
             "SFUI_Workshop_Desc_Pw": "Các bản đồ bạn đăng ký trên workshop được liệt kê tại đây. Bạn có thể dùng tính năng chơi nhanh cộng đồng để tìm máy chủ cộng đồng tốt nhất dùng màn chơi.",
             "SFUI_Workshop_Desc_Sp_Pw": "Các bản đồ bạn đăng ký trên workshop được liệt kê tại đây. Bạn có thể thử chúng với bot tại máy của mình.",
             "SFUI_Workshop_Filter_Prompt": "Lọc bản đồ",
@@ -40751,10 +40750,10 @@
             "practicesettings_infammo_button": "Đạn không giới hạn",
             "practicesettings_infwarmup_tooltip": "Khi <b>bật</b>, trận đấu sẽ ở mãi trong chế độ khởi động và không có bot nào gia nhập.",
             "practicesettings_infwarmup_button": "Khởi động không giới hạn",
-            "practicesettings_annotations_tooltip": "Khi <b>bật</b>, hướng dẫn bản đồ được chọn sẽ nạp từ menu thả xuống, và những thiết lập sau đây sẽ bắt buộc bật: khởi động không giới hạn, đạn không giới hạn, và camera khi ném lựu đạn.",
-            "practicesettings_annotations_button": "Sử dụng hướng dẫn bản đồ",
+            "practicesettings_annotations_tooltip": "Khi <b>bật</b>, hướng dẫn bản đồ được chọn (không bắt buộc) sẽ nạp từ menu thả xuống, và những thiết lập sau đây sẽ bắt buộc bật: khởi động không giới hạn, đạn không giới hạn, và camera khi ném lựu đạn.",
+            "practicesettings_annotations_button": "Bật hướng dẫn bản đồ",
             "practicesettings_annotations_workshop_tooltip": "Đến Workshop",
-            "practicesettings_annotations_dropdown_tooltip": "Chỉ định hướng dẫn bản đồ nào sẽ được nạp",
+            "practicesettings_annotations_dropdown_tooltip": "Chỉ định hướng dẫn bản đồ nào sẽ được nạp (nếu có)",
             "PlayMenuReplayNewUserTrainingButton": "Chơi lại huấn luyện",
             "CSGO_VanityLoadout_Inspect": "Kiểm tra",
             "CSGO_VanityLoadout_FindOnMarket": "Tìm trên chợ",
@@ -40776,6 +40775,7 @@
             "Workshop_annotation_ready": "Sẵn sàng tải lên vật phẩm.",
             "UI_File_Filter_SupportedAnnotationFormat": "File văn bản (*.txt)",
             "annotations_visit_workshop": "Đến Workshop ⤤",
+            "annotations_exceed_round_limit": "Không cho phép hướng dẫn bản đồ quá ván {s:rounds} của nửa hiệp",
             "gamemode_casual_desc": "Thoải mái nhảy vào và ra khỏi trận đấu với luật chơi đơn giản. Mua vũ khí mới mỗi ván với số tiền kiếm được và tiêu diệt đội kia hoặc hoàn thành mục tiêu để thắng ván.",
             "gamemode_casual_desclist": "· Sát thương đội TẮT<br>· Va chạm đội TẮT<br>· 50% tiền thưởng giết được<br>· 15 ván thắng 8",
             "gamemode_casual_descsp": "Mua vũ khí mới mỗi ván với số tiền kiếm được. Tiêu diệt đội kia hoặc hoàn thành mục tiêu để thắng ván.",
@@ -42580,7 +42580,11 @@
             "quest_11014_var_ingame:p{mission-points}": "Thắng ván đấu",
             "quest_11015_var_desc:p{mission-points}": "Thắng ván đấu trong <b>{s:gamemode}: {s:location}</b>.",
             "quest_11015_var_partial": "",
-            "quest_11015_var_ingame:p{mission-points}": "Thắng ván đấu"
+            "quest_11015_var_ingame:p{mission-points}": "Thắng ván đấu",
+            "tooltip_viewaddon": "Ghé thăm bản đồ tùy chỉnh trên trang Workshop",
+            "tooltip_kick_player": "Đuổi người chơi khỏi máy chủ cục bộ",
+            "tooltip_short_viewaddon": "Xem bản đồ tùy biến",
+            "tooltip_short_kick_player": "Đuổi"
         }
     }
 }
