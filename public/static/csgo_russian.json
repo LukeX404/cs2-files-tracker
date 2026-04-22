@@ -39560,7 +39560,7 @@
             "user_btn_purchase_title": "{s:offer-count} предложение",
             "user_btn_purchase_final_title": "<b>Финальное предложение</b>",
             "user_btn_decline_desc": "Отклонить это предложение и перейти к другому",
-            "user_btn_accept": "Принять предложение <b>{s:price}</b>",
+            "user_btn_accept": "Взять за <b>{s:price}</b>",
             "user_btn_accept_final": "Принять предложение <b>{s:price}</b>",
             "user_btn_accept_0": "<b>{s:price}</b> подходит.",
             "user_btn_accept_1": "Беру за <b>{s:price}</b>",
