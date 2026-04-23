@@ -39578,7 +39578,7 @@
             "user_btn_next_6": "Не в этот раз",
             "user_btn_next_7": "Не сегодня",
             "user_btn_pause": "Приостановить сделку",
-            "user_btn_end": "Отклонить финальное предложение",
+            "user_btn_end": "Утилизировать терминал",
             "user_message_limit_0": "Мой максимум — <b>{s:limit-setting}</b>.",
             "user_message_limit_1": "Как насчёт потолка в <b>{s:limit-setting}</b>?",
             "user_message_limit_2": "До <b>{s:limit-setting}</b> мне подходит.",

@@ -31480,7 +31480,7 @@
             "CSGO_Demo_Toggle_Overview": "[{s:bind_duck}]: Přehled",
             "CSGO_Demo_Settings_XRay": "Rentgen (lze přepnout pomocí [{s:bind_slot12}])",
             "CSGO_Demo_Settings_TrueView_Explanation": "Technologie TrueView opětovným prováděním predikce na straně klienta rekonstruuje to, co hráč původně viděl. Výsledkem je přesnější napodobení podmínek, které měl server pro registraci zásahů.",
-            "CSGO_Demo_Settings_TrueView_Enable": "Povolit TrueView",
+            "CSGO_Demo_Settings_TrueView_Enable": "Aktivovat TrueView",
             "CSGO_Demo_Settings_TrueViewDOA": "Zahrnout „posmrtné“ akce",
             "CSGO_Demo_Settings_TrueViewDOA_Explanation": "Zajišťuje, že bude opětovně prováděna predikce příkazů (na straně klienta), které nebyly uskutečněny na serveru, jelikož hráč byl v momentě jejich doručení už mrtvý. Zakázáním této možnosti se bude záznam lišit od původního zážitku, ale bude více odpovídat tomu, co se stalo na serveru.",
             "CSGO_Demo_Settings_TrueViewWrongVersion": "Povolit nesoulad verzí",
