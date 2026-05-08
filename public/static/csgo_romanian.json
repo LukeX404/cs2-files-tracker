@@ -39999,6 +39999,8 @@
             "quest_11014_var_ingame:f": "{mission-points, plural, one{Câștigă o rundă} few{Câștigă runde} other{Câștigă runde}}",
             "quest_11015_var_desc:f": "{mission-points, plural, one{Câștigă o rundă în <b>{s:gamemode}: {s:location}</b>.} few{Câștigă runde în <b>{s:gamemode}: {s:location}</b>.} other{Câștigă runde în <b>{s:gamemode}: {s:location}</b>.}}",
             "quest_11015_var_ingame:f": "{mission-points, plural, one{Câștigă o rundă} few{Câștigă runde} other{Câștigă runde}}",
+            "quest_11016_var_desc:f": "{mission-points, plural, one{Câștigă o rundă în <b>{s:gamemode}: {s:location}</b>.} few{Câștigă runde în <b>{s:gamemode}: {s:location}</b>.} other{Câștigă runde în <b>{s:gamemode}: {s:location}</b>.}}",
+            "quest_11016_var_ingame:f": "{mission-points, plural, one{Câștigă o rundă} few{Câștigă runde} other{Câștigă runde}}",
             "tooltip_viewaddon": "Accesează pagina de atelier a hărții personalizate",
             "tooltip_kick_player": "Elimină jucătorul de pe serverul local",
             "tooltip_short_viewaddon": "Vezi harta personalizată",

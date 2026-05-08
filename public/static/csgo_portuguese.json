@@ -40074,6 +40074,8 @@
             "quest_11014_var_ingame:f": "{mission-points, plural, one{Vence uma ronda} other{Vence rondas}}",
             "quest_11015_var_desc:f": "{mission-points, plural, one{Vence uma ronda no modo <b>{s:gamemode} ({s:location})</b>.} other{Vence rondas no modo <b>{s:gamemode} ({s:location})</b>.}}",
             "quest_11015_var_ingame:f": "{mission-points, plural, one{Vence uma ronda} other{Vence rondas}}",
+            "quest_11016_var_desc:f": "{mission-points, plural, one{Vence uma ronda no modo <b>{s:gamemode} ({s:location})</b>.} other{Vence rondas no modo <b>{s:gamemode} ({s:location})</b>.}}",
+            "quest_11016_var_ingame:f": "{mission-points, plural, one{Vence uma ronda} other{Vence rondas}}",
             "tooltip_viewaddon": "Visitar página do mapa no Workshop",
             "tooltip_kick_player": "Expulsar jogador do servidor local",
             "tooltip_short_viewaddon": "Ver mapa não oficial",

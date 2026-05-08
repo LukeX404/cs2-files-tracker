@@ -40442,6 +40442,8 @@
             "quest_11014_var_ingame:f": "{mission-points, plural, one{Vyhrávej kola} few{Vyhrávej kola} many{Vyhrávej kola} other{Vyhrávej kola}}",
             "quest_11015_var_desc:f": "{mission-points, plural, one{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.} few{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.} many{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.} other{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.}}",
             "quest_11015_var_ingame:f": "{mission-points, plural, one{Vyhrávej kola} few{Vyhrávej kola} many{Vyhrávej kola} other{Vyhrávej kola}}",
+            "quest_11016_var_desc:f": "{mission-points, plural, one{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.} few{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.} many{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.} other{<b>{s:gamemode}: {s:location}</b> | Vyhraj určitý počet kol.}}",
+            "quest_11016_var_ingame:f": "{mission-points, plural, one{Vyhrávej kola} few{Vyhrávej kola} many{Vyhrávej kola} other{Vyhrávej kola}}",
             "tooltip_viewaddon": "Přejít na stránku mapy ve workshopu",
             "tooltip_kick_player": "Vyhodit hráče z lokálního serveru",
             "tooltip_short_viewaddon": "Info o mapě",

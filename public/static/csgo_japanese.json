@@ -39422,6 +39422,8 @@
             "quest_11014_var_ingame:f": "ラウンド勝利する",
             "quest_11015_var_desc:f": " <b>{s:gamemode}：{s:location}</b>でラウンド勝利する。",
             "quest_11015_var_ingame:f": "ラウンド勝利する",
+            "quest_11016_var_desc:f": " <b>{s:gamemode}：{s:location}</b>でラウンド勝利する。",
+            "quest_11016_var_ingame:f": "ラウンド勝利する",
             "tooltip_viewaddon": "ワークショップページでカスタムマップを表示する",
             "tooltip_kick_player": "ローカルサーバーからプレイヤーを追放する",
             "tooltip_short_viewaddon": "カスタムマップを表示する",

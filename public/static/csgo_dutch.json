@@ -40433,6 +40433,8 @@
             "quest_11014_var_ingame:f": "{mission-points, plural, one{Win een ronde} other{Win ronden}}",
             "quest_11015_var_desc:f": "{mission-points, plural, one{Win een ronde in <b>{s:gamemode}: {s:location}</b>.} other{Win ronden in <b>{s:gamemode}: {s:location}</b>.}}",
             "quest_11015_var_ingame:f": "{mission-points, plural, one{Win een ronde} other{Win ronden}}",
+            "quest_11016_var_desc:f": "{mission-points, plural, one{Win een ronde in <b>{s:gamemode}: {s:location}</b>.} other{Win ronden in <b>{s:gamemode}: {s:location}</b>.}}",
+            "quest_11016_var_ingame:f": "{mission-points, plural, one{Win een ronde} other{Win ronden}}",
             "tooltip_viewaddon": "Check de aangepaste map in de Workshop",
             "tooltip_kick_player": "Verwijder de speler van de lokale server",
             "tooltip_short_viewaddon": "Bekijk de aangepaste map",
