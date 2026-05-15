@@ -32300,7 +32300,6 @@
             "SFUI_match_cancelled": "Wedstrijd geannuleerd",
             "SFUI_match_abort_match_network_event": "Door een netwerkonderbreking is de wedstrijd geannuleerd.\\nDeze wedstrijd heeft geen invloed op je vaardigheidsbeoordeling.",
             "SFUI_match_abort_match_vac_live": "VAC Live heeft een valsspeler gedetecteerd en heeft de wedstrijd beëindigd.\\nDeze wedstrijd telt niet mee voor je vaardigheidsbeoordeling.",
-            "SFUI_match_abort_match_abnormal_behavior": "VAC heeft onregelmatig spelgedrag gedetecteerd en heeft de wedstrijd geannuleerd.\\nDe speler die door VAC is geïdentificeerd en alle leden in hun groep hebben een afkoelperiode gekregen.",
             "SFUI_match_vac_live_partied_with_cheater": "Deze wedstrijd levert geen voortgang op omdat een speler uit je groep is verbannen.",
             "SFUI_match_abort_match_missing_player": " \u0007De wedstrijd wordt afgebroken omdat een speler nooit is verbonden.",
             "SFUI_match_abort_match_player_abandoned": " \u0007De wedstrijd wordt geannuleerd omdat de verbinding met een van de spelers is verbroken.",

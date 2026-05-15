@@ -31849,7 +31849,6 @@
             "SFUI_match_cancelled": "Mecz anulowany",
             "SFUI_match_abort_match_network_event": "Z powodu zakłoceń w sieci mecz został anulowany.\\nTen mecz nie wpłynie na ocenę twoich umiejętności.",
             "SFUI_match_abort_match_vac_live": "System VAC Live wykrył oszusta i zakończył mecz.\\nTen mecz nie wpłynie na twoją ocenę umiejętności.",
-            "SFUI_match_abort_match_abnormal_behavior": "VAC wykrył nieregularną rozgrywkę i anulował mecz.\\nGracz oznaczony przez VAC oraz jego zespół otrzymali karę czasową.",
             "SFUI_match_vac_live_partied_with_cheater": "Twój postęp dla tego meczu nie zostanie zarejestrowany, ponieważ gracz w Twoim zespole został zablokowany.",
             "SFUI_match_abort_match_missing_player": " \u0007Mecz zostaje anulowany, ponieważ gracz nigdy się nie połączył.",
             "SFUI_match_abort_match_player_abandoned": " \u0007Mecz zostaje anulowany, ponieważ jeden z graczy rozłączył się.",

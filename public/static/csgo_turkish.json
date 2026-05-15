@@ -31872,7 +31872,6 @@
             "SFUI_match_cancelled": "Maç İptal Edildi",
             "SFUI_match_abort_match_network_event": "Bir ağ kesintisi maçın iptal edilmesine neden oldu.\\nBu maç yetenek derecenizi etkilemeyecek.",
             "SFUI_match_abort_match_vac_live": "VAC Live, bir hileci tespit etti ve maçı sonlandırdı.\\nBu maç yetenek dereceni etkilemeyecek.",
-            "SFUI_match_abort_match_abnormal_behavior": "VAC, maçta düzensiz oynanış tespit etti ve maçı iptal etti.\\nVAC tarafından işaretlenen oyuncu ve partisine bekleme süresi verildi.",
             "SFUI_match_vac_live_partied_with_cheater": "Partindeki bir oyuncu yasaklandığı için bu maçtan herhangi bir ilerleme ödülü verilmeyecek.",
             "SFUI_match_abort_match_missing_player": "Bir oyuncu bağlanmadığı için maç iptal ediliyor.",
             "SFUI_match_abort_match_player_abandoned": " \u0007Bir oyuncunun bağlantısı kesildiği için maç iptal ediliyor.",
