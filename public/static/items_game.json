@@ -29607,6 +29607,83 @@
                     }
                 }
             },
+            "5323": {
+                "item_name": "#keychain_kc_cologne2026",
+                "name": "crate_highlights_pack_cologne2026_1",
+                "item_description": "#CSGO_Tournament_Event_Stage_49",
+                "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits",
+                "prefab": "cologne2026_sticker_capsule_prefab volatile_pricing_uniform1",
+                "attributes": {
+                    "set supply crate series": 472,
+                    "volatile container": 2
+                }
+            },
+            "5324": {
+                "item_name": "#keychain_kc_cologne2026",
+                "name": "crate_highlights_pack_cologne2026_2",
+                "item_description": "#CSGO_Tournament_Event_Stage_65",
+                "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits",
+                "prefab": "cologne2026_sticker_capsule_prefab volatile_pricing_uniform1",
+                "attributes": {
+                    "set supply crate series": 473,
+                    "volatile container": 2
+                }
+            },
+            "5325": {
+                "item_name": "#keychain_kc_cologne2026",
+                "name": "crate_highlights_pack_cologne2026_3",
+                "item_description": "#CSGO_Tournament_Event_Stage_83",
+                "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits",
+                "prefab": "cologne2026_sticker_capsule_prefab volatile_pricing_uniform1",
+                "attributes": {
+                    "set supply crate series": 474,
+                    "volatile container": 2
+                }
+            },
+            "5326": {
+                "item_name": "#keychain_kc_cologne2026",
+                "name": "crate_highlights_pack_cologne2026_4",
+                "item_description": "#CSGO_Tournament_Event_Stage_6",
+                "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits",
+                "prefab": "cologne2026_sticker_capsule_prefab volatile_pricing_uniform1",
+                "attributes": {
+                    "set supply crate series": 475,
+                    "volatile container": 2
+                }
+            },
+            "5327": {
+                "item_name": "#keychain_kc_cologne2026",
+                "name": "crate_highlights_pack_cologne2026_5",
+                "item_description": "#CSGO_Tournament_Event_Stage_8",
+                "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits",
+                "prefab": "cologne2026_sticker_capsule_prefab volatile_pricing_uniform1",
+                "attributes": {
+                    "set supply crate series": 476,
+                    "volatile container": 2
+                }
+            },
+            "5328": {
+                "item_name": "#keychain_kc_cologne2026",
+                "name": "crate_highlights_pack_cologne2026_6",
+                "item_description": "#CSGO_Tournament_Event_Stage_97",
+                "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits",
+                "prefab": "cologne2026_sticker_capsule_prefab volatile_pricing_uniform1",
+                "attributes": {
+                    "set supply crate series": 477,
+                    "volatile container": 2
+                }
+            },
+            "5329": {
+                "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
+                "name": "crate_sticker_pack_cologne2026_champion",
+                "item_description": "#CSGO_crate_sticker_pack_cologne2026_all_desc",
+                "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits",
+                "prefab": "cologne2026_sticker_capsule_prefab volatile_pricing_stickercap1",
+                "attributes": {
+                    "set supply crate series": 478,
+                    "volatile container": 2
+                }
+            },
             "5400": {
                 "name": "customplayer_ctm_st6_variantk",
                 "prefab": "customplayertradable",
@@ -140237,6 +140314,206 @@
                 "tournament_event_id": 26,
                 "tournament_team_id": 132,
                 "tournament_player_id": 372579523
+            },
+            "11174": {
+                "name": "cologne2026_signature_niko_champion",
+                "item_name": "#StickerKit_cologne2026_signature_niko_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_niko_champion",
+                "sticker_material": "cologne2026/sig_niko_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 81417650
+            },
+            "11175": {
+                "name": "cologne2026_signature_niko_foil_champion",
+                "item_name": "#StickerKit_cologne2026_signature_niko_foil_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_niko_foil_champion",
+                "sticker_material": "cologne2026/sig_niko_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 81417650
+            },
+            "11176": {
+                "name": "cologne2026_signature_niko_holo_champion",
+                "item_name": "#StickerKit_cologne2026_signature_niko_holo_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_niko_holo_champion",
+                "sticker_material": "cologne2026/sig_niko_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 81417650
+            },
+            "11177": {
+                "name": "cologne2026_signature_niko_gold_champion",
+                "item_name": "#StickerKit_cologne2026_signature_niko_gold_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_niko_gold_champion",
+                "sticker_material": "cologne2026/sig_niko_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 81417650
+            },
+            "11178": {
+                "name": "cologne2026_signature_kyxsan_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyxsan_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyxsan_champion",
+                "sticker_material": "cologne2026/sig_kyxsan_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 97016704
+            },
+            "11179": {
+                "name": "cologne2026_signature_kyxsan_foil_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyxsan_foil_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyxsan_foil_champion",
+                "sticker_material": "cologne2026/sig_kyxsan_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 97016704
+            },
+            "11180": {
+                "name": "cologne2026_signature_kyxsan_holo_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyxsan_holo_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyxsan_holo_champion",
+                "sticker_material": "cologne2026/sig_kyxsan_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 97016704
+            },
+            "11181": {
+                "name": "cologne2026_signature_kyxsan_gold_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyxsan_gold_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyxsan_gold_champion",
+                "sticker_material": "cologne2026/sig_kyxsan_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 97016704
+            },
+            "11182": {
+                "name": "cologne2026_signature_m0nesy_champion",
+                "item_name": "#StickerKit_cologne2026_signature_m0nesy_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_m0nesy_champion",
+                "sticker_material": "cologne2026/sig_m0nesy_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 114497073
+            },
+            "11183": {
+                "name": "cologne2026_signature_m0nesy_foil_champion",
+                "item_name": "#StickerKit_cologne2026_signature_m0nesy_foil_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_m0nesy_foil_champion",
+                "sticker_material": "cologne2026/sig_m0nesy_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 114497073
+            },
+            "11184": {
+                "name": "cologne2026_signature_m0nesy_holo_champion",
+                "item_name": "#StickerKit_cologne2026_signature_m0nesy_holo_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_m0nesy_holo_champion",
+                "sticker_material": "cologne2026/sig_m0nesy_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 114497073
+            },
+            "11185": {
+                "name": "cologne2026_signature_m0nesy_gold_champion",
+                "item_name": "#StickerKit_cologne2026_signature_m0nesy_gold_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_m0nesy_gold_champion",
+                "sticker_material": "cologne2026/sig_m0nesy_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 114497073
+            },
+            "11186": {
+                "name": "cologne2026_signature_teses_champion",
+                "item_name": "#StickerKit_cologne2026_signature_teses_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_teses_champion",
+                "sticker_material": "cologne2026/sig_teses_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 36412550
+            },
+            "11187": {
+                "name": "cologne2026_signature_teses_foil_champion",
+                "item_name": "#StickerKit_cologne2026_signature_teses_foil_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_teses_foil_champion",
+                "sticker_material": "cologne2026/sig_teses_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 36412550
+            },
+            "11188": {
+                "name": "cologne2026_signature_teses_holo_champion",
+                "item_name": "#StickerKit_cologne2026_signature_teses_holo_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_teses_holo_champion",
+                "sticker_material": "cologne2026/sig_teses_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 36412550
+            },
+            "11189": {
+                "name": "cologne2026_signature_teses_gold_champion",
+                "item_name": "#StickerKit_cologne2026_signature_teses_gold_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_teses_gold_champion",
+                "sticker_material": "cologne2026/sig_teses_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 36412550
+            },
+            "11190": {
+                "name": "cologne2026_signature_kyousuke_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyousuke_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyousuke_champion",
+                "sticker_material": "cologne2026/sig_kyousuke_champion",
+                "item_rarity": "rare",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 1071740496
+            },
+            "11191": {
+                "name": "cologne2026_signature_kyousuke_foil_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyousuke_foil_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyousuke_foil_champion",
+                "sticker_material": "cologne2026/sig_kyousuke_champion_foil",
+                "item_rarity": "mythical",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 1071740496
+            },
+            "11192": {
+                "name": "cologne2026_signature_kyousuke_holo_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyousuke_holo_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyousuke_holo_champion",
+                "sticker_material": "cologne2026/sig_kyousuke_champion_holo",
+                "item_rarity": "legendary",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 1071740496
+            },
+            "11193": {
+                "name": "cologne2026_signature_kyousuke_gold_champion",
+                "item_name": "#StickerKit_cologne2026_signature_kyousuke_gold_champion",
+                "description_string": "#StickerKit_desc_cologne2026_signature_kyousuke_gold_champion",
+                "sticker_material": "cologne2026/sig_kyousuke_champion_gold",
+                "item_rarity": "ancient",
+                "tournament_event_id": 26,
+                "tournament_team_id": 139,
+                "tournament_player_id": 1071740496
             }
         },
         "paint_kits": {
@@ -176926,7 +177203,12 @@
                 "[cologne2026_signature_jks]sticker": 1,
                 "[cologne2026_signature_vexite]sticker": 1,
                 "[cologne2026_signature_story]sticker": 1,
-                "[cologne2026_signature_nettik]sticker": 1
+                "[cologne2026_signature_nettik]sticker": 1,
+                "[cologne2026_signature_niko_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_champion]sticker": 1,
+                "[cologne2026_signature_teses_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_champion]sticker": 1
             },
             "crate_signature_pack_cologne2026_group_players_mythical": {
                 "[cologne2026_signature_zywoo_foil]sticker": 1,
@@ -177088,7 +177370,12 @@
                 "[cologne2026_signature_jks_foil]sticker": 1,
                 "[cologne2026_signature_vexite_foil]sticker": 1,
                 "[cologne2026_signature_story_foil]sticker": 1,
-                "[cologne2026_signature_nettik_foil]sticker": 1
+                "[cologne2026_signature_nettik_foil]sticker": 1,
+                "[cologne2026_signature_niko_foil_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_foil_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_foil_champion]sticker": 1,
+                "[cologne2026_signature_teses_foil_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_foil_champion]sticker": 1
             },
             "crate_signature_pack_cologne2026_group_players_legendary": {
                 "[cologne2026_signature_zywoo_holo]sticker": 1,
@@ -177250,7 +177537,12 @@
                 "[cologne2026_signature_jks_holo]sticker": 1,
                 "[cologne2026_signature_vexite_holo]sticker": 1,
                 "[cologne2026_signature_story_holo]sticker": 1,
-                "[cologne2026_signature_nettik_holo]sticker": 1
+                "[cologne2026_signature_nettik_holo]sticker": 1,
+                "[cologne2026_signature_niko_holo_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_holo_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_holo_champion]sticker": 1,
+                "[cologne2026_signature_teses_holo_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_holo_champion]sticker": 1
             },
             "crate_signature_pack_cologne2026_group_players_ancient": {
                 "[cologne2026_signature_zywoo_gold]sticker": 1,
@@ -177412,7 +177704,12 @@
                 "[cologne2026_signature_jks_gold]sticker": 1,
                 "[cologne2026_signature_vexite_gold]sticker": 1,
                 "[cologne2026_signature_story_gold]sticker": 1,
-                "[cologne2026_signature_nettik_gold]sticker": 1
+                "[cologne2026_signature_nettik_gold]sticker": 1,
+                "[cologne2026_signature_niko_gold_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_gold_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_gold_champion]sticker": 1,
+                "[cologne2026_signature_teses_gold_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_gold_champion]sticker": 1
             },
             "crate_signature_pack_cologne2026_group_players": {
                 "contains_stickers_autographed_by_proplayers": 1,
@@ -178210,6 +178507,113 @@
                 "crate_sticker_pack_cologne2026_all_mythical": 1,
                 "crate_sticker_pack_cologne2026_all_legendary": 1,
                 "crate_sticker_pack_cologne2026_all_ancient": 1
+            },
+            "crate_sticker_pack_cologne2026_champion_rare": {
+                "[cologne2026_signature_niko_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_champion]sticker": 1,
+                "[cologne2026_signature_teses_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_champion]sticker": 1
+            },
+            "crate_sticker_pack_cologne2026_champion_mythical": {
+                "[cologne2026_signature_niko_foil_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_foil_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_foil_champion]sticker": 1,
+                "[cologne2026_signature_teses_foil_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_foil_champion]sticker": 1
+            },
+            "crate_sticker_pack_cologne2026_champion_legendary": {
+                "[cologne2026_signature_niko_holo_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_holo_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_holo_champion]sticker": 1,
+                "[cologne2026_signature_teses_holo_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_holo_champion]sticker": 1
+            },
+            "crate_sticker_pack_cologne2026_champion_ancient": {
+                "[cologne2026_signature_niko_gold_champion]sticker": 1,
+                "[cologne2026_signature_kyxsan_gold_champion]sticker": 1,
+                "[cologne2026_signature_m0nesy_gold_champion]sticker": 1,
+                "[cologne2026_signature_teses_gold_champion]sticker": 1,
+                "[cologne2026_signature_kyousuke_gold_champion]sticker": 1
+            },
+            "crate_sticker_pack_cologne2026_champion": {
+                "crate_sticker_pack_cologne2026_champion_rare": 1,
+                "crate_sticker_pack_cologne2026_champion_mythical": 1,
+                "crate_sticker_pack_cologne2026_champion_legendary": 1,
+                "crate_sticker_pack_cologne2026_champion_ancient": 1
+            },
+            "crate_highlights_pack_cologne2026_1": {
+                "[kc_cologne2026_st1ultimatenukejumpkill]keychain": 1,
+                "[kc_cologne2026_st1tabsenmirage1v2clutch]keychain": 1,
+                "[kc_cologne2026_st1koalainfernoace]keychain": 1,
+                "[kc_cologne2026_st1starryancientquadkill]keychain": 1,
+                "[kc_cologne2026_st1asapinfernoace]keychain": 1,
+                "[kc_cologne2026_st1hypexinfernosmokekill]keychain": 1,
+                "[kc_cologne2026_st1suspinferno1v3clutch]keychain": 1,
+                "[kc_cologne2026_st1beastikancientquadkill]keychain": 1,
+                "[kc_cologne2026_st1s1zziinferno1v3clutch]keychain": 1,
+                "[kc_cologne2026_st1magnojezdust21v3clutch]keychain": 1
+            },
+            "crate_highlights_pack_cologne2026_2": {
+                "[kc_cologne2026_st2nertzinfernoace]keychain": 1,
+                "[kc_cologne2026_st2gizmymirageknifekill]keychain": 1,
+                "[kc_cologne2026_st2matysmirageace]keychain": 1,
+                "[kc_cologne2026_st2saffeenuketriplekill]keychain": 1,
+                "[kc_cologne2026_st2gr1ksancient1v3awpclutch]keychain": 1,
+                "[kc_cologne2026_st2kensizordust2acetoadvance]keychain": 1,
+                "[kc_cologne2026_st2s1zzioverpassace]keychain": 1,
+                "[kc_cologne2026_st2venomzeramirage1v3clutch]keychain": 1,
+                "[kc_cologne2026_st2donknuke4kwithonetaps]keychain": 1,
+                "[kc_cologne2026_st2azuwudust2deagleace]keychain": 1
+            },
+            "crate_highlights_pack_cologne2026_3": {
+                "[kc_cologne2026_st3w0nderfuldust22hp1v4clutch]keychain": 1,
+                "[kc_cologne2026_st3sh1rodust24kwith1v2clutch]keychain": 1,
+                "[kc_cologne2026_st3magixxanubismultiweaponace]keychain": 1,
+                "[kc_cologne2026_st3ksceratoinferno1v3clutch]keychain": 1,
+                "[kc_cologne2026_st3yekindarmiragetriplekill]keychain": 1,
+                "[kc_cologne2026_st3zywoooverpassacewith1v3clutch]keychain": 1,
+                "[kc_cologne2026_st3dgtoverpasspistolace]keychain": 1,
+                "[kc_cologne2026_st3woxicdust21v4clutch]keychain": 1,
+                "[kc_cologne2026_st3nikomiragequadkill]keychain": 1,
+                "[kc_cologne2026_st3krabenimirageace]keychain": 1
+            },
+            "crate_highlights_pack_cologne2026_4": {
+                "[kc_cologne2026_qfboombl4nuke1v3clutch]keychain": 1,
+                "[kc_cologne2026_qfsoulflynuke1v2clutch]keychain": 1,
+                "[kc_cologne2026_qfsh1romirageace]keychain": 1,
+                "[kc_cologne2026_qfmagixxmirage1v4clutch]keychain": 1,
+                "[kc_cologne2026_qfdonkdust21v2clutch]keychain": 1,
+                "[kc_cologne2026_qfkyousukeanubis3kills]keychain": 1,
+                "[kc_cologne2026_qfmeziidust2molotovkill]keychain": 1,
+                "[kc_cologne2026_qfyuurihmirage1v4clutch]keychain": 1,
+                "[kc_cologne2026_qfhuasopeekoverpassace]keychain": 1,
+                "[kc_cologne2026_qfmaxdust21v2clutch]keychain": 1
+            },
+            "crate_highlights_pack_cologne2026_5": {
+                "[kc_cologne2026_sfsoulflydust23kills]keychain": 1,
+                "[kc_cologne2026_sfksceratodust2ace]keychain": 1,
+                "[kc_cologne2026_sfyekindardust22kills]keychain": 1,
+                "[kc_cologne2026_sfyekindarnuketriplekill]keychain": 1,
+                "[kc_cologne2026_sfksceratonukequadkill]keychain": 1,
+                "[kc_cologne2026_sfkyousukeanubistriplekill]keychain": 1,
+                "[kc_cologne2026_sfsh1roanubisquadkill]keychain": 1,
+                "[kc_cologne2026_sftesesdust21v2clutch]keychain": 1,
+                "[kc_cologne2026_sfkarriganmirage4kills]keychain": 1,
+                "[kc_cologne2026_sfmagixxmirage4kills]keychain": 1
+            },
+            "crate_highlights_pack_cologne2026_6": {
+                "[kc_cologne2026_gffalconsteamentrance]keychain": 1,
+                "[kc_cologne2026_gffuriateamentrance]keychain": 1,
+                "[kc_cologne2026_gffallenmiragequadkill]keychain": 1,
+                "[kc_cologne2026_gfm0nesyanubis4kills]keychain": 1,
+                "[kc_cologne2026_gfm0nesyanubis3killswith1v2clutch]keychain": 1,
+                "[kc_cologne2026_gfkyousukeinferno4kills]keychain": 1,
+                "[kc_cologne2026_gfkarriganinferno3kills]keychain": 1,
+                "[kc_cologne2026_gfnikoinfernotriplekill]keychain": 1,
+                "[kc_cologne2026_gfkarriganinfernodoublekill]keychain": 1,
+                "[kc_cologne2026_gfm0nesyinfernomajorwinningkill]keychain": 1,
+                "[kc_cologne2026_gffalconstrophyliftingmoment]keychain": 1
             }
         },
         "revolving_loot_lists": {
@@ -178674,7 +179078,14 @@
             "468": "set_community_37",
             "469": "crate_sticker_pack_cologne2026_orgs",
             "470": "crate_signature_pack_cologne2026_group_players",
-            "471": "crate_sticker_pack_cologne2026_all"
+            "471": "crate_sticker_pack_cologne2026_all",
+            "472": "crate_highlights_pack_cologne2026_1",
+            "473": "crate_highlights_pack_cologne2026_2",
+            "474": "crate_highlights_pack_cologne2026_3",
+            "475": "crate_highlights_pack_cologne2026_4",
+            "476": "crate_highlights_pack_cologne2026_5",
+            "477": "crate_highlights_pack_cologne2026_6",
+            "478": "crate_sticker_pack_cologne2026_champion"
         },
         "quest_reward_loot_lists": {
             "1": "set_dust",
@@ -195478,7 +195889,7 @@
                 }
             },
             "12": {
-                "redeemable_goods": "@crate_sticker_pack_cologne2026_all"
+                "redeemable_goods": "@crate_highlights_pack_cologne2026_6"
             }
         },
         "pro_event_results": {
@@ -196350,6 +196761,57 @@
                     "142": 7,
                     "143": 12,
                     "144": 12
+                }
+            },
+            "26": {
+                "place_names": {
+                    "1": "#Place_Name_1st",
+                    "2": "#Place_Name_2nd",
+                    "3": "#Place_Name_3rd-4th",
+                    "4": "#Place_Name_5th-8th",
+                    "5": "#Place_Name_9th-11th",
+                    "6": "#Place_Name_12th-14th",
+                    "7": "#Place_Name_15th-16th",
+                    "8": "#Place_Name_17th-19th",
+                    "9": "#Place_Name_20th-22nd",
+                    "10": "#Place_Name_23rd-24th",
+                    "11": "#Place_Name_25th-27th",
+                    "12": "#Place_Name_28th-30th",
+                    "13": "#Place_Name_31st-32nd"
+                },
+                "team_places": {
+                    "12": 5,
+                    "48": 11,
+                    "59": 4,
+                    "60": 9,
+                    "69": 8,
+                    "74": 8,
+                    "80": 9,
+                    "81": 3,
+                    "85": 2,
+                    "87": 11,
+                    "89": 4,
+                    "95": 12,
+                    "102": 8,
+                    "104": 12,
+                    "106": 6,
+                    "112": 4,
+                    "115": 10,
+                    "119": 6,
+                    "122": 5,
+                    "126": 6,
+                    "127": 11,
+                    "132": 10,
+                    "134": 3,
+                    "135": 7,
+                    "137": 4,
+                    "139": 1,
+                    "140": 9,
+                    "142": 7,
+                    "145": 5,
+                    "146": 13,
+                    "147": 13,
+                    "148": 12
                 }
             }
         },
@@ -221216,6 +221678,372 @@
                         "tag_group_text": "#SFUI_InvTooltip_KeychainCapsuleTag"
                     }
                 }
+            },
+            "85": {
+                "name": "kc_cologne2026_st1ultimatenukejumpkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1ultimatenukejumpkill",
+                "loc_name": "#HighlightReel_cologne2026_st1ultimatenukejumpkill"
+            },
+            "86": {
+                "name": "kc_cologne2026_st1tabsenmirage1v2clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1tabsenmirage1v2clutch",
+                "loc_name": "#HighlightReel_cologne2026_st1tabsenmirage1v2clutch"
+            },
+            "87": {
+                "name": "kc_cologne2026_st1koalainfernoace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1koalainfernoace",
+                "loc_name": "#HighlightReel_cologne2026_st1koalainfernoace"
+            },
+            "88": {
+                "name": "kc_cologne2026_st1starryancientquadkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1starryancientquadkill",
+                "loc_name": "#HighlightReel_cologne2026_st1starryancientquadkill"
+            },
+            "89": {
+                "name": "kc_cologne2026_st1asapinfernoace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1asapinfernoace",
+                "loc_name": "#HighlightReel_cologne2026_st1asapinfernoace"
+            },
+            "90": {
+                "name": "kc_cologne2026_st1hypexinfernosmokekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1hypexinfernosmokekill",
+                "loc_name": "#HighlightReel_cologne2026_st1hypexinfernosmokekill"
+            },
+            "91": {
+                "name": "kc_cologne2026_st1suspinferno1v3clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1suspinferno1v3clutch",
+                "loc_name": "#HighlightReel_cologne2026_st1suspinferno1v3clutch"
+            },
+            "92": {
+                "name": "kc_cologne2026_st1beastikancientquadkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1beastikancientquadkill",
+                "loc_name": "#HighlightReel_cologne2026_st1beastikancientquadkill"
+            },
+            "93": {
+                "name": "kc_cologne2026_st1s1zziinferno1v3clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1s1zziinferno1v3clutch",
+                "loc_name": "#HighlightReel_cologne2026_st1s1zziinferno1v3clutch"
+            },
+            "94": {
+                "name": "kc_cologne2026_st1magnojezdust21v3clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st1magnojezdust21v3clutch",
+                "loc_name": "#HighlightReel_cologne2026_st1magnojezdust21v3clutch"
+            },
+            "95": {
+                "name": "kc_cologne2026_st2nertzinfernoace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2nertzinfernoace",
+                "loc_name": "#HighlightReel_cologne2026_st2nertzinfernoace"
+            },
+            "96": {
+                "name": "kc_cologne2026_st2gizmymirageknifekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2gizmymirageknifekill",
+                "loc_name": "#HighlightReel_cologne2026_st2gizmymirageknifekill"
+            },
+            "97": {
+                "name": "kc_cologne2026_st2matysmirageace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2matysmirageace",
+                "loc_name": "#HighlightReel_cologne2026_st2matysmirageace"
+            },
+            "98": {
+                "name": "kc_cologne2026_st2saffeenuketriplekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2saffeenuketriplekill",
+                "loc_name": "#HighlightReel_cologne2026_st2saffeenuketriplekill"
+            },
+            "99": {
+                "name": "kc_cologne2026_st2gr1ksancient1v3awpclutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2gr1ksancient1v3awpclutch",
+                "loc_name": "#HighlightReel_cologne2026_st2gr1ksancient1v3awpclutch"
+            },
+            "100": {
+                "name": "kc_cologne2026_st2kensizordust2acetoadvance",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2kensizordust2acetoadvance",
+                "loc_name": "#HighlightReel_cologne2026_st2kensizordust2acetoadvance"
+            },
+            "101": {
+                "name": "kc_cologne2026_st2s1zzioverpassace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2s1zzioverpassace",
+                "loc_name": "#HighlightReel_cologne2026_st2s1zzioverpassace"
+            },
+            "102": {
+                "name": "kc_cologne2026_st2venomzeramirage1v3clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2venomzeramirage1v3clutch",
+                "loc_name": "#HighlightReel_cologne2026_st2venomzeramirage1v3clutch"
+            },
+            "103": {
+                "name": "kc_cologne2026_st2donknuke4kwithonetaps",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2donknuke4kwithonetaps",
+                "loc_name": "#HighlightReel_cologne2026_st2donknuke4kwithonetaps"
+            },
+            "104": {
+                "name": "kc_cologne2026_st2azuwudust2deagleace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st2azuwudust2deagleace",
+                "loc_name": "#HighlightReel_cologne2026_st2azuwudust2deagleace"
+            },
+            "105": {
+                "name": "kc_cologne2026_st3w0nderfuldust22hp1v4clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+                "loc_name": "#HighlightReel_cologne2026_st3w0nderfuldust22hp1v4clutch"
+            },
+            "106": {
+                "name": "kc_cologne2026_st3sh1rodust24kwith1v2clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3sh1rodust24kwith1v2clutch",
+                "loc_name": "#HighlightReel_cologne2026_st3sh1rodust24kwith1v2clutch"
+            },
+            "107": {
+                "name": "kc_cologne2026_st3magixxanubismultiweaponace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3magixxanubismultiweaponace",
+                "loc_name": "#HighlightReel_cologne2026_st3magixxanubismultiweaponace"
+            },
+            "108": {
+                "name": "kc_cologne2026_st3ksceratoinferno1v3clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3ksceratoinferno1v3clutch",
+                "loc_name": "#HighlightReel_cologne2026_st3ksceratoinferno1v3clutch"
+            },
+            "109": {
+                "name": "kc_cologne2026_st3yekindarmiragetriplekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3yekindarmiragetriplekill",
+                "loc_name": "#HighlightReel_cologne2026_st3yekindarmiragetriplekill"
+            },
+            "110": {
+                "name": "kc_cologne2026_st3zywoooverpassacewith1v3clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3zywoooverpassacewith1v3clutch",
+                "loc_name": "#HighlightReel_cologne2026_st3zywoooverpassacewith1v3clutch"
+            },
+            "111": {
+                "name": "kc_cologne2026_st3dgtoverpasspistolace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3dgtoverpasspistolace",
+                "loc_name": "#HighlightReel_cologne2026_st3dgtoverpasspistolace"
+            },
+            "112": {
+                "name": "kc_cologne2026_st3woxicdust21v4clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3woxicdust21v4clutch",
+                "loc_name": "#HighlightReel_cologne2026_st3woxicdust21v4clutch"
+            },
+            "113": {
+                "name": "kc_cologne2026_st3nikomiragequadkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3nikomiragequadkill",
+                "loc_name": "#HighlightReel_cologne2026_st3nikomiragequadkill"
+            },
+            "114": {
+                "name": "kc_cologne2026_st3krabenimirageace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_st3krabenimirageace",
+                "loc_name": "#HighlightReel_cologne2026_st3krabenimirageace"
+            },
+            "115": {
+                "name": "kc_cologne2026_qfboombl4nuke1v3clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfboombl4nuke1v3clutch",
+                "loc_name": "#HighlightReel_cologne2026_qfboombl4nuke1v3clutch"
+            },
+            "116": {
+                "name": "kc_cologne2026_qfsoulflynuke1v2clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfsoulflynuke1v2clutch",
+                "loc_name": "#HighlightReel_cologne2026_qfsoulflynuke1v2clutch"
+            },
+            "117": {
+                "name": "kc_cologne2026_qfsh1romirageace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfsh1romirageace",
+                "loc_name": "#HighlightReel_cologne2026_qfsh1romirageace"
+            },
+            "118": {
+                "name": "kc_cologne2026_qfmagixxmirage1v4clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfmagixxmirage1v4clutch",
+                "loc_name": "#HighlightReel_cologne2026_qfmagixxmirage1v4clutch"
+            },
+            "119": {
+                "name": "kc_cologne2026_qfdonkdust21v2clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfdonkdust21v2clutch",
+                "loc_name": "#HighlightReel_cologne2026_qfdonkdust21v2clutch"
+            },
+            "120": {
+                "name": "kc_cologne2026_qfkyousukeanubis3kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfkyousukeanubis3kills",
+                "loc_name": "#HighlightReel_cologne2026_qfkyousukeanubis3kills"
+            },
+            "121": {
+                "name": "kc_cologne2026_qfmeziidust2molotovkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfmeziidust2molotovkill",
+                "loc_name": "#HighlightReel_cologne2026_qfmeziidust2molotovkill"
+            },
+            "122": {
+                "name": "kc_cologne2026_qfyuurihmirage1v4clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfyuurihmirage1v4clutch",
+                "loc_name": "#HighlightReel_cologne2026_qfyuurihmirage1v4clutch"
+            },
+            "123": {
+                "name": "kc_cologne2026_qfhuasopeekoverpassace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfhuasopeekoverpassace",
+                "loc_name": "#HighlightReel_cologne2026_qfhuasopeekoverpassace"
+            },
+            "124": {
+                "name": "kc_cologne2026_qfmaxdust21v2clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_qfmaxdust21v2clutch",
+                "loc_name": "#HighlightReel_cologne2026_qfmaxdust21v2clutch"
+            },
+            "125": {
+                "name": "kc_cologne2026_sfsoulflydust23kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfsoulflydust23kills",
+                "loc_name": "#HighlightReel_cologne2026_sfsoulflydust23kills"
+            },
+            "126": {
+                "name": "kc_cologne2026_sfksceratodust2ace",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfksceratodust2ace",
+                "loc_name": "#HighlightReel_cologne2026_sfksceratodust2ace"
+            },
+            "127": {
+                "name": "kc_cologne2026_sfyekindardust22kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfyekindardust22kills",
+                "loc_name": "#HighlightReel_cologne2026_sfyekindardust22kills"
+            },
+            "128": {
+                "name": "kc_cologne2026_sfyekindarnuketriplekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfyekindarnuketriplekill",
+                "loc_name": "#HighlightReel_cologne2026_sfyekindarnuketriplekill"
+            },
+            "129": {
+                "name": "kc_cologne2026_sfksceratonukequadkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfksceratonukequadkill",
+                "loc_name": "#HighlightReel_cologne2026_sfksceratonukequadkill"
+            },
+            "130": {
+                "name": "kc_cologne2026_sfkyousukeanubistriplekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfkyousukeanubistriplekill",
+                "loc_name": "#HighlightReel_cologne2026_sfkyousukeanubistriplekill"
+            },
+            "131": {
+                "name": "kc_cologne2026_sfsh1roanubisquadkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfsh1roanubisquadkill",
+                "loc_name": "#HighlightReel_cologne2026_sfsh1roanubisquadkill"
+            },
+            "132": {
+                "name": "kc_cologne2026_sftesesdust21v2clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sftesesdust21v2clutch",
+                "loc_name": "#HighlightReel_cologne2026_sftesesdust21v2clutch"
+            },
+            "133": {
+                "name": "kc_cologne2026_sfkarriganmirage4kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfkarriganmirage4kills",
+                "loc_name": "#HighlightReel_cologne2026_sfkarriganmirage4kills"
+            },
+            "134": {
+                "name": "kc_cologne2026_sfmagixxmirage4kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_sfmagixxmirage4kills",
+                "loc_name": "#HighlightReel_cologne2026_sfmagixxmirage4kills"
+            },
+            "135": {
+                "name": "kc_cologne2026_gffalconsteamentrance",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gffalconsteamentrance",
+                "loc_name": "#HighlightReel_cologne2026_gffalconsteamentrance"
+            },
+            "136": {
+                "name": "kc_cologne2026_gffuriateamentrance",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gffuriateamentrance",
+                "loc_name": "#HighlightReel_cologne2026_gffuriateamentrance"
+            },
+            "137": {
+                "name": "kc_cologne2026_gffallenmiragequadkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gffallenmiragequadkill",
+                "loc_name": "#HighlightReel_cologne2026_gffallenmiragequadkill"
+            },
+            "138": {
+                "name": "kc_cologne2026_gfm0nesyanubis4kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gfm0nesyanubis4kills",
+                "loc_name": "#HighlightReel_cologne2026_gfm0nesyanubis4kills"
+            },
+            "139": {
+                "name": "kc_cologne2026_gfm0nesyanubis3killswith1v2clutch",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+                "loc_name": "#HighlightReel_cologne2026_gfm0nesyanubis3killswith1v2clutch"
+            },
+            "140": {
+                "name": "kc_cologne2026_gfkyousukeinferno4kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gfkyousukeinferno4kills",
+                "loc_name": "#HighlightReel_cologne2026_gfkyousukeinferno4kills"
+            },
+            "141": {
+                "name": "kc_cologne2026_gfkarriganinferno3kills",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gfkarriganinferno3kills",
+                "loc_name": "#HighlightReel_cologne2026_gfkarriganinferno3kills"
+            },
+            "142": {
+                "name": "kc_cologne2026_gfnikoinfernotriplekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gfnikoinfernotriplekill",
+                "loc_name": "#HighlightReel_cologne2026_gfnikoinfernotriplekill"
+            },
+            "143": {
+                "name": "kc_cologne2026_gfkarriganinfernodoublekill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gfkarriganinfernodoublekill",
+                "loc_name": "#HighlightReel_cologne2026_gfkarriganinfernodoublekill"
+            },
+            "144": {
+                "name": "kc_cologne2026_gfm0nesyinfernomajorwinningkill",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gfm0nesyinfernomajorwinningkill",
+                "loc_name": "#HighlightReel_cologne2026_gfm0nesyinfernomajorwinningkill"
+            },
+            "145": {
+                "name": "kc_cologne2026_gffalconstrophyliftingmoment",
+                "base": "kc_cologne2026",
+                "highlight_reel": "cologne2026_gffalconstrophyliftingmoment",
+                "loc_name": "#HighlightReel_cologne2026_gffalconstrophyliftingmoment"
             }
         },
         "highlight_reels": {
@@ -228138,6 +228966,494 @@
                 "map": "de_overpass",
                 "tournament event team0 id": 61,
                 "tournament event team1 id": 89
+            },
+            "866": {
+                "id": "cologne2026_st1ultimatenukejumpkill",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_nuke",
+                "tournament event team0 id": 48,
+                "tournament event team1 id": 69
+            },
+            "867": {
+                "id": "cologne2026_st1tabsenmirage1v2clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_mirage",
+                "tournament event team0 id": 69,
+                "tournament event team1 id": 87
+            },
+            "868": {
+                "id": "cologne2026_st1koalainfernoace",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_inferno",
+                "tournament event team0 id": 74,
+                "tournament event team1 id": 104
+            },
+            "869": {
+                "id": "cologne2026_st1starryancientquadkill",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_ancient",
+                "tournament event team0 id": 74,
+                "tournament event team1 id": 127
+            },
+            "870": {
+                "id": "cologne2026_st1asapinfernoace",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_inferno",
+                "tournament event team0 id": 80,
+                "tournament event team1 id": 148
+            },
+            "871": {
+                "id": "cologne2026_st1hypexinfernosmokekill",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_inferno",
+                "tournament event team0 id": 87,
+                "tournament event team1 id": 115
+            },
+            "872": {
+                "id": "cologne2026_st1suspinferno1v3clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_inferno",
+                "tournament event team0 id": 95,
+                "tournament event team1 id": 146
+            },
+            "873": {
+                "id": "cologne2026_st1beastikancientquadkill",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_ancient",
+                "tournament event team0 id": 132,
+                "tournament event team1 id": 147
+            },
+            "874": {
+                "id": "cologne2026_st1s1zziinferno1v3clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_inferno",
+                "tournament event team0 id": 135,
+                "tournament event team1 id": 140
+            },
+            "875": {
+                "id": "cologne2026_st1magnojezdust21v3clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 49,
+                "map": "de_dust2",
+                "tournament event team0 id": 137,
+                "tournament event team1 id": 146
+            },
+            "876": {
+                "id": "cologne2026_st2nertzinfernoace",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_inferno",
+                "tournament event team0 id": 59,
+                "tournament event team1 id": 69
+            },
+            "877": {
+                "id": "cologne2026_st2gizmymirageknifekill",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_mirage",
+                "tournament event team0 id": 59,
+                "tournament event team1 id": 119
+            },
+            "878": {
+                "id": "cologne2026_st2matysmirageace",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_mirage",
+                "tournament event team0 id": 59,
+                "tournament event team1 id": 140
+            },
+            "879": {
+                "id": "cologne2026_st2saffeenuketriplekill",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_nuke",
+                "tournament event team0 id": 60,
+                "tournament event team1 id": 102
+            },
+            "880": {
+                "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_ancient",
+                "tournament event team0 id": 69,
+                "tournament event team1 id": 135
+            },
+            "881": {
+                "id": "cologne2026_st2kensizordust2acetoadvance",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_dust2",
+                "tournament event team0 id": 69,
+                "tournament event team1 id": 135
+            },
+            "882": {
+                "id": "cologne2026_st2s1zzioverpassace",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_overpass",
+                "tournament event team0 id": 69,
+                "tournament event team1 id": 135
+            },
+            "883": {
+                "id": "cologne2026_st2venomzeramirage1v3clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_mirage",
+                "tournament event team0 id": 80,
+                "tournament event team1 id": 135
+            },
+            "884": {
+                "id": "cologne2026_st2donknuke4kwithonetaps",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_nuke",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 112
+            },
+            "885": {
+                "id": "cologne2026_st2azuwudust2deagleace",
+                "tournament event id": 26,
+                "tournament event stage id": 65,
+                "map": "de_dust2",
+                "tournament event team0 id": 102,
+                "tournament event team1 id": 119
+            },
+            "886": {
+                "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_dust2",
+                "tournament event team0 id": 12,
+                "tournament event team1 id": 59
+            },
+            "887": {
+                "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 112
+            },
+            "888": {
+                "id": "cologne2026_st3magixxanubismultiweaponace",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_anubis",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 134
+            },
+            "889": {
+                "id": "cologne2026_st3ksceratoinferno1v3clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 135
+            },
+            "890": {
+                "id": "cologne2026_st3yekindarmiragetriplekill",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_mirage",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 135
+            },
+            "891": {
+                "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_overpass",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 145
+            },
+            "892": {
+                "id": "cologne2026_st3dgtoverpasspistolace",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_overpass",
+                "tournament event team0 id": 112,
+                "tournament event team1 id": 122
+            },
+            "893": {
+                "id": "cologne2026_st3woxicdust21v4clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_dust2",
+                "tournament event team0 id": 112,
+                "tournament event team1 id": 134
+            },
+            "894": {
+                "id": "cologne2026_st3nikomiragequadkill",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_mirage",
+                "tournament event team0 id": 119,
+                "tournament event team1 id": 139
+            },
+            "895": {
+                "id": "cologne2026_st3krabenimirageace",
+                "tournament event id": 26,
+                "tournament event stage id": 83,
+                "map": "de_mirage",
+                "tournament event team0 id": 137,
+                "tournament event team1 id": 145
+            },
+            "896": {
+                "id": "cologne2026_qfboombl4nuke1v3clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 134,
+                "tournament event team1 id": 137
+            },
+            "897": {
+                "id": "cologne2026_qfsoulflynuke1v2clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_nuke",
+                "tournament event team0 id": 134,
+                "tournament event team1 id": 137
+            },
+            "898": {
+                "id": "cologne2026_qfsh1romirageace",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_mirage",
+                "tournament event team0 id": 59,
+                "tournament event team1 id": 81
+            },
+            "899": {
+                "id": "cologne2026_qfmagixxmirage1v4clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_mirage",
+                "tournament event team0 id": 59,
+                "tournament event team1 id": 81
+            },
+            "900": {
+                "id": "cologne2026_qfdonkdust21v2clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 59,
+                "tournament event team1 id": 81
+            },
+            "901": {
+                "id": "cologne2026_qfkyousukeanubis3kills",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_anubis",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 139
+            },
+            "902": {
+                "id": "cologne2026_qfmeziidust2molotovkill",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 89,
+                "tournament event team1 id": 139
+            },
+            "903": {
+                "id": "cologne2026_qfyuurihmirage1v4clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_mirage",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 112
+            },
+            "904": {
+                "id": "cologne2026_qfhuasopeekoverpassace",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_overpass",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 112
+            },
+            "905": {
+                "id": "cologne2026_qfmaxdust21v2clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 6,
+                "map": "de_dust2",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 112
+            },
+            "906": {
+                "id": "cologne2026_sfsoulflydust23kills",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_dust2",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 134
+            },
+            "907": {
+                "id": "cologne2026_sfksceratodust2ace",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_dust2",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 134
+            },
+            "908": {
+                "id": "cologne2026_sfyekindardust22kills",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_dust2",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 134
+            },
+            "909": {
+                "id": "cologne2026_sfyekindarnuketriplekill",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 134
+            },
+            "910": {
+                "id": "cologne2026_sfksceratonukequadkill",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_nuke",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 134
+            },
+            "911": {
+                "id": "cologne2026_sfkyousukeanubistriplekill",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_anubis",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "912": {
+                "id": "cologne2026_sfsh1roanubisquadkill",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_anubis",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "913": {
+                "id": "cologne2026_sftesesdust21v2clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_dust2",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "914": {
+                "id": "cologne2026_sfkarriganmirage4kills",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "915": {
+                "id": "cologne2026_sfmagixxmirage4kills",
+                "tournament event id": 26,
+                "tournament event stage id": 8,
+                "map": "de_mirage",
+                "tournament event team0 id": 81,
+                "tournament event team1 id": 139
+            },
+            "916": {
+                "id": "cologne2026_gffalconsteamentrance",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_mirage",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "917": {
+                "id": "cologne2026_gffuriateamentrance",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_mirage",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "918": {
+                "id": "cologne2026_gffallenmiragequadkill",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_mirage",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "919": {
+                "id": "cologne2026_gfm0nesyanubis4kills",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "920": {
+                "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_anubis",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "921": {
+                "id": "cologne2026_gfkyousukeinferno4kills",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "922": {
+                "id": "cologne2026_gfkarriganinferno3kills",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "923": {
+                "id": "cologne2026_gfnikoinfernotriplekill",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "924": {
+                "id": "cologne2026_gfkarriganinfernodoublekill",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "925": {
+                "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
+            },
+            "926": {
+                "id": "cologne2026_gffalconstrophyliftingmoment",
+                "tournament event id": 26,
+                "tournament event stage id": 97,
+                "map": "de_inferno",
+                "tournament event team0 id": 85,
+                "tournament event team1 id": 139
             }
         }
     }
