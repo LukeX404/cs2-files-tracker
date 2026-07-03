@@ -4788,6 +4788,9 @@
             "coupon_warhammer_xenos_capsule_prefab": {
                 "prefab": "coupon_prefab"
             },
+            "coupon_jackass_capsule_prefab": {
+                "prefab": "coupon_prefab"
+            },
             "coupon_masterminds2_capsule_prefab": {
                 "prefab": "coupon_prefab"
             },
@@ -31359,6 +31362,35 @@
                 "loot_list_name": "coupon loot list - shockone_01",
                 "prefab": "coupon_prefab",
                 "image_inventory": "econ/music_kits/shockone_01"
+            },
+            "7041": {
+                "name": "crate_sticker_pack_jackass_capsule",
+                "item_name": "CSGO_crate_sticker_pack_jackass_capsule",
+                "item_description": "CSGO_crate_sticker_pack_jackass_capsule_desc",
+                "image_inventory": "econ/weapon_cases/crate_sticker_pack_jackass_capsule",
+                "first_sale_date": "2026-07-03",
+                "prefab": "sticker_capsule",
+                "attributes": {
+                    "set supply crate series": {
+                        "attribute_class": "supply_crate_series",
+                        "value": 479
+                    }
+                },
+                "tags": {
+                    "StickerCapsule": {
+                        "tag_value": "crate_sticker_pack_jackass_capsule_lootlist",
+                        "tag_text": "#CSGO_crate_sticker_pack_jackass_capsule",
+                        "tag_group": "StickerCapsule",
+                        "tag_group_text": "#SFUI_InvTooltip_StickerCapsuleTag"
+                    }
+                }
+            },
+            "7042": {
+                "name": "coupon - jackass_sticker_capsule",
+                "item_name": "#coupon_jackass_sticker_capsule",
+                "item_description": "#coupon_desc",
+                "loot_list_name": "coupon loot list - jackass_sticker_capsule",
+                "prefab": "coupon_jackass_capsule_prefab"
             },
             "20000": {
                 "name": "coupon - bossyburger",
@@ -140514,6 +140546,279 @@
                 "tournament_event_id": 26,
                 "tournament_team_id": 139,
                 "tournament_player_id": 1071740496
+            },
+            "11196": {
+                "name": "paper_airhorn",
+                "item_name": "StickerKit_jackass_paper_airhorn",
+                "description_string": "StickerKit_desc_jackass_paper_airhorn",
+                "sticker_material": "community/jackass/paper_airhorn",
+                "item_rarity": "rare"
+            },
+            "11197": {
+                "name": "paper_assterisk",
+                "item_name": "StickerKit_jackass_paper_assterisk",
+                "description_string": "StickerKit_desc_jackass_paper_assterisk",
+                "sticker_material": "community/jackass/paper_assterisk",
+                "item_rarity": "rare"
+            },
+            "11198": {
+                "name": "paper_big_red_rocket",
+                "item_name": "StickerKit_jackass_paper_big_red_rocket",
+                "description_string": "StickerKit_desc_jackass_paper_big_red_rocket",
+                "sticker_material": "community/jackass/paper_big_red_rocket",
+                "item_rarity": "rare"
+            },
+            "11199": {
+                "name": "paper_boner_snap",
+                "item_name": "StickerKit_jackass_paper_boner_snap",
+                "description_string": "StickerKit_desc_jackass_paper_boner_snap",
+                "sticker_material": "community/jackass/paper_boner_snap",
+                "item_rarity": "rare"
+            },
+            "11200": {
+                "name": "paper_censored",
+                "item_name": "StickerKit_jackass_paper_censored",
+                "description_string": "StickerKit_desc_jackass_paper_censored",
+                "sticker_material": "community/jackass/paper_censored",
+                "item_rarity": "rare"
+            },
+            "11201": {
+                "name": "paper_explosives",
+                "item_name": "StickerKit_jackass_paper_explosives",
+                "description_string": "StickerKit_desc_jackass_paper_explosives",
+                "sticker_material": "community/jackass/paper_explosives",
+                "item_rarity": "rare"
+            },
+            "11202": {
+                "name": "paper_golf_cart",
+                "item_name": "StickerKit_jackass_paper_golf_cart",
+                "description_string": "StickerKit_desc_jackass_paper_golf_cart",
+                "sticker_material": "community/jackass/paper_golf_cart",
+                "item_rarity": "rare"
+            },
+            "11203": {
+                "name": "paper_leave_a_mark",
+                "item_name": "StickerKit_jackass_paper_leave_a_mark",
+                "description_string": "StickerKit_desc_jackass_paper_leave_a_mark",
+                "sticker_material": "community/jackass/paper_leave_a_mark",
+                "item_rarity": "rare"
+            },
+            "11204": {
+                "name": "paper_head_in_hands",
+                "item_name": "StickerKit_jackass_paper_head_in_hands",
+                "description_string": "StickerKit_desc_jackass_paper_head_in_hands",
+                "sticker_material": "community/jackass/paper_head_in_hands",
+                "item_rarity": "rare"
+            },
+            "11205": {
+                "name": "paper_high_five",
+                "item_name": "StickerKit_jackass_paper_high_five",
+                "description_string": "StickerKit_desc_jackass_paper_high_five",
+                "sticker_material": "community/jackass/paper_high_five",
+                "item_rarity": "rare"
+            },
+            "11206": {
+                "name": "paper_jackass",
+                "item_name": "StickerKit_jackass_paper_jackass",
+                "description_string": "StickerKit_desc_jackass_paper_jackass",
+                "sticker_material": "community/jackass/paper_jackass",
+                "item_rarity": "rare"
+            },
+            "11207": {
+                "name": "paper_partyboy",
+                "item_name": "StickerKit_jackass_paper_partyboy",
+                "description_string": "StickerKit_desc_jackass_paper_partyboy",
+                "sticker_material": "community/jackass/paper_partyboy",
+                "item_rarity": "rare"
+            },
+            "11208": {
+                "name": "paper_radiograph",
+                "item_name": "StickerKit_jackass_paper_radiograph",
+                "description_string": "StickerKit_desc_jackass_paper_radiograph",
+                "sticker_material": "community/jackass/paper_radiograph",
+                "item_rarity": "rare"
+            },
+            "11209": {
+                "name": "paper_rocket_skates",
+                "item_name": "StickerKit_jackass_paper_rocket_skates",
+                "description_string": "StickerKit_desc_jackass_paper_rocket_skates",
+                "sticker_material": "community/jackass/paper_rocket_skates",
+                "item_rarity": "rare"
+            },
+            "11210": {
+                "name": "paper_skull_bunny",
+                "item_name": "StickerKit_jackass_paper_skull_bunny",
+                "description_string": "StickerKit_desc_jackass_paper_skull_bunny",
+                "sticker_material": "community/jackass/paper_skull_bunny",
+                "item_rarity": "rare"
+            },
+            "11211": {
+                "name": "paper_bull",
+                "item_name": "StickerKit_jackass_paper_bull",
+                "description_string": "StickerKit_desc_jackass_paper_bull",
+                "sticker_material": "community/jackass/paper_bull",
+                "item_rarity": "rare"
+            },
+            "11212": {
+                "name": "paper_warning",
+                "item_name": "StickerKit_jackass_paper_warning",
+                "description_string": "StickerKit_desc_jackass_paper_warning",
+                "sticker_material": "community/jackass/paper_warning",
+                "item_rarity": "rare"
+            },
+            "11213": {
+                "name": "paper_zzzap",
+                "item_name": "StickerKit_jackass_paper_zzzap",
+                "description_string": "StickerKit_desc_jackass_paper_zzzap",
+                "sticker_material": "community/jackass/paper_zzzap",
+                "item_rarity": "rare"
+            },
+            "11214": {
+                "name": "glitter_airhorn",
+                "item_name": "StickerKit_jackass_glitter_airhorn",
+                "description_string": "StickerKit_desc_jackass_glitter_airhorn",
+                "sticker_material": "community/jackass/glitter_airhorn",
+                "item_rarity": "mythical"
+            },
+            "11215": {
+                "name": "glitter_assterisk",
+                "item_name": "StickerKit_jackass_glitter_assterisk",
+                "description_string": "StickerKit_desc_jackass_glitter_assterisk",
+                "sticker_material": "community/jackass/glitter_assterisk",
+                "item_rarity": "mythical"
+            },
+            "11216": {
+                "name": "glitter_big_red_rocket",
+                "item_name": "StickerKit_jackass_glitter_big_red_rocket",
+                "description_string": "StickerKit_desc_jackass_glitter_big_red_rocket",
+                "sticker_material": "community/jackass/glitter_big_red_rocket",
+                "item_rarity": "mythical"
+            },
+            "11217": {
+                "name": "glitter_head_in_hands",
+                "item_name": "StickerKit_jackass_glitter_head_in_hands",
+                "description_string": "StickerKit_desc_jackass_glitter_head_in_hands",
+                "sticker_material": "community/jackass/glitter_head_in_hands",
+                "item_rarity": "mythical"
+            },
+            "11218": {
+                "name": "glitter_high_five",
+                "item_name": "StickerKit_jackass_glitter_high_five",
+                "description_string": "StickerKit_desc_jackass_glitter_high_five",
+                "sticker_material": "community/jackass/glitter_high_five",
+                "item_rarity": "mythical"
+            },
+            "11219": {
+                "name": "glitter_skull_bunny",
+                "item_name": "StickerKit_jackass_glitter_skull_bunny",
+                "description_string": "StickerKit_desc_jackass_glitter_skull_bunny",
+                "sticker_material": "community/jackass/glitter_skull_bunny",
+                "item_rarity": "mythical"
+            },
+            "11220": {
+                "name": "glitter_bull",
+                "item_name": "StickerKit_jackass_glitter_bull",
+                "description_string": "StickerKit_desc_jackass_glitter_bull",
+                "sticker_material": "community/jackass/glitter_bull",
+                "item_rarity": "mythical"
+            },
+            "11221": {
+                "name": "holo_boner_snap",
+                "item_name": "StickerKit_jackass_holo_boner_snap",
+                "description_string": "StickerKit_desc_jackass_holo_boner_snap",
+                "sticker_material": "community/jackass/holo_boner_snap",
+                "item_rarity": "mythical"
+            },
+            "11222": {
+                "name": "holo_jackass",
+                "item_name": "StickerKit_jackass_holo_jackass",
+                "description_string": "StickerKit_desc_jackass_holo_jackass",
+                "sticker_material": "community/jackass/holo_jackass",
+                "item_rarity": "mythical"
+            },
+            "11223": {
+                "name": "holo_leave_a_mark",
+                "item_name": "StickerKit_jackass_holo_leave_a_mark",
+                "description_string": "StickerKit_desc_jackass_holo_leave_a_mark",
+                "sticker_material": "community/jackass/holo_leave_a_mark",
+                "item_rarity": "mythical"
+            },
+            "11224": {
+                "name": "lenticular_partyboy",
+                "item_name": "StickerKit_jackass_lenticular_partyboy",
+                "description_string": "StickerKit_desc_jackass_lenticular_partyboy",
+                "sticker_material": "community/jackass/lenticular_partyboy",
+                "item_rarity": "ancient"
+            },
+            "11225": {
+                "name": "holo_radiograph",
+                "item_name": "StickerKit_jackass_holo_radiograph",
+                "description_string": "StickerKit_desc_jackass_holo_radiograph",
+                "sticker_material": "community/jackass/holo_radiograph",
+                "item_rarity": "mythical"
+            },
+            "11226": {
+                "name": "holo_rocket_skates",
+                "item_name": "StickerKit_jackass_holo_rocket_skates",
+                "description_string": "StickerKit_desc_jackass_holo_rocket_skates",
+                "sticker_material": "community/jackass/holo_rocket_skates",
+                "item_rarity": "mythical"
+            },
+            "11227": {
+                "name": "holo_zzzap",
+                "item_name": "StickerKit_jackass_holo_zzzap",
+                "description_string": "StickerKit_desc_jackass_holo_zzzap",
+                "sticker_material": "community/jackass/holo_zzzap",
+                "item_rarity": "mythical"
+            },
+            "11228": {
+                "name": "foil_assterisk",
+                "item_name": "StickerKit_jackass_foil_assterisk",
+                "description_string": "StickerKit_desc_jackass_foil_radiograph",
+                "sticker_material": "community/jackass/foil_assterisk",
+                "item_rarity": "legendary"
+            },
+            "11229": {
+                "name": "foil_censored",
+                "item_name": "StickerKit_jackass_foil_censored",
+                "description_string": "StickerKit_desc_jackass_foil_censored",
+                "sticker_material": "community/jackass/foil_censored",
+                "item_rarity": "legendary"
+            },
+            "11230": {
+                "name": "foil_explosives",
+                "item_name": "StickerKit_jackass_foil_explosives",
+                "description_string": "StickerKit_desc_jackass_foil_explosives",
+                "sticker_material": "community/jackass/foil_explosives",
+                "item_rarity": "legendary"
+            },
+            "11231": {
+                "name": "foil_radiograph",
+                "item_name": "StickerKit_jackass_foil_radiograph",
+                "description_string": "StickerKit_desc_jackass_foil_radiograph",
+                "sticker_material": "community/jackass/foil_radiograph",
+                "item_rarity": "legendary"
+            },
+            "11232": {
+                "name": "foil_warning",
+                "item_name": "StickerKit_jackass_foil_warning",
+                "description_string": "StickerKit_desc_jackass_foil_warning",
+                "sticker_material": "community/jackass/foil_warning",
+                "item_rarity": "legendary"
+            },
+            "11233": {
+                "name": "lenticular_electric_avenue",
+                "item_name": "StickerKit_jackass_lenticular_electric_avenue",
+                "description_string": "StickerKit_desc_jackass_lenticular_electric_avenue",
+                "sticker_material": "community/jackass/lenticular_electric_avenue",
+                "item_rarity": "ancient"
+            },
+            "11234": {
+                "name": "lenticular_poo_cocktail",
+                "item_name": "StickerKit_jackass_lenticular_poo_cocktail",
+                "description_string": "StickerKit_desc_jackass_lenticular_poo_cocktail",
+                "sticker_material": "community/jackass/lenticular_poo_cocktail",
+                "item_rarity": "ancient"
             }
         },
         "paint_kits": {
@@ -174184,6 +174489,67 @@
                 "public_list_contents": 1,
                 "crate_sticker_pack_warhammer_xenos_capsule": 1
             },
+            "crate_sticker_pack_jackass_capsule_rare": {
+                "limit_description_to_number_rnd": 1,
+                "[paper_airhorn]sticker": 1,
+                "[paper_assterisk]sticker": 1,
+                "[paper_big_red_rocket]sticker": 1,
+                "[paper_boner_snap]sticker": 1,
+                "[paper_censored]sticker": 1,
+                "[paper_explosives]sticker": 1,
+                "[paper_golf_cart]sticker": 1,
+                "[paper_leave_a_mark]sticker": 1,
+                "[paper_head_in_hands]sticker": 1,
+                "[paper_high_five]sticker": 1,
+                "[paper_jackass]sticker": 1,
+                "[paper_partyboy]sticker": 1,
+                "[paper_radiograph]sticker": 1,
+                "[paper_rocket_skates]sticker": 1,
+                "[paper_skull_bunny]sticker": 1,
+                "[paper_bull]sticker": 1,
+                "[paper_warning]sticker": 1,
+                "[paper_zzzap]sticker": 1
+            },
+            "crate_sticker_pack_jackass_capsule_mythical": {
+                "limit_description_to_number_rnd": 1,
+                "[glitter_airhorn]sticker": 1,
+                "[glitter_assterisk]sticker": 1,
+                "[glitter_big_red_rocket]sticker": 1,
+                "[glitter_head_in_hands]sticker": 1,
+                "[glitter_high_five]sticker": 1,
+                "[glitter_skull_bunny]sticker": 1,
+                "[glitter_bull]sticker": 1,
+                "[holo_boner_snap]sticker": 1,
+                "[holo_jackass]sticker": 1,
+                "[holo_leave_a_mark]sticker": 1,
+                "[holo_radiograph]sticker": 1,
+                "[holo_rocket_skates]sticker": 1,
+                "[holo_zzzap]sticker": 1
+            },
+            "crate_sticker_pack_jackass_capsule_legendary": {
+                "limit_description_to_number_rnd": 1,
+                "[foil_assterisk]sticker": 1,
+                "[foil_censored]sticker": 1,
+                "[foil_explosives]sticker": 1,
+                "[foil_radiograph]sticker": 1,
+                "[foil_warning]sticker": 1
+            },
+            "crate_sticker_pack_jackass_capsule_ancient": {
+                "limit_description_to_number_rnd": 1,
+                "[lenticular_electric_avenue]sticker": 1,
+                "[lenticular_partyboy]sticker": 1,
+                "[lenticular_poo_cocktail]sticker": 1
+            },
+            "crate_sticker_pack_jackass_capsule_lootlist": {
+                "crate_sticker_pack_jackass_capsule_rare": 1,
+                "crate_sticker_pack_jackass_capsule_mythical": 1,
+                "crate_sticker_pack_jackass_capsule_legendary": 1,
+                "crate_sticker_pack_jackass_capsule_ancient": 1
+            },
+            "coupon loot list - jackass_sticker_capsule": {
+                "public_list_contents": 1,
+                "crate_sticker_pack_jackass_capsule": 1
+            },
             "crate_community_33_rare": {
                 "[dual_berettas_lethal_grin]weapon_elite": 1,
                 "[mac10_illusion]weapon_mac10": 1,
@@ -179085,7 +179451,8 @@
             "475": "crate_highlights_pack_cologne2026_4",
             "476": "crate_highlights_pack_cologne2026_5",
             "477": "crate_highlights_pack_cologne2026_6",
-            "478": "crate_sticker_pack_cologne2026_champion"
+            "478": "crate_sticker_pack_cologne2026_champion",
+            "479": "crate_sticker_pack_jackass_capsule_lootlist"
         },
         "quest_reward_loot_lists": {
             "1": "set_dust",
