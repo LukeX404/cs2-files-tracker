@@ -33696,6 +33696,7 @@
             "xpshop_upsell_mainmenu_1": "A Fegyvertárbelépő",
             "xpshop_upsell_mainmenu_2": "Szerezz hozzáférést 3 új fegyvergyűjteményhez, talizmánokhoz, a Galéria Ládához és egyebekhez.",
             "xpshop_upsell_mainmenu_2_v2": "Szerezz hozzáférést az új Train Gyűjteményhez, a Láz Ládához, talizmánokhoz és egyebekhez.",
+            "xpshop_upsell_mainmenu_2_v3": "Szerezz hozzáférést az új Arabeszk és Kémkedés-technika Gyűjteményhez, a Láz Ládához és egyebekhez.",
             "xpshop_upsell_btn": "Belépő beszerzése",
             "xpshop_upsell_tooltip": "További információ a(z) {s:pass} belépőről",
             "xpshop_new_items:f": "{new-count, plural, one{Új tárgy!} other{Új tárgyak!}}",
