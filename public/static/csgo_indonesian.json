@@ -15,6 +15,7 @@
             "GameUI_FriendlyWarning": "Peringatan Friendly Fire pada Crosshair",
             "GameUI_FriendlyWarning_Desc": "Tampilkan peringatan pada garis bidik saat membidik teman.",
             "GameUI_CrosshairStyle4": "Silang Statis",
+            "GameUI_CrosshairStyle5": "Silang Dinamis (Orisinal/Umpan Balik Tembakan)",
             "GameUI_CrosshairStyle4_Tooltip": "Silang Statis",
             "GameUI_CrosshairStyle_Friendly": "Peringatan Friendly Fire",
             "GameUI_CrosshairFriendlyWarning_Off": "Selalu Mati",
